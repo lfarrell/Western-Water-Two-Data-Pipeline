@@ -1,0 +1,14 @@
+{
+    "name": "western-water-data-pipeline",
+    "version": "1.0.0",
+    "description": "Pipeline to build data files needed by the Western Water app",
+    "author": "lfarrell <farrelldlfarrell@gmail.com>",
+    "private": true,
+
+    "dependencies": {
+        "csv": "^1.1.1",
+        "d3": "^4.9.1",
+        "lodash": "^3.10.1",
+        "ramda": "^0.22.1"
+    }
+}

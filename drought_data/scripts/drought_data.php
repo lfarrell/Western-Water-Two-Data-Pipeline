@@ -1,0 +1,118 @@
+<?php
+date_default_timezone_set('America/New_York');
+
+$states = array(
+    'AZ'=>'Arizona',
+    'CA'=>'California',
+    'CO'=>'Colorado',
+    'ID'=>'Idaho',
+    'MT'=>'Montana',
+    'NV'=>'Nevada',
+    'NM'=>'New Mexico',
+    'OR'=>'Oregon',
+    'TX'=>'Texas',
+    'UT'=>'Utah',
+    'WA'=>'Washington',
+    'WY'=>'Wyoming',
+);
+/*
+$types = ['us', 'state', 'county'];
+$week = 0;
+$download_date = '20161004';
+while($download_date < '20161031') {
+    if($week > 0) {
+        $download_date = date('Ymd', strtotime('+1 Week', strtotime($download_date)));
+    }
+
+    foreach($types as $type) {
+        $filename = $type . "_" . $download_date;
+        $ch = curl_init("http://droughtmonitor.unl.edu/USDMStatistics.ashx/?mode=table&aoi=$type&date=$download_date");
+        $fp = fopen("raw_data/$filename.csv", "wb");
+
+        curl_setopt($ch, CURLOPT_FILE, $fp);
+        curl_setopt($ch, CURLOPT_HEADER, 0);
+        curl_setopt($ch, CURLOPT_FOLLOWLOCATION, 1);
+
+        curl_exec($ch);
+        curl_close($ch);
+        fclose($fp);
+
+        echo $filename . "\n";
+    }
+
+    $week++;
+} */
+
+$headers = ['state','nothing','D0','D1','D2','D3','D4', 'year', 'month'];
+$county_headers = ['fips','county','state','nothing','D0','D1','D2','D3','D4', 'year', 'month'];
+/*
+foreach($states as $abbrev => $state) {
+    $fg = fopen("data/$abbrev.csv", "wb");
+    fputcsv($fg, $headers);
+    fclose($fg);
+
+    $fx = fopen("data/$abbrev-counties.csv", "a");
+    fputcsv($fx, $county_headers);
+    fclose($fx);
+} */
+
+$files = scandir('raw_data');
+
+$fh = fopen('data/us_all.csv', 'a');
+fputcsv($fh, $headers);
+
+foreach($files as $file) {
+    if(is_dir($file) || !preg_match('/201610/', $file)) { continue; }
+
+    if(preg_match('/^us/', $file)) {
+        if (($handle = fopen("raw_data/$file", "r")) !== FALSE) {
+            while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
+                $rows = splitOut($data, 7);
+                if(preg_match('/total/', strtolower($rows[0]))) {
+                    fputcsv($fh, $rows);
+                }
+            }
+        }
+        fclose($handle);
+    }
+
+    if(preg_match('/^state/', $file)) {
+        if (($handles = fopen("raw_data/$file", "r")) !== FALSE) {
+            while (($data = fgetcsv($handles, 1000, ",")) !== FALSE) {
+                if(preg_match('/^\d/', $data[0])) {
+                    $rows = splitOut($data, 7);
+                    $fl = fopen("data/" . $rows[0] . ".csv", "a");
+                    fputcsv($fl, $rows);
+                    fclose($fl);
+                }
+            }
+        }
+        fclose($handles);
+    }
+
+    if(preg_match('/county/', $file)) {
+        if (($pg = fopen("raw_data/$file", "r")) !== FALSE) {
+            while (($data = fgetcsv($pg, 1000, ",")) !== FALSE) {
+                if(preg_match('/^\d/', $data[0])) {
+                    $rows = splitOut($data, 9);
+                    $fk = fopen("data/" . $rows[2] . "-counties.csv", "a");
+                    fputcsv($fk, $rows);
+                    fclose($fk);
+                }
+            }
+        }
+        fclose($pg);
+    }
+
+    echo $file . " processed\n";
+}
+fclose($fh);
+
+function splitOut($data, $slice) {
+    $date_parts = preg_split('/-/', $data[0]);
+    $rows = array_slice($data, 1, $slice);
+    $rows[$slice] = substr($date_parts[0], -2);
+    $rows[$slice + 1] = $date_parts[1];
+
+    return $rows;
+}
