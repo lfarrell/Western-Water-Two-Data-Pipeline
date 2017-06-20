@@ -44,30 +44,9 @@ foreach($state_list as $state => $code) {
     echo $state . " processed\n";
 }
 
-// Aggregate Files
-function build($path, $states, $fh) {
-    foreach($states as $state_file) {
-        if (($handle = fopen($path . $state_file, "r")) !== FALSE) {
-            while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
-                $year = substr($data[0], 0, 4);
-                if(preg_match('/^\d/', $data[0]) && $year >= 2000) {
-                    $month = substr($data[0], 4);
-                    $data[0] = $year;
-                    $data[3] = $month;
-
-                    fputcsv($fh, $data);
-                }
-            }
-            fclose($handle);
-        }
-    }
-
-    return $fh;
-}
-
 $types = ['state_data'];
 $fields = ['drought', 'precip', 'temp'];
-$headers = ['year', 'value', 'anomaly', 'month'];
+$headers = ['year', 'value', 'anomaly', 'month', 'type', 'state'];
 
 // Aggregate all by type
 foreach($state_list as $state_name => $state) {
@@ -77,7 +56,27 @@ foreach($state_list as $state_name => $state) {
 
             $fh = fopen('../data/state_data/all/' . $state_name . '_' . $field . '_all.csv', 'wb');
             fputcsv($fh, $headers);
-            build("../data/$type/$field/", $values, $fh);
+
+            foreach($values as $value) {
+                if(preg_match('/' . $state_name . '/', $value)) {
+                    if (($handle = fopen("../data/$type/$field/$value", "r")) !== FALSE) {
+                        while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
+                            $year = substr($data[0], 0, 4);
+                            if(preg_match('/^\d/', $data[0]) && $year >= 2000) {
+                                $month = substr($data[0], 4);
+                                $data[0] = $year;
+                                $data[3] = $month;
+                                $data[4] = $field;
+                                $data[5] = $state_name;
+
+                                fputcsv($fh, $data);
+                            }
+                        }
+                        fclose($handle);
+                    }
+                }
+            }
+
             fclose($fh);
         }
     }
