@@ -1,5 +1,8 @@
 #!/bin/bash
 
+echo "Downloading data"
+php download.php
+
 echo "Processing raw data"
 php process.php
 
@@ -11,3 +14,6 @@ php merge_all.php
 
 echo "Grouping data"
 node munge.js
+
+echo "Moving data into place"
+cp -R ../data/state_data/all/* ~/vue/western-water/static/data/snow
