@@ -2,28 +2,28 @@
 /**
  * Texas
  */
-$tx_base = "data/tx_m";
+$tx_base = "../data/tx_m";
 $tx_files = scandir($tx_base);
 
-$cal_base = "data/ca_month";
+$cal_base = "../data/ca_month";
 $cal_files = scandir($cal_base);
 
-$oc_base = "data/uc_mf";
+$oc_base = "../data/uc_mf";
 $oc_files = scandir($oc_base);
 
-$lc_base = "data/lc_month";
+$lc_base = "../data/lc_month";
 $lc_files = scandir($lc_base);
 
-$pn_base = "data/pn_month";
+$pn_base = "../data/pn_month";
 $pn_files = scandir($pn_base);
 
-$usgs_az_base = "data/usgs_az_month";
+$usgs_az_base = "../data/usgs_az_month";
 $usgs_az_files = scandir($usgs_az_base);
 
-$salt_river_base = "data/lc_az_month";
+$salt_river_base = "../data/lc_az_month";
 $salt_river_files = scandir($salt_river_base);
 
-$usda_base = "data/usda_month";
+$usda_base = "../data/usda_month";
 $usda_files = scandir($usda_base);
 
 $fh = fopen("all.csv", "wb");

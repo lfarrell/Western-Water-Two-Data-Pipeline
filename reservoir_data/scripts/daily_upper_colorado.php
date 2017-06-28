@@ -66,7 +66,7 @@ foreach($reservoirs as $key => $reservoir) {
 
     $full_data = $html->find('tbody tr');
     $file_base = str_replace(' ', '_', strtolower($key));
-    $fh = fopen('data/uc_daily/' . $file_base . '.csv', 'wb');
+    $fh = fopen('../data/uc_daily/' . $file_base . '.csv', 'wb');
     fputcsv($fh, array('reservoir', 'storage', 'capacity', 'pct_full', 'date', 'state'));
 
     foreach($full_data as $row) {
@@ -90,14 +90,14 @@ foreach($reservoirs as $key => $reservoir) {
     echo $key . " processed\n";
 }
 
-aggregate('data/uc_daily', 'data/uc_mf');
+aggregate('../data/uc_daily', '../data/uc_mf');
 
 // Dump out to individual state directories
-$files = scandir('data/uc_mf');
+$files = scandir('../data/uc_mf');
 
 foreach($files as $file) {
     if(!is_dir($file) && !preg_match('/^\./', $file)) {
-        if (($handle = fopen('data/uc_mf/' . $file, 'r')) !== FALSE) {
+        if (($handle = fopen('../data/uc_mf/' . $file, 'r')) !== FALSE) {
             while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
                 echo $data[4] . ' ' . $last_month_full . "\n";
 
@@ -107,7 +107,7 @@ foreach($files as $file) {
                    foreach($states as $state) {
                        $state = strtolower(trim($state));
                        if($state == 'ut') { $state = 'utah'; }
-                       copy('data/uc_mf/' . $file, 'data/' . $state . '_month/' . $file);
+                       copy('../data/uc_mf/' . $file, '../data/' . $state . '_month/' . $file);
                    }
                } else {
                    continue;

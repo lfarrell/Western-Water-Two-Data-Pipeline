@@ -59,7 +59,7 @@ $days = cal_days_in_month(CAL_GREGORIAN, $date_bits[0], $date_bits[1]);
 $month_num = preg_replace('/^0/', '', $date_bits[0]);
 
 foreach($stations as $station_code => $station) {
-    $fh = fopen('data/pn/' . $station_code . '.csv', 'a');
+    $fh = fopen('../data/pn/' . $station_code . '.csv', 'a');
   //  fputcsv($fh, array('reservoir', 'storage' ,'capacity' ,'pct_capacity', 'date', 'state'));
 
     $url = "https://www.usbr.gov/pn-bin/webarccsv.pl?station=$station_code&format=3&year=" . $date_bits[1] . "&month=+" . $month_num . "&day=+1&year=" . $date_bits[1] . "&month=+$month_num&day=$days&pcode=AF";
@@ -82,7 +82,7 @@ foreach($stations as $station_code => $station) {
     fclose($fh);
 }
 
-$path = 'data/pn';
+$path = '../data/pn';
 $files = scandir($path);
 
 foreach($files as $file) {
@@ -95,8 +95,8 @@ foreach($files as $file) {
         if (($handle = fopen($path . '/' . $file, "r")) !== FALSE) {
             $months = array();
             $months_list = array();
-            $fh = fopen('data/pn_month/' . $file, 'wb');
-            $if = fopen('data/' . $state . '_month/' . $file, 'wb');
+            $fh = fopen('../data/pn_month/' . $file, 'wb');
+            $if = fopen('../data/' . $state . '_month/' . $file, 'wb');
             while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
                 if($row == 1) {
                     fputcsv($fh, $data);

@@ -1,22 +1,21 @@
 var fs = require('fs');
 var d3 = require('d3');
 var _ = require('lodash');
-var R = require('ramda');
 var stringify = require('csv-stringify');
 
-var base = 'processed_data';
+var base = '../data/processed_data';
 var text_format = d3.format(".01f");
 
 fs.readFile('raw_avgs/1981-2010_SWE_Averages.csv', 'utf8', function(e, snow_avgs) {
     fs.readFile('raw_avgs/1981-2010_SWE_Medians.csv', 'utf8', function(e, snow_medians) {
-        var avgs = d3.csv.parse(snow_avgs);
-        var medians = d3.csv.parse(snow_medians);
+        var avgs = d3.csvParse(snow_avgs);
+        var medians = d3.csvParse(snow_medians);
 
         fs.readdir(base, function(err, files) {
             files.forEach(function(file) {
                 if(/csv$/.test(file)) {
                     fs.readFile(base + '/' + file, 'utf8', function(e, rows) {
-                        var data = d3.csv.parse(rows);
+                        var data = d3.csvParse(rows);
                         var short_month;
 
                         var day_totals = d3.nest()
@@ -68,7 +67,7 @@ fs.readFile('raw_avgs/1981-2010_SWE_Averages.csv', 'utf8', function(e, snow_avgs
                         };
 
                         stringify(data, options, function(e, output) {
-                            fs.writeFile('final_data/' + file, output, function(err) {
+                            fs.writeFile('../data/final_data/' + file, output, function(err) {
                                 console.log(err)
                             });
                         });

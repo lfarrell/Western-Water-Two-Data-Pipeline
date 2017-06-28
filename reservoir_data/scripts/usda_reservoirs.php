@@ -155,10 +155,10 @@ $current_year = date('Y', strtotime('this month'));
 foreach($reservoirs as $res_name => $res) {
     $url = "http://www.wcc.nrcs.usda.gov/reportGenerator/view_csv/customCalendarYearGroupByMonthReport/monthly/" . $res['station_id'] . ":" . $res['state'] .":BOR|id=%22%22|name/POR_BEGIN,POR_END/RESC::value";
     $res_name_format = preg_replace('/(\s+|\'|#)/', '_', $res_name);
-    $file_name = 'raw_data/usda/' . $res['state'] . '_' . $res_name_format . ".csv";
+    $file_name = '../data/raw_data/usda/' . $res['state'] . '_' . $res_name_format . ".csv";
     get_records($url, $file_name, "wb");
 
-    $fh = fopen('data/usda_month/' . $res['state'] . '_' . $res_name_format . ".csv", 'wb');
+    $fh = fopen('../data/usda_month/' . $res['state'] . '_' . $res_name_format . ".csv", 'wb');
     fputcsv($fh, array('reservoir','storage','capacity','pct_capacity','date', 'state'));
 
     if (($handle = fopen($file_name, "r")) !== FALSE) {

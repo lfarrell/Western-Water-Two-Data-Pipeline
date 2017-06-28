@@ -20,7 +20,7 @@ $days = cal_days_in_month(CAL_GREGORIAN, $date_bits[1], $date_bits[2]);
 $month = $date_bits[1];
 $year = $date_bits[2];
 
-$fd = fopen("data/lower_all_az_daily.csv", "wb");
+$fd = fopen("../data/lower_all_az_daily.csv", "wb");
 
 for($i=1; $i<=$days; $i++) {
     $month = preg_replace('/^0/', '', $month);
@@ -52,10 +52,10 @@ for($i=1; $i<=$days; $i++) {
 }
 fclose($fd);
 
-if (($handle = fopen("data/lower_all_az_daily.csv", "r")) !== FALSE) {
+if (($handle = fopen("../data/lower_all_az_daily.csv", "r")) !== FALSE) {
     while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
         $file = file_name($data[0]);
-        $fh = fopen('data/lc_az/' . $file . '.csv', 'a');
+        $fh = fopen('../data/lc_az/' . $file . '.csv', 'a');
         fputcsv($fh, $data);
         fclose($fh);
     }

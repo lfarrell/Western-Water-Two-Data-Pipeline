@@ -68,7 +68,7 @@ foreach($reservoirs as $key => $reservoir) {
     $fc = fopen("data/uc_m/$file_base.csv", "wb");
     fputcsv($fc, array('reservoir', 'storage', 'capacity', 'date', 'state'));
 
-    $file = "data/uc/$file_base.csv";
+    $file = "../data/uc/$file_base.csv";
 
     if (($handle = fopen($file, "r")) !== FALSE) {
         while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
@@ -132,7 +132,7 @@ function months($date) {
     }
 }
 
-$path = 'data/uc_m';
+$path = '../data/uc_m';
 $files = scandir($path);
 
 foreach($files as $file) {

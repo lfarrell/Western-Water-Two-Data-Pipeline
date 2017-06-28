@@ -6,9 +6,9 @@ fputcsv($ft, ["swe", "temp_avg", "year", "month", "day", "state", "elevation", "
 foreach($processed_files as $file) {
     if(is_dir($file)) continue;
 
-    if (($handle = fopen("final_data/" . $file, "r")) !== FALSE) {
+    if (($handle = fopen("../data/final_data/" . $file, "r")) !== FALSE) {
         while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
-            if(preg_match("/^\d/", $data[0])) {
+            if(preg_match('/^\d/', $data[0])) {
                 fputcsv($ft, $data);
             }
         }

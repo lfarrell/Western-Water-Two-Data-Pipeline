@@ -125,7 +125,7 @@ $last_month = date("Y-m", strtotime("first day of previous month"));
 
 foreach($reservoirs as $reservoir) {
     $path = "http://waterdatafortexas.org/reservoirs/individual/" . $reservoir . "-1year.csv";
-    $file_name = 'raw_data/tx/' . $reservoir . ".csv";
+    $file_name = '../data/raw_data/tx/' . $reservoir . ".csv";
 
     get_records($path, $file_name, "wb");
     echo $reservoir . " downloaded\n";
@@ -133,7 +133,7 @@ foreach($reservoirs as $reservoir) {
     // Clean up the data
     $action = (file_exists($file_name)) ? "a" : "wb";
     $current_date = date("Y-m-d");
-    $fh = fopen('data/tx/'. $reservoir . ".csv", $action);
+    $fh = fopen('../data/tx/'. $reservoir . ".csv", $action);
     if (($handle = fopen($file_name, "r")) !== FALSE) {
         if($action != "a") {
             fputcsv($fh, array("reservoir", "storage", "capacity", "pct_capacity", "date"));

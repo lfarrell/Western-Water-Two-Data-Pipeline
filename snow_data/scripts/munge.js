@@ -14,7 +14,7 @@ fs.readFile('all.csv', 'utf8', function(e, snow_levels) {
     var types = [state_el_year];
 
     types.forEach(function(file, i) {
-        fs.writeFile('web_files/grouped_' + i + '.json', JSON.stringify(file, null), function(err) {
+        fs.writeFile('../data/web_files/grouped_' + i + '.json', JSON.stringify(file, null), function(err) {
             console.log(err)
         });
     });
@@ -26,7 +26,7 @@ fs.readFile('all.csv', 'utf8', function(e, snow_levels) {
 
     types_flat.forEach(function(file) {
         stringify(file, options, function(e, output){
-            fs.writeFile('web_files/snow_state.csv', output, function(err) {
+            fs.writeFile('../data/web_files/snow_state.csv', output, function(err) {
                 console.log(err)
             });
         });
@@ -36,7 +36,7 @@ fs.readFile('all.csv', 'utf8', function(e, snow_levels) {
         state_el_year_range: state_el_year_range
     };
 
-    fs.writeFile('web_files/grouped_ranges.json', JSON.stringify(rangeList, null), function(err) {
+    fs.writeFile('../data/web_files/grouped_ranges.json', JSON.stringify(rangeList, null), function(err) {
         console.log(err)
     });
 });

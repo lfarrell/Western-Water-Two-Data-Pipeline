@@ -15,7 +15,7 @@ $id_reservoirs = array(
     '13115000' => array('capacity' => 90000, 'name' => 'Mud Lake', 'state' => 'ID')
 ); */
 
-$base = 'raw_data/usgs_az/';
+$base = '../data/raw_data/usgs_az/';
 
 $last_month = date("Y-m-d", strtotime("first day of previous month"));
 $date_bits = preg_split('/-/', $last_month);
@@ -31,8 +31,8 @@ foreach($az_reservoirs as $res_key => $res_info) {
     if (($handle = fopen($base . $file_name  . ".tsv", "r")) !== FALSE) {
         $months = array();
         $months_list = array();
-        $fh = fopen('data/usgs_az_month/' . $file_name . ".csv", 'wb');
-        $if = fopen('data/az_month/' . $file_name . ".csv", 'wb');
+        $fh = fopen('../data/usgs_az_month/' . $file_name . ".csv", 'wb');
+        $if = fopen('../data/az_month/' . $file_name . ".csv", 'wb');
     //    fputcsv($fh, array('reservoir','storage','capacity','pct_capacity','date', 'state'));
 
         while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {

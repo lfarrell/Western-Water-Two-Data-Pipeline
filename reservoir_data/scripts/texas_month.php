@@ -1,5 +1,5 @@
 <?php
-$path = 'data/tx';
+$path = '../data/tx';
 $files = scandir($path);
 
 foreach($files as $file) {
@@ -10,7 +10,7 @@ foreach($files as $file) {
         if (($handle = fopen($path . '/' . $file, "r")) !== FALSE) {
             $months = array();
             $months_list = array();
-            $fh = fopen('data/tx_m/' . $file, 'wb');
+            $fh = fopen('../data/tx_m/' . $file, 'wb');
             while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
                 if($row == 1) {
                     fputcsv($fh, $data);
