@@ -1,11 +1,28 @@
 <?php
 include 'functions.php';
 
-$states = array('az', 'ca', 'co', 'id', 'nm', 'nv', 'or', 'tx', 'utah', 'wa', 'wy');
+$states = [
+    'az' => 'Lake Havasu',
+    'ca' => 'Shasta Dam',
+    'co' => 'Vallecito',
+    'id' => 'Arrowrock',
+    'nm' => 'Caballo',
+    'nv' => 'Lake Mead',
+    'or' => 'Warm Springs',
+    'tx' => 'Meredith',
+    'utah' => 'Steinaker',
+    'wa' => 'Grand Coulee/FDR Lake',
+    'wy' => 'Fontenelle'
+];
 
-foreach($states as $state) {
+foreach($states as $state => $res) {
     $fh = fopen('../data/states_all/' . $state . '_all.csv', 'wb');
-    fputcsv($fh, array('reservoir','storage','capacity','pct_capacity','date'));
+    $fg = fopen('../data/states_all/' . $state . '_load.csv', 'wb');
+    $headers = ['reservoir','storage','capacity','pct_capacity','date'];
+    
+    fputcsv($fh, $headers);
+    fputcsv($fg, $headers);
+   
     $suffix = ($state == 'tx') ? '_m' : '_month';
     $file_dir = '../data/' . $state . $suffix;
     $files = scandir($file_dir);
@@ -28,7 +45,11 @@ foreach($states as $state) {
                             $data[0] = "Clear Lk   Klamath R";
                         }
 
-                        fputcsv($fh, $data);
+                        if($data[0] == $res) {
+                            fputcsv($fg, $data);
+                        } else {
+                            fputcsv($fh, $data);
+                        }
                     }
                 }
                 fclose($handle);
