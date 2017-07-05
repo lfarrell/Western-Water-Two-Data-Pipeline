@@ -1,39 +1,8 @@
-<?php
-/**
- * Texas
- */
-$tx_base = "../data/tx_m";
-$tx_files = scandir($tx_base);
+var fs = require('fs');
+var d3 = require('d3');
+var _ = require('lodash');
 
-$cal_base = "../data/ca_month";
-$cal_files = scandir($cal_base);
-
-$oc_base = "../data/uc_mf";
-$oc_files = scandir($oc_base);
-
-$lc_base = "../data/lc_month";
-$lc_files = scandir($lc_base);
-
-$pn_base = "../data/pn_month";
-$pn_files = scandir($pn_base);
-
-$usgs_az_base = "../data/usgs_az_month";
-$usgs_az_files = scandir($usgs_az_base);
-
-$salt_river_base = "../data/lc_az_month";
-$salt_river_files = scandir($salt_river_base);
-
-$usda_base = "../data/usda_month";
-$usda_files = scandir($usda_base);
-
-$headers = ['reservoir','storage','capacity','pct_capacity','date','state'];
-$fh = fopen("../data/states_all/all.csv", "wb");
-$fg = fopen("../data/states_all/all_load.csv", "wb");
-fputcsv($fh, $headers);
-fputcsv($fg, $headers);
-
-function merge($base, $fh, $fg, $files, $state = 'CA') {
-$reservoir_names = [
+var reservoir_names = [
     "Upper Klamath",
     "Gerber",
     "Clear Lk   Klamath R",
@@ -518,7 +487,6 @@ $reservoir_names = [
     "Horse Creek",
     "Horsecreek",
     "Horsetooth",
-    "Jackson Gulch",
     "Jackson Lk",
     "John Martin",
     "Julesberg",
@@ -549,51 +517,100 @@ $reservoir_names = [
     "Twin Lakes",
     "Union",
     "Windsor",
-    "Wolford Mountain"];
+    "Wolford Mountain"
+];
 
-    foreach($files as $file) {
-        if(!preg_match('/^\./', $file) || $file != 'all.csv') {
-            if (($handle = fopen($base . '/' . $file, "r")) !== FALSE) {
-                while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
-                    $year = preg_split('/\//', $data[4])[1];
-                    if($data[0] == 'reservoir' || $year < 2000) continue;
+var base = '../data/stations';
 
-                    $res = explode('-', $data[0]);
+/*
+fs.readFile('../data.csv', 'utf8', function(e, data) {
+    fs.readFile('../data/.csv', 'utf8', function(e, stations) {
+        data = d3.csvParse(data);
+        stations = d3.csvParse(stations);
 
-                    $res_value = ucwords(implode(' ', $res));
-                    $res_key = array_search($res_value, $reservoir_names);
+        var hasKey = !!(file === 'all.csv');
 
-                    // Remove Texas version of Elephant Butte data
-                    if(($res_key == 193 && $state == 'TX') || $res_key == '') {
-                        continue;
-                    }
+        var stats = mapPctFull(data, stations, reservoir_names, hasKey);
+        stats.forEach(function(d) {
+            d.color = resColors(d.pct_capacity);
+        });
 
-                    $data[0] = $res_key;
-                    $data[4] = preg_replace('/\/20/', '/', $data[4]);
 
-                    echo $data[0] . "\n";
+    });
+}); */
 
-                    if($state) {
-                        $data[$state] = $state;
-                    }
+fs.readdir(base, function(err, files) {
+    files.forEach(function(file) {
 
-                    if($res_key == 64) {
-                        fputcsv($fg, $data);
-                    } else {
-                        fputcsv($fh, $data);  
-                    }                 
+        if(/csv$/.test(file)) {
+            var data_file, base_data_file;
+
+            if(/resv/.test(file)) {
+                data_file = file.split('_')[0];
+                if(file == 'texas_resv.csv') {
+                    data_file = 'tx';
                 }
-                fclose($handle);
-            };
+            } else {
+                data_file = file.split('.')[0]
+            }
+
+            if(data_file !== 'all') {
+                base_data_file = data_file + '_all';
+            } else {
+                base_data_file = data_file;
+            }
+
+            var stations = d3.csvParse(fs.readFileSync(base + '/' + file, 'utf8').toString());
+            var data = d3.csvParse(fs.readFileSync('../data/states_all/' + base_data_file + '.csv').toString());
+            var data_load = d3.csvParse(fs.readFileSync('../data/states_all/' + data_file + '_load.csv').toString());
+            var has_key = !!(file === 'all_resv.csv');
+            var enhanced_stations = mapPctFull(data.concat(data_load), stations, reservoir_names, has_key);
+
+            fs.writeFile(base + '_enhanced/' + file.split('.')[0] + '.json', JSON.stringify(enhanced_stations), function(err) {
+                console.log(err)
+            });
         }
-    }
+    });
+});
+
+function mapPctFull(data, stations, reservoir_names, key_used) {
+    var sorted = d3.nest()
+        .key(function(d) {
+            return (!key_used) ? d.reservoir : reservoir_names[d.reservoir];
+        })
+        .map(data);
+
+    stations.forEach(function(d) {
+        var res_total = _.last(sorted['$' + d.reservoir]);
+
+        d.pct_capacity = (res_total !== undefined) ? res_total.pct_capacity : undefined;
+        d.capacity = (res_total !== undefined) ? res_total.capacity : undefined;
+        d.color = resColors(d.pct_capacity);
+    });
+
+    stations.sort(function(a,b) {
+        var a_cap = +a.capacity;
+        var b_cap = +b.capacity;
+        if(b_cap < a_cap) {
+            return -1;
+        } else if(b_cap > a_cap) {
+            return 1;
+        } else {
+            return 0;
+        }
+    });
+
+    return stations;
 }
 
-merge($tx_base, $fh, $fg, $tx_files, 'TX');
-merge($cal_base, $fh, $fg, $cal_files);
-merge($oc_base, $fh, $fg, $oc_files, false);
-merge($lc_base, $fh, $fg, $lc_files, false);
-merge($pn_base, $fh, $fg, $pn_files, false);
-merge($usgs_az_base, $fh, $fg, $usgs_az_files, false);
-merge($salt_river_base, $fh, $fg, $salt_river_files, false);
-merge($usda_base, $fh, $fg, $usda_files, false);
+function resColors(d) {
+    if (d >= 75) {
+        return '#1a9641';
+    } else if (d >= 50) {
+        return '#FCE883';
+    } else if (d < 50) {
+        return '#d7191c';
+    } else {
+        return 'lightgray';
+    }
+}
