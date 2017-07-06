@@ -564,7 +564,7 @@ $reservoir_names = [
                     $res_key = array_search($res_value, $reservoir_names);
 
                     // Remove Texas version of Elephant Butte data
-                    if(($res_key == 193 && $state == 'TX') || $res_key == '') {
+                    if(($res_key == 193 && $state == 'TX') || $res_key === '') {
                         continue;
                     }
 

@@ -522,23 +522,6 @@ var reservoir_names = [
 
 var base = '../data/stations';
 
-/*
-fs.readFile('../data.csv', 'utf8', function(e, data) {
-    fs.readFile('../data/.csv', 'utf8', function(e, stations) {
-        data = d3.csvParse(data);
-        stations = d3.csvParse(stations);
-
-        var hasKey = !!(file === 'all.csv');
-
-        var stats = mapPctFull(data, stations, reservoir_names, hasKey);
-        stats.forEach(function(d) {
-            d.color = resColors(d.pct_capacity);
-        });
-
-
-    });
-}); */
-
 fs.readdir(base, function(err, files) {
     files.forEach(function(file) {
 
@@ -564,7 +547,10 @@ fs.readdir(base, function(err, files) {
             var data = d3.csvParse(fs.readFileSync('../data/states_all/' + base_data_file + '.csv').toString());
             var data_load = d3.csvParse(fs.readFileSync('../data/states_all/' + data_file + '_load.csv').toString());
             var has_key = !!(file === 'all_resv.csv');
-            var enhanced_stations = mapPctFull(data.concat(data_load), stations, reservoir_names, has_key);
+            if(file === 'all_resv.csv') {
+                var enhanced_stations = mapPctFull(data.concat(data_load), stations, reservoir_names, has_key);
+            }
+
 
             fs.writeFile(base + '_enhanced/' + file.split('.')[0] + '.json', JSON.stringify(enhanced_stations), function(err) {
                 console.log(err)
