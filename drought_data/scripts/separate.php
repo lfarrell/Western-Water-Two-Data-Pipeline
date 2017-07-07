@@ -44,7 +44,7 @@ function build($base, $file, $is_county) {
     echo "$base/$file\n";
     if (($handle = fopen("$base/$file", "r")) !== FALSE) {
         while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
-            if(preg_match("/^\d/", $data[0])) {
+            if(preg_match('/^\d/', $data[0])) {
                 $state_name = ($is_county)? $data[3] : $data[1];
 
                 $date = array_shift($data);

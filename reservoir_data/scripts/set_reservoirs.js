@@ -547,10 +547,7 @@ fs.readdir(base, function(err, files) {
             var data = d3.csvParse(fs.readFileSync('../data/states_all/' + base_data_file + '.csv').toString());
             var data_load = d3.csvParse(fs.readFileSync('../data/states_all/' + data_file + '_load.csv').toString());
             var has_key = !!(file === 'all_resv.csv');
-            if(file === 'all_resv.csv') {
-                var enhanced_stations = mapPctFull(data.concat(data_load), stations, reservoir_names, has_key);
-            }
-
+            var enhanced_stations = mapPctFull(data.concat(data_load), stations, reservoir_names, has_key);
 
             fs.writeFile(base + '_enhanced/' + file.split('.')[0] + '.json', JSON.stringify(enhanced_stations), function(err) {
                 console.log(err)
