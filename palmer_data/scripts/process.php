@@ -1,5 +1,8 @@
 <?php
-$months = range(1,12);
+date_default_timezone_set('America/New_York');
+
+// $months = range(1,12);
+$months = [date("m", strtotime("first day of previous month"))];
 
 $state_list = array(
     'AZ' => 2,
@@ -18,7 +21,7 @@ $state_list = array(
 
 foreach($state_list as $state => $code) {
     foreach($months as $month) {
-        if($month < 10) { $month = "0" . $month; }
+        if($month < 10 && substr($month, 0, 1) != "0") { $month = "0" . $month; }
 
         $links = [
             'temp' =>  "https://www.ncdc.noaa.gov/cag/time-series/us/$code/00/tavg/1/$month/1895-2017.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000",
@@ -48,6 +51,12 @@ $types = ['state_data'];
 $fields = ['drought', 'precip', 'temp'];
 $headers = ['year', 'value', 'anomaly', 'month', 'type', 'state'];
 
+foreach($fields as $field) {
+    $fg = fopen('../data/state_data/all/ALL_' . $field . '_all.csv', 'wb');
+    fputcsv($fg, $headers);
+    fclose($fg);
+}
+
 // Aggregate all by type
 foreach($state_list as $state_name => $state) {
     foreach($types as $type) {
@@ -56,6 +65,8 @@ foreach($state_list as $state_name => $state) {
 
             $fh = fopen('../data/state_data/all/' . $state_name . '_' . $field . '_all.csv', 'wb');
             fputcsv($fh, $headers);
+
+            $fg = fopen('../data/state_data/all/ALL_' . $field . '_all.csv', 'a');
 
             foreach($values as $value) {
                 if(preg_match('/' . $state_name . '/', $value)) {
@@ -70,6 +81,7 @@ foreach($state_list as $state_name => $state) {
                                 $data[5] = $state_name;
 
                                 fputcsv($fh, $data);
+                                fputcsv($fg, $data);
                             }
                         }
                         fclose($handle);
@@ -78,6 +90,7 @@ foreach($state_list as $state_name => $state) {
             }
 
             fclose($fh);
+            fclose($fg);
         }
     }
 }
