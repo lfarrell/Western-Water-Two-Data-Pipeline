@@ -23,10 +23,11 @@ fs.readdir(base, function(err, files) {
                             return valueList(values);
                         })
                         .entries(data);
-                    flat = flattenThree(nested);
-                    headers = ['county', 'year', 'month', 'none', 'D0', 'D1', 'D2', 'D3', 'D4'];
+                    flat = flattenThree(nested, false);
+                    headers = ['county', 'year', 'month', 'D0', 'D1', 'D2', 'D3', 'D4'];
                 } else {
                     nested = d3.nest()
+                        .key(function(d) { return d.state; })
                         .key(function(d) { return d.year; })
                         .key(function(d) { return d.month; })
                         .rollup(function(values) {
@@ -34,8 +35,9 @@ fs.readdir(base, function(err, files) {
                         })
                         .entries(data);
 
-                    flat = flattenTwo(nested);
-                    headers = ['year', 'month', 'none', 'D0', 'D1', 'D2', 'D3', 'D4'];
+                    flat = flattenThree(nested, true);
+
+                    headers = ['state', 'year', 'month', 'D0', 'D1', 'D2', 'D3', 'D4'];
                 }
 
                 var options = {header: true,
@@ -54,7 +56,6 @@ fs.readdir(base, function(err, files) {
 
 function valueList(values) {
     return {
-        none: d3.mean(values, function(d) {return +d.none; }),
         "D0": d3.mean(values, function(d) {return +d['D0']; }),
         "D1": d3.mean(values, function(d) {return +d['D1']; }),
         "D2": d3.mean(values, function(d) {return +d['D2']; }),
@@ -63,47 +64,39 @@ function valueList(values) {
     };
 }
 
-function flattenTwo(nested_group) {
+function flattenThree(nested_group, is_state) {
     var flat = [];
+    var field = (is_state) ? 'state' : 'county';
+    var key_type;
 
     nested_group.forEach(function(d) {
-        d.values.forEach(function(e) {
-            flat.push({
-                year: d.key,
-                month:e.key,
-                none: text_format(e.value.none),
-                "D0": text_format(e.value['D0']),
-                "D1": text_format(e.value['D1']),
-                "D2": text_format(e.value['D2']),
-                "D3": text_format(e.value['D3']),
-                "D4": text_format(e.value['D4'])
-            });
-        });
-    });
+        if(is_state) {
+            key_type = d.key;
+        } else {
+            key_type = d.key.replace(' County', '');
+        }
 
-    return _.sortByAll(flat, ['year', 'month']);
-}
-
-function flattenThree(nested_group) {
-    var flat = [];
-
-    nested_group.forEach(function(d) {
         d.values.forEach(function(e) {
             e.values.forEach(function(f) {
-                flat.push({
-                    county: d.key.replace(' County', ''),
+                var row = {
                     year: e.key,
                     month: f.key,
-                    none: text_format(f.value.none),
                     "D0": text_format(f.value['D0']),
                     "D1": text_format(f.value['D1']),
                     "D2": text_format(f.value['D2']),
                     "D3": text_format(f.value['D3']),
                     "D4": text_format(f.value['D4'])
-                });
+                };
+
+                row[field] = key_type;
+                flat.push(row);
             })
         })
     });
 
-    return _.sortByAll(flat, ['county', 'year', 'month']);
+    if(is_state) {
+        return _.sortByAll(flat, ['state', 'year', 'month']);
+    } else {
+        return _.sortByAll(flat, ['county', 'year', 'month']);
+    }
 }

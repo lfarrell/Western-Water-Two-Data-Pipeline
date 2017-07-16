@@ -17,16 +17,22 @@ $states = [
     'WA'=>"Washington",
     'WY'=>"Wyoming"];
 
+$state_headers = ["state","none","D0","D1","D2","D3","D4","year","month"];
+
 foreach($states as $key => $name) {
     $state = strtolower($key);
     $fh = fopen("$result_base/$state.csv", "wb");
     $fg = fopen("$result_base/$state-counties.csv", "wb");
-    fputcsv($fh, ["state","none","D0","D1","D2","D3","D4","year","month"]);
+    fputcsv($fh, $state_headers);
     fputcsv($fg, ["county","state","none","D0","D1","D2","D3","D4","year","month"]);
 
     fclose($fh);
     fclose($fg);
 }
+
+$fk = fopen("$result_base/all.csv", "wb");
+fputcsv($fk, $state_headers);
+fclose($fk);
 
 foreach($all as $file) {
     if (is_dir($file)) continue;
@@ -51,7 +57,6 @@ function build($base, $file, $is_county) {
                 $year = substr($date, 0, 4);
                 $month = substr($date, 4, 2);
 
-
                 if($is_county) {
                     $file_name = $state_name . "-counties";
                     $data = array_slice($data, 1, 8);
@@ -64,6 +69,13 @@ function build($base, $file, $is_county) {
                 $data[] = $year;
                 $data[] = $month;
                 fputcsv($ft, $data);
+
+                if(!$is_county) {
+                    $fk = fopen("../data/states/all.csv", "a");
+                    fputcsv($fk, $data);
+                    fclose($fk);
+                }
+
                 fclose($ft);
             }
         }
