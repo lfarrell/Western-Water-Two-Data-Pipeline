@@ -18,4 +18,3 @@ foreach($stations as $station_name => $station_info) {
 
     echo $station_name . " downloaded\n";
 }
-//<.*?\d.*>\s

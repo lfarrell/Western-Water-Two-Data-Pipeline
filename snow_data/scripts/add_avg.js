@@ -6,8 +6,8 @@ var stringify = require('csv-stringify');
 var base = '../data/processed_data';
 var text_format = d3.format(".01f");
 
-fs.readFile('raw_avgs/1981-2010_SWE_Averages.csv', 'utf8', function(e, snow_avgs) {
-    fs.readFile('raw_avgs/1981-2010_SWE_Medians.csv', 'utf8', function(e, snow_medians) {
+fs.readFile('../data/raw_avgs/1981-2010_SWE_Averages.csv', 'utf8', function(e, snow_avgs) {
+    fs.readFile('../data/raw_avgs/1981-2010_SWE_Medians.csv', 'utf8', function(e, snow_medians) {
         var avgs = d3.csvParse(snow_avgs);
         var medians = d3.csvParse(snow_medians);
 
@@ -31,7 +31,6 @@ fs.readFile('raw_avgs/1981-2010_SWE_Averages.csv', 'utf8', function(e, snow_avgs
                                 short_month = d.month;
                             }
                             var day = short_month + d.day;
-                            console.log(day)
                             var avg_row = _.find(avgs, function(e) {
                                 return d.station_id == e.snotel_id;
                             });
@@ -47,7 +46,7 @@ fs.readFile('raw_avgs/1981-2010_SWE_Averages.csv', 'utf8', function(e, snow_avgs
                                 d.avg = text_format(avg_row[day]);
                                 d.avg_anomaly = text_format(d.swe - d.avg);
                             } else {
-                                d.avg = text_format(days_data.values.temp_mean);
+                                d.avg = text_format(days_data.value.temp_mean);
                                 d.avg_anomaly = text_format(d.swe - d.avg);
                             }
 
@@ -55,7 +54,7 @@ fs.readFile('raw_avgs/1981-2010_SWE_Averages.csv', 'utf8', function(e, snow_avgs
                                 d.median = text_format(median_row[day]);
                                 d.median_anomaly = text_format(d.swe - d.median);
                             } else {
-                                d.median = text_format(days_data.values.temp_median);
+                                d.median = text_format(days_data.value.temp_median);
                                 d.median_anomaly = text_format(d.swe - d.median);
                             }
 

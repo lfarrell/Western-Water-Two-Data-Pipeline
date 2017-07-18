@@ -1,6 +1,6 @@
 <?php
-$processed_files = scandir("processed_data");
-$ft = fopen("all.csv", "wb");
+$processed_files = scandir("../data/processed_data");
+$ft = fopen("../data/all.csv", "wb");
 fputcsv($ft, ["swe", "temp_avg", "year", "month", "day", "state", "elevation", "station_id", "avg", "avg_anomaly","median", "median_anomaly", "found"]);
 
 foreach($processed_files as $file) {

@@ -16,4 +16,4 @@ echo "Grouping data"
 node munge.js
 
 echo "Moving data into place"
-cp -R ../data/state_data/all/* ~/vue/western-water/static/data/snow
+cp ../data/web_files/snow_month.csv ~/vue/western-water/static/data/snow/snow_month.csv
