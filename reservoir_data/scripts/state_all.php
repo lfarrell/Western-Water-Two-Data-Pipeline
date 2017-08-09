@@ -6,6 +6,7 @@ $states = [
     'ca' => 'Shasta Dam',
     'co' => 'Vallecito',
     'id' => 'Arrowrock',
+    'mt' => 'Lake Koocanusa',
     'nm' => 'Caballo',
     'nv' => 'Lake Mead',
     'or' => 'Lake Owyhee',
