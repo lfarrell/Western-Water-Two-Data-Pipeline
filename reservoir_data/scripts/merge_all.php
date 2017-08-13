@@ -584,6 +584,7 @@ $reservoir_names = [
     "Thompson Falls",
     "Tongue River"
 ];
+    $reservoir_map = [];
 
     foreach($files as $file) {
         if(!preg_match('/^\./', $file) || $file != 'all.csv') {
@@ -591,6 +592,10 @@ $reservoir_names = [
                 while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
                     $year = preg_split('/\//', $data[4])[1];
                     if($data[0] == 'reservoir' || $year < 2000) continue;
+
+                    if(!array_key_exists($data[0], $reservoir_map)) {
+                        $reservoir_map[$data[0]] = $file;
+                    }
 
                     $res = explode('-', $data[0]);
 
@@ -603,7 +608,7 @@ $reservoir_names = [
                     }
 
                     $data[0] = $res_key;
-                    $data[4] = preg_replace('/\/20/', '/', $data[4]);
+                  //  $data[4] = preg_replace('/\/20/', '/', $data[4]);
 
                     echo $data[0] . "\n";
 
@@ -621,13 +626,27 @@ $reservoir_names = [
             };
         }
     }
+
+    return $reservoir_map;
 }
 
-merge($tx_base, $fh, $fg, $tx_files, 'TX');
-merge($cal_base, $fh, $fg, $cal_files);
-merge($oc_base, $fh, $fg, $oc_files, false);
-merge($lc_base, $fh, $fg, $lc_files, false);
-merge($pn_base, $fh, $fg, $pn_files, false);
-merge($usgs_az_base, $fh, $fg, $usgs_az_files, false);
-merge($salt_river_base, $fh, $fg, $salt_river_files, false);
-merge($usda_base, $fh, $fg, $usda_files, false);
+$texas = merge($tx_base, $fh, $fg, $tx_files, 'TX');
+$california = merge($cal_base, $fh, $fg, $cal_files);
+$upper_colorado = merge($oc_base, $fh, $fg, $oc_files, false);
+$lower_colorado = merge($lc_base, $fh, $fg, $lc_files, false);
+$pacific_northwest = merge($pn_base, $fh, $fg, $pn_files, false);
+$usgs = merge($usgs_az_base, $fh, $fg, $usgs_az_files, false);
+$salt_river = merge($salt_river_base, $fh, $fg, $salt_river_files, false);
+$usda = merge($usda_base, $fh, $fg, $usda_files, false);
+
+$all_reservoir_map = array_merge($texas,
+    $california,
+    $upper_colorado,
+    $lower_colorado,
+    $pacific_northwest,
+    $usgs,
+    $salt_river,
+    $usda
+);
+
+print_r(json_encode($all_reservoir_map));

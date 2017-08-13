@@ -19,7 +19,7 @@ $states = [
 foreach($states as $state => $res) {
     $fh = fopen('../data/states_all/' . $state . '_all.csv', 'wb');
     $fg = fopen('../data/states_all/' . $state . '_load.csv', 'wb');
-    $headers = ['reservoir','storage','capacity','pct_capacity','date'];
+    $headers = ['reservoir','storage','capacity','pct_capacity','date', 'state'];
     
     fputcsv($fh, $headers);
     fputcsv($fg, $headers);
@@ -30,6 +30,9 @@ foreach($states as $state => $res) {
 
     foreach($files as $file) {
         if(!preg_match('/^\./', $file)) {
+            $fl = fopen("../data/states_all/res/$file", "wb");
+            fputcsv($fl, $headers);
+
             if (($handle = fopen($file_dir . '/' . $file, "r")) !== FALSE) {
                 while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
                     $date = preg_split('/\//', $data[4]);
@@ -51,10 +54,17 @@ foreach($states as $state => $res) {
                         } else {
                             fputcsv($fh, $data);
                         }
+
+                        if(empty($data[5])) {
+                            $data[5] = $state;
+                        }
+                        fputcsv($fl, $data);
                     }
                 }
                 fclose($handle);
             }
+
+            fclose($fl);
         }
     }
     fclose($fh);
