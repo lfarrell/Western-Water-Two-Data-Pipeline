@@ -5,7 +5,7 @@ var _ = require('lodash');
 var reservoir_names = [
     "Upper Klamath",
     "Gerber",
-    "Clear Lk   Klamath R",
+    "Clear Lk - Klamath R",
     "Dwinnell",
     "Trinity Lake",
     "Lewiston",
@@ -105,7 +105,7 @@ var reservoir_names = [
     "Folsom Lake",
     "Lake Natoma",
     "Indian Valley",
-    "Clear Lk   Cache Creek",
+    "Clear Lk - Cache Creek",
     "Berryessa",
     "Los Vaqueros Reservoir",
     "Jenkinson Lake",
@@ -550,7 +550,6 @@ var reservoir_names = [
     "Pishkun",
     "Ruby River",
     "Swift",
-    "Thompson Falls",
     "Tongue River"
 ];
 

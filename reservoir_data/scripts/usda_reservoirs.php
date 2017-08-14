@@ -198,7 +198,7 @@ $reservoirs = array(
   //  "Silver Lake" => array("station_id" => "12323700", "capacity" => , "state" => "MT"),
   //  "Smith River" => array("station_id" => "06075000", "capacity" => , "state" => "MT"),
     "Swift" => array("station_id" => "06094000", "capacity" => 29969, "state" => "MT"),
-    "Thompson Falls" => array("station_id" => "12390000", "capacity" => 8300, "state" => "MT"),
+    //"Thompson Falls" => array("station_id" => "12390000", "capacity" => 8300, "state" => "MT"),
     "Tongue River" => array("station_id" => "06307000", "capacity" => 79071, "state" => "MT"),
   //  "Willow Creek Res (Harrison)" => array("station_id" => "06036000", "capacity" => , "state" => "MT"),
   //  "Willow Creek Res - Augusta" => array("station_id" => "06082000", "capacity" => , "state" => "MT")
