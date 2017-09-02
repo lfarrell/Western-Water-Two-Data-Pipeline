@@ -8,6 +8,7 @@ $states = [
     'AZ'=>"Arizona",
     'CA'=>"California",
     'CO'=>"Colorado",
+    'ID'=>"Idaho",
     'MT'=>"Montana",
     'NV'=>"Nevada",
     'NM'=>"New Mexico",
