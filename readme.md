@@ -16,7 +16,7 @@ From the `reservoir_data/scripts` run the following
 #### (Run on the 15th of the month) Sites below should be updated by then
 
 1. `sh usda_all.sh`
-2. `php lower_colorado.php`
+2. `sh lower_colorado.sh`
 3. `php california_monthly.php`
 4. `sh final_enhancements.sh`
 
