@@ -20,8 +20,8 @@ $date_bits = preg_split('/\//', $last_month);
 $days = cal_days_in_month(CAL_GREGORIAN, $date_bits[0], $date_bits[1]);
 
 foreach($reservoirs as $key => $reservoir) {
-  //  $full_link = "http://cdec.water.ca.gov/cgi-progs/queryMonthly?$key";
-    $full_link = "http://cdec.water.ca.gov/cgi-progs/queryMonthly?$key&d=$day&span=20years";
+  //  $full_link = "http://cdec.water.ca.gov/dynamicapp/QueryMonthly?s=MEA";
+    $full_link = "http://cdec.water.ca.gov/dynamicapp/QueryMonthly?s=$key&d=$day&span=20years";
 
     try {
         $html = new simple_html_dom();
@@ -40,13 +40,14 @@ foreach($reservoirs as $key => $reservoir) {
             $d = $date->plaintext;
             $date_check = preg_split('/\//', $d);
 
-            $volume = $row->find('td',2);
-            $vol = trim($volume->plaintext);
+            $volume = $row->find('td',1);
+            $vols = $volume->find('font',0);
+            $vol = str_replace(',', '',trim($vols->plaintext));
 
             $regx = '/^\d/';
-            if(preg_match($regx, $vol) && $date_check[1] >= 2000) {
+            if(preg_match($regx, $vol) && $date_check[2] >= 2000) {
                 $pct = round(($vol / $reservoir['capacity']) * 100, 1);
-                fputcsv($fh, array(trim($name), $vol, $reservoir['capacity'], $pct, $d, $reservoir['state']));
+                fputcsv($fh, array(trim($name), $vol, $reservoir['capacity'], $pct, $date_check[0] . '/' . $date_check[2], $reservoir['state']));
             }
         }
         fclose($fh);

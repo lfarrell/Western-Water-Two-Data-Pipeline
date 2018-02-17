@@ -166,10 +166,10 @@ $reservoirs = array(
 "SLW" => 78000
 );
 
-$last_month = date("m/Y", strtotime("first day of previous month"));
+$last_month = date("m/d/Y", strtotime("first day of previous month"));
 
 foreach($reservoirs as $key => $reservoir) {
-    $full_link = "http://cdec.water.ca.gov/cgi-progs/queryMonthly?$key";
+    $full_link = "http://cdec.water.ca.gov/dynamicapp/QueryMonthly?s=$key";
     try {
         $html = new simple_html_dom();
         $html->load_file($full_link);
@@ -186,13 +186,21 @@ foreach($reservoirs as $key => $reservoir) {
             $date = $row->find('td',0);
             $d = $date->plaintext;
 
-            $volume = $row->find('td',2);
-            $vol = trim($volume->plaintext);
-
+            $volume = $row->find('td',1);
+            $vols = $volume->find('font',0);
+            $vol = str_replace(',', '',trim($vols->plaintext));
             $regx = '/^\d/';
+
+            if(!preg_match($regx, $vol) && $d == $last_month && is_object($row->find('td',3))) {
+                $volume = $row->find('td',3);
+                $vols = $volume->find('font',0);
+                $vol = str_replace(',', '',trim($vols->plaintext));
+            }
+
             if($d == $last_month && preg_match($regx, $vol)) {
+                $short_date = preg_split('/\//', $d);
                 $pct = round(($vol / $reservoir) * 100, 1);
-                fputcsv($fh, array(trim($name), $vol, $reservoir, $pct, $d));
+                fputcsv($fh, array(trim($name), $vol, $reservoir, $pct, $short_date[0] . '/'. $short_date[2]));
             }
         }
         fclose($fh);
