@@ -11,7 +11,7 @@ date_default_timezone_set('America/Los_Angeles');
 $reservoirs = array(
     'MEA' => array('capacity' => 25877000, 'state' => 'AZ&NV'),
     'MHV' => array('capacity' => 1809800, 'state' => 'AZ&NV'),
-    'HVS' => array('capacity' => 619400, 'state' => 'AZ'),
+    'HVS' => array('capacity' => 619400, 'state' => 'AZ')
 );
 
 $day = date('d-M-Y+H:i');
@@ -45,9 +45,9 @@ foreach($reservoirs as $key => $reservoir) {
             $vol = str_replace(',', '',trim($vols->plaintext));
 
             $regx = '/^\d/';
-            if(preg_match($regx, $vol) && $date_check[2] >= 2000) {
+            if(preg_match($regx, $vol) && $date_check[1] >= 2000) {
                 $pct = round(($vol / $reservoir['capacity']) * 100, 1);
-                fputcsv($fh, array(trim($name), $vol, $reservoir['capacity'], $pct, $date_check[0] . '/' . $date_check[2], $reservoir['state']));
+                fputcsv($fh, array(trim($name), $vol, $reservoir['capacity'], $pct, $date_check[0] . '/' . $date_check[1], $reservoir['state']));
             }
         }
         fclose($fh);

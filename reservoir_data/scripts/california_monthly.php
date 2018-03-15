@@ -166,10 +166,12 @@ $reservoirs = array(
 "SLW" => 78000
 );
 
-$last_month = date("m/d/Y", strtotime("first day of previous month"));
+// $last_month = date("m/d/Y", strtotime("first day of previous month"));
+$last_month = date("m/Y", strtotime("first day of previous month"));
 
 foreach($reservoirs as $key => $reservoir) {
     $full_link = "http://cdec.water.ca.gov/dynamicapp/QueryMonthly?s=$key";
+
     try {
         $html = new simple_html_dom();
         $html->load_file($full_link);
@@ -200,7 +202,9 @@ foreach($reservoirs as $key => $reservoir) {
             if($d == $last_month && preg_match($regx, $vol)) {
                 $short_date = preg_split('/\//', $d);
                 $pct = round(($vol / $reservoir) * 100, 1);
-                fputcsv($fh, array(trim($name), $vol, $reservoir, $pct, $short_date[0] . '/'. $short_date[2]));
+                $date_vals = $short_date[0] . '/'. $short_date[1];
+               // $date_vals = $short_date[0] . '/'. $short_date[2];
+                fputcsv($fh, array(trim($name), $vol, $reservoir, $pct, $date_vals));
             }
         }
         fclose($fh);
