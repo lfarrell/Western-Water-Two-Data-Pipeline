@@ -63,7 +63,6 @@ foreach($stations as $station_code => $station) {
   //  fputcsv($fh, array('reservoir', 'storage' ,'capacity' ,'pct_capacity', 'date', 'state'));
 
     $url = "https://www.usbr.gov/pn-bin/daily.pl?station=$station_code&format=html&year=" . $date_bits[1] . "&month=" . $month_num . "&day=1&year=" . $date_bits[1] . "&month=$month_num&day=$days&pcode=AF";
-  //  https://www.usbr.gov/pn-bin/daily.pl?station=isl&format=html&year=2018&month=3&day=14&year=2018&month=4&day=12&pcode=af
   //  https://www.usbr.gov/pn-bin/daily.pl?station=AGA&format=html&year=2018&month=+3&day=+1&year=2018&month=+3&day=31&pcode=AF
     $html = file_get_html($url, true);
 
@@ -75,8 +74,15 @@ foreach($stations as $station_code => $station) {
         $res_level = $level->plaintext;
 
         if($date != 'Date' && $res_level != '') {
+            if(preg_match('/\//', $date)) {
+                $corrected_date = $date;
+            } else {
+                $date_bits_2 = preg_split('/-/', $date);
+                $corrected_date = $date_bits_2[1] . '/' . $date_bits_2[2] . '/' . $date_bits_2[0];
+            }
+
             $pct_capacity = round(($res_level / $station['capacity']) * 100, 1);
-            fputcsv($fh, array($station['name'], trim($res_level), $station['capacity'], $pct_capacity, $date, $station['state']));
+            fputcsv($fh, array($station['name'], trim($res_level), $station['capacity'], $pct_capacity, $corrected_date, $station['state']));
         }
     }
     echo $station_code . " processed\n";
@@ -108,6 +114,7 @@ foreach($files as $file) {
                     $date_parts = $date[0] . '/' . $date[2];
                     $months[$date_parts][] = $data[1];
                 }
+
                 $res = $data[0];
                 $capacity = $data[2];
                 $row++;
