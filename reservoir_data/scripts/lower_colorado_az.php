@@ -5,15 +5,15 @@ include 'simple_html_dom.php';
 date_default_timezone_set('America/Phoenix');
 
 $bureau_reservoirs = array(
-    'Horse Mesa' => array('capacity' => 245138, 'state' => 'AZ'),
-    'Roosevelt' => array('capacity' => 1381580, 'state' => 'AZ'),
-    'Mormon Flat' => array('capacity' => 57852, 'state' => 'AZ'),
-    'Stewart Mtn' => array('capacity' => 69765, 'state' => 'AZ'),
+    'Apache Lake (Horse Mesa Dam)' => array('capacity' => 245138, 'state' => 'AZ', 'alias' => 'Horse Mesa'),
+    'Roosevelt Lake (Roosevelt Dam)' => array('capacity' => 1381580, 'state' => 'AZ', 'alias' => 'Roosevelt'),
+    'Canyon Lake (Mormon Flat Dam)' => array('capacity' => 57852, 'state' => 'AZ', 'alias' => 'Mormon Flat'),
+    'Saguaro Lake (Stewart Mountain Dam)' => array('capacity' => 69765, 'state' => 'AZ', 'alias' => 'Stewart Mountain'),
  //   'Bartlett' => array('capacity' => 178490, 'state' => 'AZ'),
  //   'Horseshoe' => array('capacity' => 131500, 'state' => 'AZ')
 );
 
-$path = "http://data.hydrometdataservice.info/dwr/report.aspx?dt=";
+$path = "https://streamflow.watershedconnection.com/Dwr?reportDate=";
 $last_month = date("d/m/Y", strtotime("first day of previous month"));
 $date_bits = preg_split('/\//', $last_month);
 $days = cal_days_in_month(CAL_GREGORIAN, $date_bits[1], $date_bits[2]);
@@ -24,7 +24,7 @@ $fd = fopen("../data/lower_all_az_daily.csv", "wb");
 
 for($i=1; $i<=$days; $i++) {
     $month = preg_replace('/^0/', '', $month);
-    $full_date = $month . '/' . $i . '/' . $year;
+    $full_date = $year . '-' . $month . '-' . $i;
     $url = $path . $full_date;
 
     $lc_html = file_get_html($url);
@@ -33,18 +33,19 @@ for($i=1; $i<=$days; $i++) {
     $rows = $table->find('tr');
 
     foreach($rows as $key => $row) {
+        if($key < 2) continue;
         $reservoir = $row->find('td', 0);
-        $res_name = $reservoir->plaintext;
+        $res_name_bits = $reservoir->plaintext;
+        $res_name = trim(implode(' ', preg_split('/\s+/', $res_name_bits)));
 
         if(array_key_exists($res_name, $bureau_reservoirs)) {
-            echo $res_name . "\n";
-            $current_level = $row->find('td', 4);
-            $curr_level = str_ireplace(',', '', $current_level->plaintext);
-            echo $curr_level . "\n";
+            $res_full_name = $bureau_reservoirs[$res_name]['alias'];
+            $current_level = $row->find('td', 3);
+            $curr_level = str_ireplace(',', '', trim($current_level->plaintext));
             $cap = $bureau_reservoirs[$res_name]['capacity'];
             $pct_cap = round(($curr_level / $cap) * 100, 1);
 
-            fputcsv($fd, array($res_name, $curr_level, $cap, $pct_cap, $month . '/' . $i . '/' . $year, 'AZ'));
+            fputcsv($fd, array($res_full_name, $curr_level, $cap, $pct_cap, $month . '/' . $i . '/' . $year, 'AZ'));
         }
     }
 
