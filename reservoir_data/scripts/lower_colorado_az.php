@@ -8,7 +8,7 @@ $bureau_reservoirs = array(
     'Apache Lake (Horse Mesa Dam)' => array('capacity' => 245138, 'state' => 'AZ', 'alias' => 'Horse Mesa'),
     'Roosevelt Lake (Roosevelt Dam)' => array('capacity' => 1381580, 'state' => 'AZ', 'alias' => 'Roosevelt'),
     'Canyon Lake (Mormon Flat Dam)' => array('capacity' => 57852, 'state' => 'AZ', 'alias' => 'Mormon Flat'),
-    'Saguaro Lake (Stewart Mountain Dam)' => array('capacity' => 69765, 'state' => 'AZ', 'alias' => 'Stewart Mountain'),
+    'Saguaro Lake (Stewart Mountain Dam)' => array('capacity' => 69765, 'state' => 'AZ', 'alias' => 'Stewart Mtn'),
  //   'Bartlett' => array('capacity' => 178490, 'state' => 'AZ'),
  //   'Horseshoe' => array('capacity' => 131500, 'state' => 'AZ')
 );
@@ -27,7 +27,7 @@ for($i=1; $i<=$days; $i++) {
     $full_date = $year . '-' . $month . '-' . $i;
     $url = $path . $full_date;
 
-    $lc_html = file_get_html($url);
+    $lc_html = file_get_html($url, true);
 
     $table = $lc_html->find('table', 0);
     $rows = $table->find('tr');
