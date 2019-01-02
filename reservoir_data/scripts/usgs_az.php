@@ -23,7 +23,7 @@ $days = cal_days_in_month(CAL_GREGORIAN, $date_bits[1], $date_bits[0]);
 $end_date = $date_bits[0] . '-' . $date_bits[1] . '-' . $days;
 
 foreach($az_reservoirs as $res_key => $res_info) {
-    $url = "http://waterdata.usgs.gov/nwis/dv?cb_00054=on&format=rdb&site_no=$res_key&referred_module=sw&period=&begin_date=$last_month&end_date=$end_date";
+    $url = "https://waterdata.usgs.gov/nwis/dv?cb_00054=on&format=rdb&site_no=$res_key&referred_module=sw&period=&begin_date=$last_month&end_date=$end_date";
 
     $file_name = strtolower(preg_replace('/\s+/', '', $res_info['name']));
     get_records($url,  $base . $file_name  . ".tsv", 'a');
