@@ -1,0 +1,85 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/!ut/p/
+# 
+# Support Contact: usdafpacbc@midatl.service-now.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	RESERVOIR 14034490: Willow Creek, OR
+# 
+# Data items provided in this file:
+#
+# Element Name              Value Type  Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description               
+# Reservoir Storage Volume  Value       None           Instantaneous - Start of Month  N/A        Acre feet          N/A           RESC          Reservoir storage volume  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Willow Creek (14034490) 
+# Oregon  RESERVOIR Site - 2050 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 15, 2019 3:32:33 PM GMT-08:00
+#
+Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
+1990,3927,4027,4027,4227,4427,4227,4227,3927,3727,3527,3227,3127
+1991,3127,3527,4127,4327,4127,4427,4327,4027,3927,3727,3627,4127
+1992,4127,4227,4327,4227,4227,4227,4127,3927,3027,2827,2727,2927
+1993,3427,4327,4227,6227,6527,6227,6227,6127,6127,5927,5127,4227
+1994,4227,4227,4427,5427,5927,6327,6127,5927,5727,5527,5027,4127
+1995,4227,4327,4727,6227,6527,6227,6227,6127,5827,5627,4727,4327
+1996,4527,4027,5227,5227,6227,6027,5827,5627,5627,5527,4927,4327
+1997,5227,4327,4227,5627,6127,6027,6127,6027,5927,5827,5327,4227
+1998,4227,4227,4127,5527,5827,6427,6127,6027,5927,5827,5227,4227
+1999,4427,4227,4327,5327,5927,6127,6027,5827,5727,5527,5027,4227
+2000,4227,4327,4927,5827,6227,6127,6127,5927,5627,5427,5227,4427
+2001,4327,4227,4427,5627,6127,6127,6027,5827,5627,5427,5227,4227
+2002,4127,4327,4427,4927,5127,5327,5227,5027,4827,4527,4427,4227
+2003,4327,4327,5427,6127,6227,6227,6127,5327,4427,3927,3827,3727
+2004,3927,4427,4227,5427,6127,6427,6327,6027,5027,4827,4527,4227
+2005,4227,4427,4527,4627,4827,6227,6227,5727,4727,4027,3927,3927
+2006,4027,4127,4727,5827,6127,6327,6127,5927,5027,4427,4327,4427
+2007,4427,4227,4927,5827,6127,6227,6127,5327,4427,4027,3927,3927
+2008,4127,4327,4927,5727,6227,6127,6227,6027,5327,4927,4727,4227
+2009,4227,4327,4627,5927,6027,6127,6127,5827,4927,4127,4027,4127
+2010,4227,4527,5427,6127,,6227,6027,6027,5427,4827,4727,4327
+2011,4827,4927,5127,6227,5927,7127,6000,6000,5500,5300,5200,4300
+2012,4300,4500,4900,6000,6100,6100,6000,5400,4300,3800,3726,3617
+2013,3847,4437,4817,5577,5907,5931,5747,5067,4267,3700,3557,3537
+2014,3557,3697,4827,5797,5987,5907,5535,4628,3677,2897,2667,2670
+2015,2896,4308,5179,5753,5843,5374,4691,3782,2897,2465,2240,2261
+2016,2570,3030,4208,5556,5924,5603,5104,4133,3239,2646,2425,2387
+2017,2443,2764,4807,5727,6138,5904,5654,4581,3398,2843,2335,2428
+2018,2656,3488,4120,5860,6009,6001,5197,4061,3237,2892,2894,2946
+2019,2335,3868,5177,7478,,,,,,,,

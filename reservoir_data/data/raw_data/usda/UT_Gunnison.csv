@@ -1,0 +1,110 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/!ut/p/
+# 
+# Support Contact: usdafpacbc@midatl.service-now.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	RESERVOIR 10216200: Gunnison Reservoir, UT
+# 
+# Data items provided in this file:
+#
+# Element Name              Value Type  Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description               
+# Reservoir Storage Volume  Value       None           Instantaneous - Start of Month  N/A        Acre feet          N/A           RESC          Reservoir storage volume  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Gunnison Reservoir (10216200) 
+# Utah  RESERVOIR Site - 5380 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 15, 2019 3:33:15 PM GMT-08:00
+#
+Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
+1965,4200,7800,12900,16500,13600,11000,,,,13640,13580,16100
+1966,15980,16220,17850,18480,14320,11770,8220,3730,7,0,248,604
+1967,2120,3360,7340,14440,12270,9240,14320,12850,8030,3670,3940,5380
+1968,7320,9900,17560,18330,18330,16080,17790,13850,11400,6160,7530,10800
+1969,13390,16940,17690,18460,17190,18200,18460,12720,7550,3720,7150,12010
+1970,16700,16820,17560,18200,15600,15240,17690,13960,9320,4610,6360,10450
+1971,15120,17310,17310,18070,15720,12940,12940,10000,5250,2690,4450,7410
+1972,10480,14770,18200,18070,14420,10400,7580,3070,70,650,1420,3410
+1973,5110,7340,10000,18200,18070,18200,18070,12830,8460,4220,7320,9130
+1974,13280,17010,17820,18370,18070,17310,16510,12340,7070,4250,4680,5440
+1975,7040,8320,12200,18460,16820,14190,18330,14890,11280,6740,7580,10700
+1976,14250,16940,17820,18070,15780,11960,7750,2930,0,40,6550,6370
+1977,6940,7780,5640,3930,3440,1280,120,0,0,0,100,240
+1978,450,980,2660,8800,9560,9180,15720,12300,6110,3740,4240,5110
+1979,7320,9540,12360,16210,17260,17100,14980,12260,7380,4900,4700,5400
+1980,7140,11910,17050,18480,16730,17500,16900,13840,8870,6060,11170,15430
+1981,17440,17770,17870,17610,17220,16800,16080,11530,6050,3770,4560,6650
+1982,9760,13260,17250,18190,18780,19010,18910,16860,12180,8660,11740,14810
+1983,17120,17300,17690,15700,17100,18200,15720,15330,13670,13000,14000,15000
+1984,20264,20264,20264,20264,20264,20264,20000,17000,16000,15600,15700,15840
+1985,15800,20264,20264,20264,20264,20264,20000,17000,16000,15600,15000,17751
+1986,16800,20264,20264,20264,20264,18200,15720,17220,14000,12000,14000,14500
+1987,14500,15000,15500,16000,17000,17600,11000,9660,5000,3400,5790,7340
+1988,12020,12400,14800,20264,20300,20300,14670,9000,5000,3000,3200,4910
+1989,4910,9300,12000,20264,16000,11000,6660,1000,1000,1010,1000,1010
+1990,3364,3364,4900,8780,7600,3700,1000,1000,1000,1000,1000,968
+1991,1460,3610,3100,6079,4090,3240,6650,3130,2000,1000,1000,1000
+1992,2690,5180,6400,8300,5379,6350,2000,1000,0,0,0,0
+1993,500,600,2100,1379,12960,20264,20264,13170,10262,3958,5000,7410
+1994,12500,12500,15840,16940,14540,13620,11530,5400,200,500,800,1100
+1995,2450,8658,11120,11800,12720,20264,19500,19200,15480,11430,11850,15120
+1996,18580,20264,20264,20264,17500,20264,17264,11640,6080,2600,3010,6160
+1997,10600,15000,18200,20264,18000,20264,18200,14540,9130,6080,8200,11600
+1998,17437,19390,20264,20264,20264,20264,20264,18485,13820,12000,14070,18380
+1999,20264,20264,20264,20264,20264,20264,17000,15260,9600,7000,7000,12000
+2000,13000,19000,20264,20264,17300,19260,13000,6100,1320,500,0,0
+2001,0,6400,10000,13300,11400,14400,10000,7000,3000,1000,500,4700
+2002,300,1400,2400,6300,5800,3000,2000,400,200,0,200,400
+2003,600,1100,2400,3600,3600,8400,7000,4100,1000,0,0,0
+2004,0,1200,2500,3800,3300,3900,3900,1300,0,0,0,400
+2005,1100,2200,4300,5200,3500,3300,8800,8700,9600,7000,7500,8600
+2006,11600,14900,17400,20300,20300,20300,18100,11600,11000,10000,9000,9000
+2007,9400,11300,15200,16900,15000,14400,10100,4700,0,0,0,500
+2008,1100,2500,4400,10200,9000,10700,20300,14300,7200,4000,4100,5100
+2009,7300,8900,12800,14400,12500,20400,20300,12200,6500,3000,3700,4900
+2010,6900,9000,11300,14000,17100,15200,20300,14400,8000,3900,4200,4500
+2011,8900,11400,14500,20300,20500,16900,20500,20300,15000,12300,13500,17400
+2012,18200,18600,20400,20500,20500,18000,10600,5000,2000,0,0,0
+2013,500,500,6000,8658,11000,0,0,0,0,0,0,0
+2014,200,500,3590,4970,3290,4420,1000,0,0,0,0,0
+2015,0,200,1320,2275,0,650,1670,0,0,0,0,0
+2016,200,400,1800,2960,1010,1150,1540,0,0,0,0,200
+2017,200,400,2330,4220,4500,9040,14420,8850,4200,0,0,0
+2018,0,1580,3240,4350,1805,200,0,0,0,0,0,0
+2019,20,190,980,2530,,,,,,,,

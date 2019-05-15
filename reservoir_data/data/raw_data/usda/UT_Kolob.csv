@@ -1,0 +1,64 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/!ut/p/
+# 
+# Support Contact: usdafpacbc@midatl.service-now.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	RESERVOIR 09UTKOLB: Kolob Reservoir, UT
+# 
+# Data items provided in this file:
+#
+# Element Name              Value Type  Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description               
+# Reservoir Storage Volume  Value       None           Instantaneous - Start of Month  N/A        Acre feet          N/A           RESC          Reservoir storage volume  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Kolob Reservoir (09UTKOLB) 
+# Utah  RESERVOIR Site - 8118 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 15, 2019 3:33:17 PM GMT-08:00
+#
+Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
+2011,,,,,,,,,,,5500,3800
+2012,2800,2900,3000,700,1800,5500,5300,5200,5300,5300,5300,5400
+2013,5511,5288,4287,4472,5552,5500,5421,4900,5417,5400,4987,3798
+2014,2300,1680,1206,1452,1965,2624,2636,2608,2513,2630,2625,2686
+2015,2800,2906,2990,3368,4155,4875,5456,5305,5107,4967,4953,4642
+2016,3293,2396,1569,2135,4383,5426,5530,5432,5200,5432,5236,5432
+2017,5432,4424,4546,5609,5629,5700,5544,4726,5375,5220,5096,3591
+2018,1191,1064,1176,1176,1900,2184,2072,2016,2016,2016,56,56
+2019,112,168,0,392,,,,,,,,

@@ -1,0 +1,64 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/!ut/p/
+# 
+# Support Contact: usdafpacbc@midatl.service-now.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	RESERVOIR 09UTSAND: Sand Hollow Reservoir, UT
+# 
+# Data items provided in this file:
+#
+# Element Name              Value Type  Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description               
+# Reservoir Storage Volume  Value       None           Instantaneous - Start of Month  N/A        Acre feet          N/A           RESC          Reservoir storage volume  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Sand Hollow Reservoir (09UTSAND) 
+# Utah  RESERVOIR Site - 2992 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 15, 2019 3:33:30 PM GMT-08:00
+#
+Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
+2011,,,,,,,,,,,46600,42900
+2012,47400,49300,48800,48500,49000,47300,45400,43700,41600,40000,37500,35900
+2013,35164,36024,40134,41451,40062,38804,36833,32980,29247,27249,27100,28700
+2014,32295,34000,37000,37762,37065,35940,34253,32208,28118,25204,24540,24028
+2015,28373,31600,33750,37740,37882,37218,36094,34713,32350,31150,31773,30000
+2016,33768,37100,39807,43585,42943,47103,45398,45500,40000,45500,39412,45500
+2017,45500,42000,45853,47927,46933,49000,47500,27854,44000,44683,43000,44321
+2018,47139,48000,48500,48500,48000,47000,45500,45000,45000,45000,37500,37000
+2019,38000,39500,41500,44500,,,,,,,,

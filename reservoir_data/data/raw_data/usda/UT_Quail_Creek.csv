@@ -1,0 +1,89 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/!ut/p/
+# 
+# Support Contact: usdafpacbc@midatl.service-now.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	RESERVOIR 09UTQUAI: Quail Creek, UT
+# 
+# Data items provided in this file:
+#
+# Element Name              Value Type  Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description               
+# Reservoir Storage Volume  Value       None           Instantaneous - Start of Month  N/A        Acre feet          N/A           RESC          Reservoir storage volume  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Quail Creek (09UTQUAI) 
+# Utah  RESERVOIR Site - 2995 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 15, 2019 3:33:29 PM GMT-08:00
+#
+Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
+1986,,1000,,,,,,,,,,
+1987,,,,26000,24000,27000,,,,,,
+1988,13000,13000,24000,32000,32000,32000,,,,,,
+1989,,38000,38000,38000,38000,38000,,,,,,
+1990,,0,0,0,0,0,0,0,0,0,0,0
+1991,0,0,0,0,0,0,0,0,0,0,,
+1992,15000,20000,23000,26000,26000,,,,,,,
+1993,33000,35000,38000,39000,40000,35000,,,,,,
+1994,34000,34000,36000,38000,38000,38000,,,,,,
+1995,31000,33000,38000,38000,40000,40000,,34000,,,25000,25000
+1996,25000,30000,34000,38000,40000,40000,,,,,,
+1997,35000,29000,39000,38000,40000,40000,,,,,26500,28000
+1998,30700,36500,37700,37700,39000,40000,39000,37100,33000,29700,28000,28600
+1999,30700,33600,35300,38400,39000,40000,40000,39600,37700,35900,33600,34100
+2000,35300,36500,37100,37100,39000,40000,39600,37700,33600,30200,27000,26000
+2001,28000,32400,35900,39000,39600,40000,39600,37000,33000,30000,28000,25900
+2002,28600,32400,37100,37700,32500,28600,28500,18800,16400,14500,15000,16000
+2003,12000,11000,12500,15600,19500,21800,22000,22700,21000,20400,18300,20500
+2004,13500,21400,24000,27000,27900,15800,24700,21200,18800,16200,17000,18000
+2005,25600,32900,36800,38000,38800,40000,39000,38000,35600,33000,32000,32200
+2006,34300,35300,37300,37100,37800,37800,34300,31400,28800,28800,25000,25400
+2007,28000,27800,30700,32800,33900,32300,28400,24400,20800,20200,20600,23700
+2008,26200,30000,31300,30400,29500,30900,28600,25800,27000,24600,23500,26400
+2009,26600,31800,32700,32000,33000,36100,32900,29200,25300,22000,20200,21500
+2010,26000,30600,31200,31200,31200,31200,31200,31200,21100,18300,23100,23200
+2011,26300,27400,28600,30500,30800,30800,31600,30700,28100,25400,23700,24200
+2012,24900,26400,29700,29700,31100,29100,26600,24300,22200,20300,17700,17800
+2013,22275,23055,24179,25172,27455,27815,25315,24300,23600,24312,24760,25157
+2014,26000,26400,28136,28600,28500,27451,25197,24433,25439,24875,22140,22581
+2015,24241,28040,28360,29050,28941,33731,33288,30752,27960,26080,26080,24400
+2016,25580,26610,27538,28041,30128,30456,33442,30400,30400,29000,25186,30400
+2017,36400,28000,30173,31297,31119,31600,30400,29000,26000,24084,23600,25732
+2018,27108,28400,30800,30800,31200,29600,26800,26000,26000,26000,23200,25200
+2019,27600,28800,30400,30800,,,,,,,,

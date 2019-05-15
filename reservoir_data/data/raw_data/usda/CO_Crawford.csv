@@ -1,0 +1,108 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/!ut/p/
+# 
+# Support Contact: usdafpacbc@midatl.service-now.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	RESERVOIR 09009340: Crawford Reservoir, CO
+# 
+# Data items provided in this file:
+#
+# Element Name              Value Type  Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description               
+# Reservoir Storage Volume  Value       None           Instantaneous - Start of Month  N/A        Acre feet          N/A           RESC          Reservoir storage volume  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Crawford Reservoir (09009340) 
+# Colorado  RESERVOIR Site - 6560 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 15, 2019 3:34:14 PM GMT-08:00
+#
+Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
+1967,5300,6100,7100,8000,7600,7500,6400,3800,2200,1400,1700,2200
+1968,2500,3000,4100,6500,9700,13100,11100,8900,5900,4200,4600,5300
+1969,6000,6700,7800,13100,14200,14300,12600,8900,6100,6100,7200,8100
+1970,9000,9800,11100,13100,14400,14100,12200,8300,6100,6000,7500,8500
+1971,9500,10300,11600,14000,14400,14000,11300,7100,4700,4000,5100,5900
+1972,6700,7700,9600,10900,10200,9600,6700,3300,1300,2200,4100,4900
+1973,5200,6500,8000,12500,12100,14600,14300,12400,8800,6600,6800,8000
+1974,9100,10000,12800,14300,14200,13300,10500,7000,3600,2700,3800,4600
+1975,5200,5700,7000,9700,13800,14400,13600,10100,6700,5600,6500,7400
+1976,8100,8700,9600,12800,13200,11900,9000,5700,3100,3000,3400,3800
+1977,3800,4200,4700,5200,5400,3600,2000,1200,900,700,800,1000
+1978,1400,1700,2200,4000,8700,13400,14200,12900,9400,6200,4500,5600
+1979,6500,7100,7800,9000,13400,14300,14000,12300,9000,6200,4800,5800
+1980,6400,7400,8500,9800,12600,14300,14000,11500,7600,4600,4400,5500
+1981,6500,7100,10000,8900,11800,11300,10500,7900,4300,2400,2500,3300
+1982,3900,4500,5000,7600,10100,12700,14300,12300,8400,7500,8500,10000
+1983,10700,11500,12000,14000,14300,14300,14300,14300,12300,8700,7700,6500
+1984,9400,10500,11200,12200,14300,14300,14300,13900,12200,9600,10100,11600
+1985,13100,14300,14300,14300,14300,14300,14300,12800,9000,6900,10100,11500
+1986,12900,14300,14300,14300,14300,14300,14300,13400,9900,7400,10200,13700
+1987,14300,14300,14300,14300,14300,14300,14300,11300,8100,6300,6700,8200
+1988,6500,10400,11400,13400,14300,14000,13400,11100,7200,5200,5700,6500
+1989,7000,7900,8700,10900,13900,13800,12400,9900,5700,3600,3800,4300
+1990,4800,5600,5800,6600,8300,9200,8100,5100,2000,1200,2100,4300
+1991,4800,5600,5800,6600,8300,9200,8100,5100,2000,1200,4700,
+1992,,,,,14100,14100,14100,12300,8900,6000,5700,
+1993,,,,,14100,14400,14200,12700,8700,6800,7800,9300
+1994,10100,3300,4100,4500,4500,4300,3800,2500,1800,3800,3800,3800
+1995,6700,7800,11000,12900,14400,14400,14300,10500,6300,6200,6700,7600
+1996,8100,8900,10000,11700,12500,13150,13800,10500,6100,3900,4100,4700
+1997,5100,8000,8900,14400,14400,14300,14500,11800,9300,7500,8500,9700
+1998,11000,11700,12400,13400,14200,14200,13300,12400,8200,4900,4600,6900
+1999,6900,7500,8200,9200,9100,12800,12600,9800,6500,4600,4200,4800
+2000,5500,6300,7000,7700,10800,12200,9900,6600,3200,2200,2200,3000
+2001,3600,4000,4500,5200,7400,9900,9100,6100,3200,2000,1800,2500
+2002,3000,3400,3700,4100,6900,5300,3800,2000,1600,1600,2400,2900
+2003,3500,4000,4600,5400,6800,9000,9700,6500,2700,1400,1400,2300
+2004,2500,3100,3600,6200,10300,11400,9900,6800,3100,1600,1300,2000
+2005,2500,3200,3800,4900,8800,14000,14100,11500,7300,4900,5200,6300
+2006,7300,8000,8700,10100,14000,14200,12800,9600,6500,5200,6700,8200
+2007,9200,10000,10700,14000,14500,14500,14000,10600,6600,4600,5100,5600
+2008,6600,7000,8000,8600,12600,14300,14300,11600,7900,5500,5000,6100
+2009,7000,7900,8800,10400,13500,14400,14000,11900,7700,5300,5000,5400
+2010,5600,5800,6100,7000,11400,13800,13600,10800,7400,5211,4683,5124
+2011,5857,6198,6509,7934,11930,14080,14160,12230,7845,4778,4336,4971
+2012,5409,5892,6465,8836,11310,9494,6706,4007,1987,1226,1100,1200
+2013,1300,1400,1600,2520,5740,8530,8240,5430,2950,1920,2340,3260
+2014,4060,4700,5670,7310,12120,14480,14100,10820,7260,5120,5290,5940
+2015,6560,7100,7980,10170,12280,2829,2883,2938,2994,3048,3104,3158
+2016,3213,3269,3321,3377,3431,3487,3541,3596,3652,3706,3762,3816
+2017,3871,3927,3977,4033,4087,4143,4197,4252,4308,4362,3839,4186
+2018,4598,5001,5436,6231,8119,7112,4977,2511,1288,840,757,834
+2019,1147,1468,1837,3362,,,,,,,,

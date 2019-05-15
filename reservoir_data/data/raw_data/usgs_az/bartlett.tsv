@@ -1,0 +1,409 @@
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2018-11-02 18:50:40 EDT       (caww01)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09509502 BARTLETT RESERVOIR AT BARTLETT DAM, AZ
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09509502
+#            TS   parameter     statistic     Description
+#          5723       00054     32400     Reservoir storage, acre feet (Observation at midnight)
+#
+# Data-value qualification codes included in this output:
+#     P  Provisional data subject to revision.
+# 
+agency_cd	site_no	datetime	5723_00054_32400	5723_00054_32400_cd
+5s	15s	20d	14n	10s
+USGS	09509502	2018-10-01	80710	P
+USGS	09509502	2018-10-02	81140	P
+USGS	09509502	2018-10-03	81900	P
+USGS	09509502	2018-10-04	82020	P
+USGS	09509502	2018-10-05	82070	P
+USGS	09509502	2018-10-06	82130	P
+USGS	09509502	2018-10-07	82330	P
+USGS	09509502	2018-10-08	82480	P
+USGS	09509502	2018-10-09	82540	P
+USGS	09509502	2018-10-10	82640	P
+USGS	09509502	2018-10-11	82720	P
+USGS	09509502	2018-10-12	82760	P
+USGS	09509502	2018-10-13	82790	P
+USGS	09509502	2018-10-14	83210	P
+USGS	09509502	2018-10-15	83310	P
+USGS	09509502	2018-10-16	83270	P
+USGS	09509502	2018-10-17	83240	P
+USGS	09509502	2018-10-18	83040	P
+USGS	09509502	2018-10-19	83110	P
+USGS	09509502	2018-10-20	83270	P
+USGS	09509502	2018-10-21	83320	P
+USGS	09509502	2018-10-22	83370	P
+USGS	09509502	2018-10-23	83560	P
+USGS	09509502	2018-10-24	83710	P
+USGS	09509502	2018-10-25	83740	P
+USGS	09509502	2018-10-26	83740	P
+USGS	09509502	2018-10-27	83830	P
+USGS	09509502	2018-10-28	83780	P
+USGS	09509502	2018-10-29	83810	P
+USGS	09509502	2018-10-30	83960	P
+USGS	09509502	2018-10-31	84100	P
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2018-12-03 19:38:14 EST       (vaww02)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09509502 BARTLETT RESERVOIR AT BARTLETT DAM, AZ
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09509502
+#            TS   parameter     statistic     Description
+#          5723       00054     32400     Reservoir storage, acre feet (Observation at midnight)
+#
+# Data-value qualification codes included in this output:
+#     P  Provisional data subject to revision.
+# 
+agency_cd	site_no	datetime	5723_00054_32400	5723_00054_32400_cd
+5s	15s	20d	14n	10s
+USGS	09509502	2018-11-01	84010	P
+USGS	09509502	2018-11-02	83790	P
+USGS	09509502	2018-11-03	83510	P
+USGS	09509502	2018-11-04	82610	P
+USGS	09509502	2018-11-05	81390	P
+USGS	09509502	2018-11-06	80020	P
+USGS	09509502	2018-11-07	78670	P
+USGS	09509502	2018-11-08	77730	P
+USGS	09509502	2018-11-09	77680	P
+USGS	09509502	2018-11-10	78000	P
+USGS	09509502	2018-11-11	78480	P
+USGS	09509502	2018-11-12	79280	P
+USGS	09509502	2018-11-13	80090	P
+USGS	09509502	2018-11-14	81100	P
+USGS	09509502	2018-11-15	81870	P
+USGS	09509502	2018-11-16	81980	P
+USGS	09509502	2018-11-17	82100	P
+USGS	09509502	2018-11-18	82230	P
+USGS	09509502	2018-11-19	82360	P
+USGS	09509502	2018-11-20	82490	P
+USGS	09509502	2018-11-21	82590	P
+USGS	09509502	2018-11-22	82720	P
+USGS	09509502	2018-11-23	82820	P
+USGS	09509502	2018-11-24	82970	P
+USGS	09509502	2018-11-25	83110	P
+USGS	09509502	2018-11-26	83240	P
+USGS	09509502	2018-11-27	83370	P
+USGS	09509502	2018-11-28	83540	P
+USGS	09509502	2018-11-29	83690	P
+USGS	09509502	2018-11-30	83910	P
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2019-01-02 13:00:33 EST       (caww01)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09509502 BARTLETT RESERVOIR AT BARTLETT DAM, AZ
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09509502
+#            TS   parameter     statistic     Description
+#          5723       00054     32400     Reservoir storage, acre feet (Observation at noon)
+#
+# Data-value qualification codes included in this output:
+#     A  Approved for publication -- Processing and review completed.
+#     P  Provisional data subject to revision.
+# 
+agency_cd	site_no	datetime	5723_00054_32400	5723_00054_32400_cd
+5s	15s	20d	14n	10s
+USGS	09509502	2018-12-01	84130	A
+USGS	09509502	2018-12-02	84280	A
+USGS	09509502	2018-12-03	84450	A
+USGS	09509502	2018-12-04	84620	A
+USGS	09509502	2018-12-05	84740	A
+USGS	09509502	2018-12-06	84700	P
+USGS	09509502	2018-12-07	84720	P
+USGS	09509502	2018-12-08	84890	P
+USGS	09509502	2018-12-09	85080	P
+USGS	09509502	2018-12-10	85260	P
+USGS	09509502	2018-12-11	85430	P
+USGS	09509502	2018-12-12	85350	P
+USGS	09509502	2018-12-13	85300	P
+USGS	09509502	2018-12-14	85330	P
+USGS	09509502	2018-12-15	85320	P
+USGS	09509502	2018-12-16	85200	P
+USGS	09509502	2018-12-17	84890	P
+USGS	09509502	2018-12-18	84470	P
+USGS	09509502	2018-12-19	83940	P
+USGS	09509502	2018-12-20	83440	P
+USGS	09509502	2018-12-21	82810	P
+USGS	09509502	2018-12-22	82230	P
+USGS	09509502	2018-12-23	81840	P
+USGS	09509502	2018-12-24	81620	P
+USGS	09509502	2018-12-25	81430	P
+USGS	09509502	2018-12-26	81230	P
+USGS	09509502	2018-12-27	80920	P
+USGS	09509502	2018-12-28	80450	P
+USGS	09509502	2018-12-29	80010	P
+USGS	09509502	2018-12-30	79700	P
+USGS	09509502	2018-12-31	79750	P
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2019-02-02 09:04:18 EST       (caww02)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09509502 BARTLETT RESERVOIR AT BARTLETT DAM, AZ
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09509502
+#            TS   parameter     statistic     Description
+#          5723       00054     32400     Reservoir storage, acre feet (Observation at noon)
+#
+# Data-value qualification codes included in this output:
+#     P  Provisional data subject to revision.
+# 
+agency_cd	site_no	datetime	5723_00054_32400	5723_00054_32400_cd
+5s	15s	20d	14n	10s
+USGS	09509502	2019-01-01	79830	P
+USGS	09509502	2019-01-02	79750	P
+USGS	09509502	2019-01-03	79670	P
+USGS	09509502	2019-01-04	79620	P
+USGS	09509502	2019-01-05	79540	P
+USGS	09509502	2019-01-06	79620	P
+USGS	09509502	2019-01-07	79590	P
+USGS	09509502	2019-01-08	79460	P
+USGS	09509502	2019-01-09	79440	P
+USGS	09509502	2019-01-10	79460	P
+USGS	09509502	2019-01-11	79520	P
+USGS	09509502	2019-01-12	79590	P
+USGS	09509502	2019-01-13	79620	P
+USGS	09509502	2019-01-14	79600	P
+USGS	09509502	2019-01-15	79670	P
+USGS	09509502	2019-01-16	79720	P
+USGS	09509502	2019-01-17	79730	P
+USGS	09509502	2019-01-18	79770	P
+USGS	09509502	2019-01-19	79850	P
+USGS	09509502	2019-01-20	79940	P
+USGS	09509502	2019-01-21	80070	P
+USGS	09509502	2019-01-22	80060	P
+USGS	09509502	2019-01-23	79940	P
+USGS	09509502	2019-01-24	79700	P
+USGS	09509502	2019-01-25	79390	P
+USGS	09509502	2019-01-26	79040	P
+USGS	09509502	2019-01-27	78800	P
+USGS	09509502	2019-01-28	78610	P
+USGS	09509502	2019-01-29	78530	P
+USGS	09509502	2019-01-30	78540	P
+USGS	09509502	2019-01-31	78670	P
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2019-03-01 19:28:31 EST       (vaww02)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09509502 BARTLETT RESERVOIR AT BARTLETT DAM, AZ
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09509502
+#            TS   parameter     statistic     Description
+#          5723       00054     32400     Reservoir storage, acre feet (Observation at noon)
+#
+# Data-value qualification codes included in this output:
+#     P  Provisional data subject to revision.
+# 
+agency_cd	site_no	datetime	5723_00054_32400	5723_00054_32400_cd
+5s	15s	20d	14n	10s
+USGS	09509502	2019-02-01	78670	P
+USGS	09509502	2019-02-02	78770	P
+USGS	09509502	2019-02-03	78960	P
+USGS	09509502	2019-02-04	79060	P
+USGS	09509502	2019-02-05	79040	P
+USGS	09509502	2019-02-06	79280	P
+USGS	09509502	2019-02-07	79540	P
+USGS	09509502	2019-02-08	80020	P
+USGS	09509502	2019-02-09	80510	P
+USGS	09509502	2019-02-10	81000	P
+USGS	09509502	2019-02-11	81490	P
+USGS	09509502	2019-02-12	81900	P
+USGS	09509502	2019-02-13	82720	P
+USGS	09509502	2019-02-14	85080	P
+USGS	09509502	2019-02-15	95670	P
+USGS	09509502	2019-02-16	118300	P
+USGS	09509502	2019-02-17	127400	P
+USGS	09509502	2019-02-18	132600	P
+USGS	09509502	2019-02-19	135000	P
+USGS	09509502	2019-02-20	136900	P
+USGS	09509502	2019-02-21	137700	P
+USGS	09509502	2019-02-22	138600	P
+USGS	09509502	2019-02-23	139200	P
+USGS	09509502	2019-02-24	139800	P
+USGS	09509502	2019-02-25	140500	P
+USGS	09509502	2019-02-26	141900	P
+USGS	09509502	2019-02-27	145000	P
+USGS	09509502	2019-02-28	149200	P
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2019-04-01 19:49:13 EDT       (vaww02)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09509502 BARTLETT RESERVOIR AT BARTLETT DAM, AZ
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09509502
+#            TS   parameter     statistic     Description
+#          5723       00054     32400     Reservoir storage, acre feet (Observation at noon)
+#
+# Data-value qualification codes included in this output:
+#     P  Provisional data subject to revision.
+# 
+agency_cd	site_no	datetime	5723_00054_32400	5723_00054_32400_cd
+5s	15s	20d	14n	10s
+USGS	09509502	2019-03-01	156600	P
+USGS	09509502	2019-03-02	157100	P
+USGS	09509502	2019-03-03	157300	P
+USGS	09509502	2019-03-04	160000	P
+USGS	09509502	2019-03-05	165300	P
+USGS	09509502	2019-03-06	171300	P
+USGS	09509502	2019-03-07	175200	P
+USGS	09509502	2019-03-08	176000	P
+USGS	09509502	2019-03-09	175600	P
+USGS	09509502	2019-03-10	175700	P
+USGS	09509502	2019-03-11	175100	P
+USGS	09509502	2019-03-12	172400	P
+USGS	09509502	2019-03-13	172000	P
+USGS	09509502	2019-03-14	176400	P
+USGS	09509502	2019-03-15	175800	P
+USGS	09509502	2019-03-16	175100	P
+USGS	09509502	2019-03-17	176500	P
+USGS	09509502	2019-03-18	178000	P
+USGS	09509502	2019-03-19	177000	P
+USGS	09509502	2019-03-20	177400	P
+USGS	09509502	2019-03-21	177900	P
+USGS	09509502	2019-03-22	178100	P
+USGS	09509502	2019-03-23	177700	P
+USGS	09509502	2019-03-24	177300	P
+USGS	09509502	2019-03-25	176900	P
+USGS	09509502	2019-03-26	176600	P
+USGS	09509502	2019-03-27	176500	P
+USGS	09509502	2019-03-28	176400	P
+USGS	09509502	2019-03-29	176200	P
+USGS	09509502	2019-03-30	175700	P
+USGS	09509502	2019-03-31	175600	P
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2019-05-01 19:19:15 EDT       (caww01)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09509502 BARTLETT RESERVOIR AT BARTLETT DAM, AZ
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09509502
+#            TS   parameter     statistic     Description
+#          5723       00054     32400     Reservoir storage, acre feet (Observation at midnight)
+#
+# Data-value qualification codes included in this output:
+#     P  Provisional data subject to revision.
+# 
+agency_cd	site_no	datetime	5723_00054_32400	5723_00054_32400_cd
+5s	15s	20d	14n	10s
+USGS	09509502	2019-04-01	175300	P
+USGS	09509502	2019-04-02	175400	P
+USGS	09509502	2019-04-03	175500	P
+USGS	09509502	2019-04-04	175400	P
+USGS	09509502	2019-04-05	175100	P
+USGS	09509502	2019-04-06	174900	P
+USGS	09509502	2019-04-07	174700	P
+USGS	09509502	2019-04-08	174400	P
+USGS	09509502	2019-04-09	174100	P
+USGS	09509502	2019-04-10	173700	P
+USGS	09509502	2019-04-11	173100	P
+USGS	09509502	2019-04-12	172500	P
+USGS	09509502	2019-04-13	172000	P
+USGS	09509502	2019-04-14	171500	P
+USGS	09509502	2019-04-15	171200	P
+USGS	09509502	2019-04-16	171000	P
+USGS	09509502	2019-04-17	170700	P
+USGS	09509502	2019-04-18	170200	P
+USGS	09509502	2019-04-19	169900	P
+USGS	09509502	2019-04-20	170000	P
+USGS	09509502	2019-04-21	169900	P
+USGS	09509502	2019-04-22	169900	P
+USGS	09509502	2019-04-23	170100	P
+USGS	09509502	2019-04-24	170800	P
+USGS	09509502	2019-04-25	171200	P
+USGS	09509502	2019-04-26	171800	P
+USGS	09509502	2019-04-27	173000	P
+USGS	09509502	2019-04-28	174300	P
+USGS	09509502	2019-04-29	175200	P
+USGS	09509502	2019-04-30	175400	P

@@ -1,0 +1,94 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/!ut/p/
+# 
+# Support Contact: usdafpacbc@midatl.service-now.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	RESERVOIR 09UTKENS: Ken's Lake, UT
+# 
+# Data items provided in this file:
+#
+# Element Name              Value Type  Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description               
+# Reservoir Storage Volume  Value       None           Instantaneous - Start of Month  N/A        Acre feet          N/A           RESC          Reservoir storage volume  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Ken's Lake (09UTKENS) 
+# Utah  RESERVOIR Site - 5048 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 15, 2019 3:33:16 PM GMT-08:00
+#
+Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
+1981,,,,425,827,1032,978,867,649,610,916,1184
+1982,1385,1490,1408,1086,1187,1654,1566,1041,847,949,841,750
+1983,667,831,1028,1261,1514,2505,2610,2654,2413,1948,2255,2513
+1984,2255,1975,1641,1330,1583,2610,2566,2252,1312,627,376,0
+1985,190,599,949,1350,2207,2513,2566,1891,847,599,851,1172
+1986,1330,1525,1695,1854,2031,2522,2566,1958,1235,816,855,1010
+1987,1075,1146,1294,1490,1365,2588,2579,2005,1501,938,841,1023
+1988,1115,1312,1337,1510,1758,2293,2079,1095,411,160,0,0
+1989,0,378,745,1010,920,694,260,0,0,0,218,433
+1990,705,900,1146,1286,1151,1095,644,319,0,158,267,435
+1991,705,990,1212,1414,1496,1975,1887,1350,854,473,390,666
+1992,927,1207,1425,1612,2094,2544,2326,1658,983,459,320,490
+1993,802,1141,1238,1452,1805,2500,2597,2296,1722,1084,1245,1496
+1994,1595,1658,1743,1935,2229,2531,2109,1100,349,0,213,476
+1995,718,925,1133,925,1274,2370,2513,2522,1990,1217,1073,1449
+1996,1560,1801,1975,1990,1841,2124,1735,903,335,303,0,256
+1997,453,684,835,987,1373,2601,2407,1808,1464,1408,1848,2068
+1998,2005,1908,2180,2496,2461,2531,2584,2267,1658,1212,987,1086
+1999,1248,1443,1539,1641,1742,1895,2143,1908,1466,704,177,0
+2000,299,658,783,907,1005,1466,1197,682,440,204,0,271
+2001,361,454,548,661,831,1848,1725,1379,1345,907,590,792
+2002,907,1039,1039,1146,1038,861,505,0,0,0,248,432
+2003,548,674,773,867,938,1881,2049,1437,882,454,882,454
+2004,154,658,831,882,905,1449,1540,1115,519,237,0,277
+2005,337,418,469,617,1159,2566,2601,2400,2255,2019,1841,403
+2006,2012,2124,2161,2161,2124,2310,2038,1077,1073,724,949,1758
+2007,1925,1994,2049,2199,2292,2610,2217,1496,1050,753,753,927
+2008,1083,1210,1325,1423,1466,1742,2237,1674,1235,694,539,624
+2009,773,894,927,1005,982,1440,1379,851,522,325,228,355
+2010,476,616,724,894,1028,1223,1525,994,851,522,400,600
+2011,800,1000,1100,1100,1200,1700,2500,2400,1900,1600,1400,1500
+2012,1600,1800,1900,1800,1500,1200,800,600,300,200,200,200
+2013,200,301,349,411,458,590,565,361,259,607,694,861
+2014,982,1096,1121,1209,1286,1708,1775,1379,1248,1133,1072,1159
+2015,1248,1350,1408,1500,1300,1658,2310,1937,1350,1400,1146,1200
+2016,1408,1495,1600,1741,2217,2350,2544,2274,1800,1641,1600,1650
+2017,1741,1800,1908,2010,2124,2435,2412,1975,1005,1248,1050,1171
+2018,1235,1312,1325,1350,1120,982,539,350,240,0,232,265
+2019,300,361,390,522,,,,,,,,

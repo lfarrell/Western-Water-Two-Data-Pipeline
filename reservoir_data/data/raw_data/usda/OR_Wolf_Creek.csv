@@ -1,0 +1,98 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/!ut/p/
+# 
+# Support Contact: usdafpacbc@midatl.service-now.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	RESERVOIR 13283600: Wolf Creek, OR
+# 
+# Data items provided in this file:
+#
+# Element Name              Value Type  Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description               
+# Reservoir Storage Volume  Value       None           Instantaneous - Start of Month  N/A        Acre feet          N/A           RESC          Reservoir storage volume  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Wolf Creek (13283600) 
+# Oregon  RESERVOIR Site - 3700 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 15, 2019 3:32:32 PM GMT-08:00
+#
+Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
+1977,,,7240,7540,7860,7560,6410,2150,1530,1260,1320,1840
+1978,2430,2680,3090,7480,11080,11110,10890,8330,,5900,5590,5720
+1979,5820,5920,5850,6990,,10740,10040,6550,3140,2480,2580,3030
+1980,3400,3270,3420,4340,9970,11110,11110,9220,6580,4850,4780,4780
+1981,5280,5400,6360,8820,11330,11110,3700,7210,3460,1670,1940,2800
+1982,3030,3080,3210,4270,8030,9420,11110,9620,6480,4940,4780,4800
+1983,4870,4870,5490,8430,10250,11110,10250,8430,4860,3270,2480,2580
+1984,2680,,4220,5980,11110,11300,11000,,4580,3650,3650,4130
+1985,4340,4400,4630,4940,9830,11060,10500,5100,1700,1700,2300,2700
+1986,2900,2700,3700,10700,11100,10900,10000,4600,1800,1700,1700,
+1987,1700,2000,2200,3900,8400,6800,4900,2100,1500,1400,1400,1400
+1988,1500,1600,1900,3400,7500,7100,5900,3000,900,1300,1300,1600
+1989,1500,1600,1600,3100,11100,11100,9100,5100,3600,3400,1700,2900
+1990,1700,1700,3100,4700,6400,7200,7600,,2400,1600,1700,1900
+1991,,2100,2500,3700,5500,10600,11200,6900,4600,2100,1800,1700
+1992,2600,2700,3200,6700,7000,3100,2400,1900,800,700,700,900
+1993,,1300,1400,1900,9800,11100,3700,8300,6000,3800,,3300
+1994,3300,3600,3800,4600,8800,9000,7100,4100,3600,1300,1200,800
+1995,1600,1900,2700,7500,11100,11100,11000,7800,4300,2600,2400,3100
+1996,4000,4800,6900,9800,10500,11100,10600,6800,4500,2300,2300,2400
+1997,2400,3900,4600,6600,,,10400,6900,4800,3800,3400,3900
+1998,,3800,4100,5100,8800,11100,,,5100,2900,,
+1999,,3500,3800,5700,,11100,10300,,,,,
+2000,,,2700,3800,10900,,9200,6100,2600,1400,2200,2300
+2001,2500,2800,2900,3800,4600,5600,4100,2400,400,700,0,0
+2002,200,400,1200,,9800,10500,9200,4500,2700,,1800,
+2003,1300,,,,9800,10400,,,,1100,,
+2004,2100,,,,,,,,4100,,10400,
+2005,,,3700,5400,7900,11100,9400,4600,,,,1600
+2006,3000,2600,2900,,3400,11100,10500,6400,3000,1700,1700,2300
+2007,2900,2400,2800,4480,6240,4200,2650,890,950,850,760,900
+2008,900,1000,1100,1600,4480,11110,11100,7300,4300,2500,2200,2700
+2009,2800,3000,3400,4300,11100,11100,10900,7300,5100,2600,3300,3400
+2010,3500,3700,3800,4600,10000,11100,11100,7700,4800,3500,3400,3700
+2011,4100,4500,11100,7700,10300,11100,,9000,5700,4200,4200,3700
+2012,4500,4700,5000,6600,11100,11000,10253,6100,2900,1700,1643,1559
+2013,2584,2700,2629,3790,8050,6070,5905,4941,2272,1127,1259,1895
+2014,2272,2659,2919,5253,9425,9640,8629,5097,2584,1811,,1989
+2015,2659,2804,4349,6243,6589,4638,2804,1989,646,1193,1061,1259
+2016,,1727,2272,3719,10674,9019,,2919,1811,,,
+2017,,,3640,3664,11100,11100,10463,,2919,2250,2250,2272
+2018,2396,2480,2804,4199,9300,9628,8824,4785,2300,1559,1811,1989
+2019,2084,2264,2400,2919,,,,,,,,

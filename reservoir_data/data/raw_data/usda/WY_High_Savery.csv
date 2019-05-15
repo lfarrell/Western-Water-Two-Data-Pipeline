@@ -1,0 +1,71 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/!ut/p/
+# 
+# Support Contact: usdafpacbc@midatl.service-now.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	RESERVOIR 09255450: High Savery Reservoir, WY
+# 
+# Data items provided in this file:
+#
+# Element Name              Value Type  Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description               
+# Reservoir Storage Volume  Value       None           Instantaneous - Start of Month  N/A        Acre feet          N/A           RESC          Reservoir storage volume  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# High Savery Reservoir (09255450) 
+# Wyoming  RESERVOIR Site - 7305 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 15, 2019 3:33:57 PM GMT-08:00
+#
+Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
+2004,,,,,,,,,,,5551,5819
+2005,5819,6010,6088,6409,11151,20509,22433,22324,15580,13763,13778,13906
+2006,14068,14241,14363,14938,18076,22433,22366,20138,12759,12472,12854,13157
+2007,13301,13461,13620,17574,21273,22433,22345,18565,11049,10206,10232,10126
+2008,10245,10391,10590,10859,12199,21514,22324,22082,16856,14712,14746,15094
+2009,15320,15633,16044,17178,16384,22433,22433,21514,15147,12759,11632,11762
+2010,11573,11384,11224,11370,12981,20443,22433,20530,15950,13540,12871,12455
+2011,12424,12156,11851,11617,9861,21011,22433,21995,16081,14832,14450,13715
+2012,12504,11835,11850,13700,16200,17500,,,,,6400,6600
+2013,6800,7100,7300,8100,9800,12400,12200,9500,6500,6500,6600,22500
+2014,6900,7100,7200,8000,12100,20400,20800,18300,14049,13700,13700,13700
+2015,13700,13900,14100,15000,16402,21000,21900,19200,12400,10900,10700,10800
+2016,10800,10800,11000,11600,17100,22500,22300,19500,12800,11100,11100,11400
+2017,11600,12000,12300,15500,20900,22700,22400,20100,13200,13800,10400,10600
+2018,10600,10800,10900,11700,13700,16000,15600,12100,6800,6400,6300,6300
+2019,6400,6600,6800,7300,,,,,,,,

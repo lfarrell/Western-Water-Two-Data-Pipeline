@@ -1,0 +1,87 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/!ut/p/
+# 
+# Support Contact: usdafpacbc@midatl.service-now.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	RESERVOIR 08401450: Brantley Lake nr Carlsbad, NM
+# 
+# Data items provided in this file:
+#
+# Element Name              Value Type  Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description               
+# Reservoir Storage Volume  Value       None           Instantaneous - Start of Month  N/A        Acre feet          N/A           RESC          Reservoir storage volume  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Brantley Lake Nr Carlsbad (08401450) 
+# New Mexico  RESERVOIR Site - 3202 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 15, 2019 3:32:55 PM GMT-08:00
+#
+Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
+1988,0,0,0,0,0,0,0,0,0,0,19000,19000
+1989,19000,19600,19000,22300,25000,42300,37000,23200,13900,10100,5350,6590
+1990,7460,8700,9780,10300,5540,4360,8150,3960,11850,8240,7630,9780
+1991,11050,12580,13870,13470,6010,21540,11620,29590,36160,45720,39860,34540
+1992,20630,28680,31740,44770,42580,46360,45560,27200,18250,14260,14470,18090
+1993,21620,26360,29140,25660,33110,26360,18070,29740,22870,17150,18450,22170
+1994,24950,27330,29120,36330,26120,28380,31360,11970,31740,24950,14620,18370
+1995,22230,25820,30510,37530,25530,13960,35150,21790,21020,40160,24490,26040
+1996,28510,32810,32640,29050,16280,21810,31070,26190,24510,31030,23090,18660
+1997,20420,22660,24700,37530,31220,24840,40590,22190,41710,35650,21580,18980
+1998,20840,25450,27970,46500,31720,19790,31530,32230,24090,28420,29930,30930
+1999,34770,37450,39880,40900,28460,38050,40360,27600,32250,22870,18553,22593
+2000,26853,30583,43142,39782,28462,34982,27882,23222,35432,27332,23562,26142
+2001,28442,31382,33582,36731,26771,38051,27601,29171,21321,13480,9500,7800
+2002,8470,11528,13788,29079,24646,17178,12329,11008,8865,11960,12441,14159
+2003,12020,16498,13788,20425,10389,6227,12354,10519,6078,2804,6864,3671
+2004,6177,8352,10684,23244,38055,25352,16127,11599,10282,18497,42262,30254
+2005,36506,41557,42127,34728,27940,25898,29760,19497,20662,14326,15039,14285
+2006,11493,16670,27154,35158,25832,13478,23284,-901,19658,-901,-901,14552
+2007,18194,21959,24944,41524,34023,33717,21988,26700,18531,26972,17895,8145
+2008,11505,14383,16482,33089,23446,15869,18565,25700,32547,30653,26722,16127
+2009,18497,20607,21760,29711,23731,17895,11214,21141,15126,16498,11863,13134
+2010,15533,19044,22238,31956,29564,23204,15778,25591,15703,18227,18211,8873
+2011,11202,13226,14737,29321,22238,15524,9488,8268,6835,5801,6467,8005
+2012,10769,13052,14804,21910,17949,14506,6695,5620,4517,2475,2998,3500
+2013,4511,5937,6946,11517,9133,6290,4523,5548,4323,27466,25802,29728
+2014,32228,33733,34615,32203,19328,32659,24709,35322,42017,76883,78143,79546
+2015,81095,83439,84220,84435,73674,79747,70842,71097,50298,20470,34225,40149
+2016,43590,32939,33630,32279,24343,28020,19183,20620,29704,36520,29728,33297
+2017,35270,36629,37652,34615,27650,20359,17511,23307,26200,22536,33940,37821
+2018,40447,43325,44893,38020,30190,25187,11985,20210,12677,18912,23746,27191
+2019,29776,30631,31800,29825,,,,,,,,

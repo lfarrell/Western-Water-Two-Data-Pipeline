@@ -1,0 +1,90 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/!ut/p/
+# 
+# Support Contact: usdafpacbc@midatl.service-now.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	RESERVOIR 09UTGUNL: Gunlock, UT
+# 
+# Data items provided in this file:
+#
+# Element Name              Value Type  Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description               
+# Reservoir Storage Volume  Value       None           Instantaneous - Start of Month  N/A        Acre feet          N/A           RESC          Reservoir storage volume  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Gunlock (09UTGUNL) 
+# Utah  RESERVOIR Site - 3584 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 15, 2019 3:33:14 PM GMT-08:00
+#
+Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
+1985,,6300,7200,7400,,,,,,,,
+1986,,,,9400,9300,7400,,,,,,
+1987,4300,5400,6400,7400,7000,,,,,,,
+1988,6500,7500,8200,,900,,,,,,,
+1989,8000,8600,9000,8600,7800,,,,,,,
+1990,4700,5600,5700,5500,4600,,,,,,,
+1991,4700,3600,6300,7700,6500,,,,,,,
+1992,5100,6000,8800,900,500,,,,,,,
+1993,8600,600,900,1100,400,400,,,,,,
+1994,100,400,400,600,100,150,,7100,,,4400,
+1995,6100,8900,400,400,400,400,,,,,,
+1996,8700,9800,400,400,9600,5900,,,,,,5400
+1997,6700,10400,10300,10000,9900,8000,,,,,,
+1998,8200,8900,10800,10400,10400,10400,10400,10400,10000,9800,9900,9800
+1999,10100,10200,10800,10800,8200,8700,9800,10300,10000,9000,8000,7700
+2000,7400,7900,9400,10300,10300,9800,9500,9200,8700,7900,7000,6300
+2001,7300,8400,8600,10000,10200,10400,9700,9000,8300,7700,7100,6400
+2002,5900,7100,7500,7300,6300,5242,4000,2000,2500,2600,3000,3000
+2003,3300,4400,4900,5800,5400,5200,6000,6200,4800,3300,3200,3300
+2004,3800,4100,4900,6200,6800,6900,6900,6300,4000,4900,8600,10400
+2005,10400,10400,10400,10400,10400,10400,10800,10400,10400,10400,10900,10900
+2006,10800,10400,10400,10400,10400,10400,10000,9600,8700,8000,8200,8300
+2007,9000,6600,9800,10400,8800,8000,6400,7300,7100,7100,6500,6800
+2008,6200,7300,8600,10400,10400,9000,7000,6500,5800,8300,0,0
+2009,0,0,3900,6000,6000,5900,5100,4300,3400,2300,2400,3200
+2010,3600,3900,4200,7000,8800,10400,8000,8400,3600,1600,1700,1800
+2011,9100,8900,9100,9200,9000,10400,4200,9200,7900,7000,7100,8900
+2012,8200,10100,8900,9200,9300,8300,7400,6700,6000,5900,5800,5800
+2013,6246,6392,6800,7057,7361,7116,7000,5056,4576,3980,4144,4144
+2014,7647,9672,4871,4500,5052,4680,3642,3175,2769,3175,2770,2734
+2015,3331,4368,4378,3806,4652,5500,3806,3486,3280,2215,1843,2392
+2016,1960,2332,2737,2464,2737,3645,3976,4576,4576,4000,1730,4576
+2017,4576,4160,6480,7373,8080,10300,9464,7000,6480,5848,6552,5445
+2018,5848,7488,8008,8008,8300,8008,7280,7072,7072,7072,3952,3848
+2019,3848,4576,6032,10608,,,,,,,,

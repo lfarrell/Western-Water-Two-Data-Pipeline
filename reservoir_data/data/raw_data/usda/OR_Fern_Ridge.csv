@@ -1,0 +1,101 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/!ut/p/
+# 
+# Support Contact: usdafpacbc@midatl.service-now.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	RESERVOIR 14168000: Fern Ridge, OR
+# 
+# Data items provided in this file:
+#
+# Element Name              Value Type  Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description               
+# Reservoir Storage Volume  Value       None           Instantaneous - Start of Month  N/A        Acre feet          N/A           RESC          Reservoir storage volume  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Fern Ridge (14168000) 
+# Oregon  RESERVOIR Site - 352 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 15, 2019 3:32:44 PM GMT-08:00
+#
+Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
+1974,,,,,,,,,,,26200,6700
+1975,8200,12700,57000,87400,101400,101800,99900,94900,89900,85000,28100,9800
+1976,7000,10500,55800,89100,102200,103000,100400,94400,90300,86200,27700,6100
+1977,5200,6100,13800,43900,48500,54500,52700,46600,34500,31000,17700,15800
+1978,10900,12200,39500,53600,85000,96800,96100,91300,86600,85000,30400,9300
+1979,6900,17100,54000,75900,102500,105500,102000,94100,88600,85500,32500,7300
+1980,8100,14700,49300,84900,102800,105300,104300,98200,89400,83000,31300,7900
+1981,24100,23100,59100,84300,101200,100900,100600,95200,87900,84100,33900,7900
+1982,16800,27100,50900,83800,100500,100100,99000,94400,88700,86000,25700,10700
+1983,6300,11400,52000,83500,101100,101100,100700,100000,96900,82300,31700,7800
+1984,8500,16600,50900,81800,101300,100500,101100,96700,90800,87400,30400,22000
+1985,6400,13300,43300,81100,96000,97700,97800,90900,84900,80600,26600,7500
+1986,7300,11900,63100,74000,83600,97000,93500,88200,81600,78600,33800,9700
+1987,7200,17900,41400,70800,79700,82000,78700,74700,68400,63300,34500,11700
+1988,11400,19000,35900,61400,90200,101300,100600,94700,86900,81800,34500,7800
+1989,13500,10600,41400,81900,97700,101200,98800,92600,87400,81700,34400,7900
+1990,9100,16700,41300,68800,77000,82000,84000,77800,73000,69100,33400,8700
+1991,10100,17000,39600,80600,100100,101300,101800,97000,90000,80100,28100,9000
+1992,6800,19300,52100,66600,100900,99600,95300,89400,81900,76700,33700,8800
+1993,8200,9600,35500,79400,93100,93800,92800,85400,81000,74900,14700,5100
+1994,6000,12200,41900,75300,97000,96400,94600,86600,78500,74400,25100,3800
+1995,3200,12700,40300,81100,95100,96900,95700,90400,84100,79300,23800,5300
+1996,9200,42900,40900,69900,97000,97500,97000,92200,85300,68100,17200,27800
+1997,64200,10200,36600,72100,96900,97700,95700,90000,84300,81000,22600,2700
+1998,5300,6400,49800,81100,98200,96900,96300,92200,85400,77000,25300,21300
+1999,46900,35800,61800,80400,97300,97000,95600,90700,86500,65000,28800,3100
+2000,3200,9400,43300,75100,86900,96800,94400,88300,81200,75900,27500,3400
+2001,3900,8700,20400,31000,38800,40500,38400,33400,28100,23600,16800,6700
+2002,3800,20900,38800,77700,95100,97000,93500,87000,79900,75500,22800,5100
+2003,25300,12900,44400,82200,95800,97200,94500,88100,80400,74400,27400,4200
+2004,18500,12000,46500,69600,91400,95400,94200,88100,82600,80100,27400,3500
+2005,3100,3000,2900,2800,4800,5200,5400,5200,3600,2800,3600,17000
+2006,61700,51500,45700,84900,96600,96500,94200,87500,80300,75200,26800,5400
+2007,26300,6000,43500,65700,80100,86100,82700,76700,70600,65900,24500,3600
+2008,2800,9300,27800,74900,95900,96900,94600,88300,82600,77200,27400,3100
+2009,6800,3800,38500,77200,88200,96900,94700,89900,83500,79000,27000,3200
+2010,5800,8800,46800,94900,94800,96500,97000,93800,89400,88000,18400,3100
+2011,11700,5100,39900,80500,96400,96500,95400,93600,88000,81500,18500,3100
+2012,20900,50900,47100,96600,96900,96900,96900,93500,86600,80300,24640,3030
+2013,2950,5140,22590,46270,62890,66200,65384,57874,51966,54066,26470,2900
+2014,3150,11650,44540,85740,97630,98140,97025,91689,84760,79540,23000,4954
+2015,4982,8907,43083,69486,80736,82176,77334,69637,61949,57174,27635,3709
+2016,38254,9226,39549,79463,97883,96000,92781,86882,78830,72834,31180,2822
+2017,3548,9614,38094,83384,96768,96341,95489,89606,81695,76395,24833,3814
+2018,4602,6251,30582,85248,97196,96255,94809,87704,79781,53933,7601,4983
+2019,23527,8698,67685,70166,,,,,,,,

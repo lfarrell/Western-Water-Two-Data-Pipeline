@@ -1,0 +1,86 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/!ut/p/
+# 
+# Support Contact: usdafpacbc@midatl.service-now.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	RESERVOIR 10128000: Smith And Morehouse Reservoir, UT
+# 
+# Data items provided in this file:
+#
+# Element Name              Value Type  Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description               
+# Reservoir Storage Volume  Value       None           Instantaneous - Start of Month  N/A        Acre feet          N/A           RESC          Reservoir storage volume  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Smith And Morehouse Reservoir (10128000) 
+# Utah  RESERVOIR Site - 7633 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 15, 2019 3:33:33 PM GMT-08:00
+#
+Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
+1989,,,,,1480,7640,7680,7340,5320,210,,
+1990,,0,0,346,3180,4420,7660,6500,2470,120,145,310
+1991,412,412,460,607,1480,5280,7660,7070,2030,0,50,160
+1992,160,150,280,700,2190,1610,1340,960,830,850,905,1060
+1993,1270,1540,1790,1930,2160,7800,7860,7660,6890,4840,4290,4240
+1994,4040,3960,3990,4220,5030,7640,7560,5850,4070,3120,3500,3450
+1995,3470,3480,3520,3560,3600,4510,7760,7370,6650,5030,3040,3110
+1996,3120,3150,3120,2110,2310,5740,7680,7130,4810,2540,2240,2380
+1997,2280,2310,1690,456,917,7580,7680,7090,5370,3900,3810,3760
+1998,3780,3810,3740,2980,2680,4250,7740,7640,6670,4630,2190,2160
+1999,2150,2190,2280,2590,3640,7600,7740,7210,5740,4370,4303,4303
+2000,4319,4336,4353,4596,6025,7698,7601,5615,4649,4704,4758,4911
+2001,5031,4340,4340,4600,6025,7700,7600,5620,4650,4710,4760,4910
+2002,5400,5600,4900,5800,6500,8500,8100,6700,5800,6100,6700,6800
+2003,6800,6900,7000,7100,7400,8500,8100,6600,5900,5800,5100,5200
+2004,6100,5300,5600,5900,6200,7200,7700,7100,5900,5100,5100,6000
+2005,6200,6200,6100,6200,6400,6800,7700,7700,7000,6800,6800,6800
+2006,6800,6800,6100,6100,6900,8100,7600,7300,5100,4400,5100,5100
+2007,5200,5200,5200,5600,7400,8100,8000,5900,4400,4400,4300,4500
+2008,4600,4700,4700,4800,5500,6500,7600,5100,3000,2200,2300,2400
+2009,2500,2600,2700,2900,4400,8100,8100,7200,4800,2900,3000,3000
+2010,3000,3100,3100,3200,4500,6100,7800,7200,4100,3514,3774,4308
+2011,4967,5491,5035,3468,3499,3067,8552,8293,7322,6723,6884,6894
+2012,6836,6760,6685,6875,7906,8352,7647,4476,3262,3262,3276,3363
+2013,3468,3650,3773,3990,4687,8362,8234,5858,3483,3349,3944,4259
+2014,4476,4617,4752,4735,5766,8391,8254,7696,6340,6153,7445,7550
+2015,7622,7442,7384,7449,7789,8451,8230,6626,5082,4034,4064,4067
+2016,4124,4207,4325,4690,6206,8301,8244,6481,4873,4828,5090,5400
+2017,5609,5941,6361,5949,5208,8356,8285,7626,5673,4938,4735,4770
+2018,4737,4752,4737,4943,7170,7659,6987,4800,3295,2345,2438,2412
+2019,2392,2387,2270,2215,,,,,,,,

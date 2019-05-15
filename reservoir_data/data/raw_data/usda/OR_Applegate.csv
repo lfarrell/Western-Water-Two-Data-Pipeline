@@ -1,0 +1,94 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/!ut/p/
+# 
+# Support Contact: usdafpacbc@midatl.service-now.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	RESERVOIR 14361900: Applegate, OR
+# 
+# Data items provided in this file:
+#
+# Element Name              Value Type  Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description               
+# Reservoir Storage Volume  Value       None           Instantaneous - Start of Month  N/A        Acre feet          N/A           RESC          Reservoir storage volume  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Applegate (14361900) 
+# Oregon  RESERVOIR Site - 1763 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 15, 2019 3:32:48 PM GMT-08:00
+#
+Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
+1981,10000,12500,30200,43500,55700,52500,46400,34100,23700,13000,6300,10000
+1982,12300,10500,43800,63400,74500,74800,74900,70300,60500,46100,24300,9400
+1983,9500,11900,24700,61900,72300,74000,74200,73900,68100,48300,22500,10000
+1984,11500,10800,28000,52400,73500,74800,74900,68200,56500,40100,24700,9900
+1985,9900,11400,26500,35300,69900,73800,67900,55000,42800,28300,13700,6300
+1986,5900,12600,29600,55941,67519,72502,59951,48506,40531,29757,17953,9382
+1987,7960,14154,30240,52033,74933,71923,59387,51402,43296,34894,16942,8701
+1988,11750,16855,26437,34508,42218,45807,50041,45961,38911,31203,15097,10136
+1989,9236,12615,19192,52590,73818,75066,67836,57491,46750,34914,19400,6738
+1990,4153,13621,16755,36486,47326,46921,58326,53525,46835,34754,15240,6000
+1991,1600,3500,12300,30000,46400,60100,59700,57600,45800,35000,16300,9400
+1992,7900,8900,21500,29400,46400,43600,38500,34300,29000,23900,10200,5500
+1993,8500,14200,26800,51600,71400,73900,74700,67600,55400,33900,13900,4200
+1994,6100,14000,17400,30000,40500,47200,42300,36800,30800,25100,10600,5300
+1995,9100,24900,37100,53500,75100,75000,75200,69000,53500,36100,18300,6800
+1996,18400,18800,31800,54300,74600,75200,70900,64600,51000,31400,12800,10400
+1997,52100,10600,28700,54900,75500,73400,70300,57700,44200,27200,7700,7000
+1998,7100,7100,26400,47200,69600,69600,68100,59000,43600,24800,9900,7300
+1999,7300,7000,27880,35180,51510,64910,68040,55470,36880,17460,3750,1410
+2000,3250,7690,27760,48580,69160,67210,62470,52080,39240,26480,13190,4950
+2001,1520,290,-380,6730,11480,12850,12640,11590,9290,6780,3960,6770
+2002,7570,7570,26400,44630,69100,69100,62450,51930,40510,28930,17210,5890
+2003,8370,10750,29800,48440,69160,69090,64580,54280,41940,29590,16520,5790
+2004,7130,6990,28720,47910,69080,69130,65680,54040,40660,27970,16320,6740
+2005,7140,10380,16460,29140,54490,69100,67820,56210,41730,27340,13610,7260
+2006,30250,8330,28340,48720,66860,68870,65170,49500,33360,22190,11770,7620
+2007,10640,8110,25780,47040,65570,69090,62480,51510,38390,25440,16470,7880
+2008,6790,8580,22840,45940,64070,68710,67510,54790,39110,25380,12480,5100
+2009,7670,7980,16370,39610,54960,68970,65390,53660,40820,26910,12670,5240
+2010,6520,10570,23860,39380,68620,69100,69120,54440,33000,18930,8580,5060
+2011,9100,12340,20800,47880,63240,67210,68970,59230,38610,20670,8060,4700
+2012,5360,12920,15090,59790,60110,68930,64260,50220,33380,20140,9040,11070
+2013,6590,15040,18410,39250,67070,67370,59760,46880,33080,22560,11830,4600
+2014,990,-750,19930,47830,60090,61190,53500,41310,27800,17810,12950,7100
+2015,6750,10400,28810,37310,42730,40920,33810,24310,14290,7880,4090,1440
+2016,6800,10050,28710,49150,66410,67680,59090,43880,26450,14410,17650,8930
+2017,9410,11340,22770,46240,66430,68170,62530,48970,32860,19700,9140,8310
+2018,3760,9940,17400,31760,63270,67510,57100,43480,28820,14640,4930,2680
+2019,8610,16740,27020,47130,,,,,,,,

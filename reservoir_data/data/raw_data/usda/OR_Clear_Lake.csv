@@ -1,0 +1,114 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/!ut/p/
+# 
+# Support Contact: usdafpacbc@midatl.service-now.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	RESERVOIR 14097310: Clear Lake, OR
+# 
+# Data items provided in this file:
+#
+# Element Name              Value Type  Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description               
+# Reservoir Storage Volume  Value       None           Instantaneous - Start of Month  N/A        Acre feet          N/A           RESC          Reservoir storage volume  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Clear Lake (14097310) 
+# Oregon  RESERVOIR Site - 3520 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 15, 2019 3:32:34 PM GMT-08:00
+#
+Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
+1961,,1810,3310,4850,5930,7250,,,,890,,
+1962,1690,2720,3100,3520,4930,6580,,,,,,
+1963,2050,2340,3230,3650,4370,4420,1920,0,0,0,,0
+1964,0,0,280,610,1140,2530,3810,1910,310,0,,110
+1965,2050,3270,4810,5230,6010,7350,7310,3610,1910,310,,110
+1966,0,450,490,710,1710,3140,910,0,0,0,,110
+1967,110,450,1070,1430,1690,2210,1610,0,0,0,0,0
+1968,0,0,1110,2210,2610,2370,1610,0,0,100,,
+1969,810,1810,1810,2010,2910,5930,7160,5650,4110,3570,3410,3230
+1970,3110,4410,5010,5610,6230,7010,7110,5410,3270,2650,2670,2710
+1971,3010,4010,4910,5610,5910,8630,10230,9110,7350,6680,6410,6310
+1972,6800,7210,7910,10610,12110,12700,12810,10910,8710,7710,7710,7210
+1973,7230,7470,7320,7230,6740,5800,3410,1810,0,0,0,10
+1974,990,3470,4360,4770,5930,9000,10710,10510,8610,7310,7210,7010
+1975,7930,9000,9800,10210,10060,,,,,9170,5910,5910
+1976,9160,11090,10550,10610,10820,11350,,11100,9920,,9820,6900
+1977,5740,6560,6200,6150,5090,4340,810,0,0,0,,
+1978,2710,3380,3710,4180,4740,4230,2030,668,,,,
+1979,,,,490,1540,3260,,,,,,
+1980,0,0,,1050,2400,3420,,,,,,
+1981,,500,1400,,2000,2600,,,,,,
+1982,,300,3300,3500,4100,5500,,,,,,
+1983,,3700,,,,7700,,,6377,6377,6369,6373
+1984,6373,4666,5339,6118,7020,8192,8565,7583,5874,3015,2371,2262
+1985,2314,2393,7996,8083,9752,11016,11343,10754,9141,7720,6965,6704
+1986,6509,6414,7052,9300,10833,11487,11348,10283,8420,6854,5852,5360
+1987,5162,5051,5029,5265,6513,6745,6437,493,143,115,115,114
+1988,114,114,114,574,2276,3180,3171,1868,1699,1223,1223,1232
+1989,1483,2032,2224,2860,4823,5472,4670,2980,1585,1223,1223,1223
+1990,1223,1223,1654,2288,4155,5604,5856,4296,2810,1689,1242,1242
+1991,1245,1310,1313,1319,1329,6043,4123,3074,1609,1105,1105,1105
+1992,1105,1105,1113,1116,3156,2696,1464,1046,1046,1046,1046,1046
+1993,1046,1046,1046,1046,1111,4184,5188,3678,1751,1454,1454,620
+1994,620,620,620,620,682,1393,946,623,623,623,623,623
+1995,623,634,4421,5918,7176,8063,7368,6101,3658,2140,2014,3038
+1996,5193,7167,10158,11226,12624,13078,12635,9813,7810,6150,6069,6185
+1997,7626,9355,10251,10854,12170,12002,10283,9455,8116,6988,6868,5878
+1998,5804,6221,6713,7396,8178,8468,8016,6158,3193,2949,2558,2891
+1999,3738,4936,5559,5411,6225,8107,8178,7358,5454,4034,3706,4221
+2000,4928,5489,5838,6140,8144,9386,8835,7144,5537,4267,3750,3658
+2001,3591,3423,3265,3344,3663,3262,1887,720,515,373,101,488
+2002,860,1332,1467,1789,3578,5373,5900,4978,3642,2401,1823,1803
+2003,1963,2389,3022,4094,5158,4865,3578,2258,1210,526,488,671
+2004,933,1261,1654,2464,3806,4213,3491,2112,1143,0,0,272
+2005,488,625,709,922,1194,1390,984,0,37,108,298,504
+2006,957,2672,3352,3650,4818,6382,6020,4062,2393,1170,949,1758
+2007,2757,3903,4729,6034,7107,7002,5590,3782,1930,1277,1348,1429
+2008,1923,2243,2345,2642,3120,6504,7982,6873,5377,4038,3907,4026
+2009,4196,5197,5390,5651,6568,9165,8333,6079,4184,2680,2599,2726
+2010,2857,3301,3555,4026,4742,5438,5826,4155,2513,1413,1533,1778
+2011,2378,3815,4607,5197,6472,7810,7934,6731,5210,3686,3591,3678
+2012,3839,4802,5660,6768,8541,10163,10087,8790,7126,5691,5537,5630
+2013,6172,6239,6301,6631,8164,8202,7176,5586,4115,2960,2841,2956
+2014,3348,3718,4566,6558,7691,8096,7153,5673,4094,2615,2677,2860
+2015,3730,4599,5257,5382,5222,3773,2072,879,252,214,285,442
+2016,1062,1467,2555,3932,5098,4558,3164,1550,22,345,577,696
+2017,900,984,1748,3116,4570,6713,5940,4292,2769,1557,1764,2112
+2018,2401,2983,3778,4147,5184,4632,3168,1387,555,509,553,685
+2019,973,1203,2072,2250,,,,,,,,

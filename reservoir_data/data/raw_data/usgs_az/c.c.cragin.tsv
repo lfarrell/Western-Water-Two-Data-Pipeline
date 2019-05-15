@@ -1,0 +1,408 @@
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2018-11-02 18:50:37 EDT       (caww01)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09398300 CRAGIN DAM RESERVOIR NEAR PINE, AZ (BLUE RIDGE)
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09398300
+#            TS   parameter     statistic     Description
+#          5277       00054     32400     Reservoir storage, acre feet (Observation at midnight)
+#
+# Data-value qualification codes included in this output:
+#     P  Provisional data subject to revision.
+# 
+agency_cd	site_no	datetime	5277_00054_32400	5277_00054_32400_cd
+5s	15s	20d	14n	10s
+USGS	09398300	2018-10-01	4101	P
+USGS	09398300	2018-10-02	4245	P
+USGS	09398300	2018-10-03	4965	P
+USGS	09398300	2018-10-04	5120	P
+USGS	09398300	2018-10-05	5176	P
+USGS	09398300	2018-10-06	5202	P
+USGS	09398300	2018-10-07	5369	P
+USGS	09398300	2018-10-08	5632	P
+USGS	09398300	2018-10-09	5767	P
+USGS	09398300	2018-10-10	5824	P
+USGS	09398300	2018-10-11	5859	P
+USGS	09398300	2018-10-12	5880	P
+USGS	09398300	2018-10-13	5904	P
+USGS	09398300	2018-10-14	5984	P
+USGS	09398300	2018-10-15	6045	P
+USGS	09398300	2018-10-16	6096	P
+USGS	09398300	2018-10-17	6153	P
+USGS	09398300	2018-10-18	6213	P
+USGS	09398300	2018-10-19	6250	P
+USGS	09398300	2018-10-20	6273	P
+USGS	09398300	2018-10-21	6287	P
+USGS	09398300	2018-10-22	6294	P
+USGS	09398300	2018-10-23	6338	P
+USGS	09398300	2018-10-24	6405	P
+USGS	09398300	2018-10-25	6439	P
+USGS	09398300	2018-10-26	6453	P
+USGS	09398300	2018-10-27	6460	P
+USGS	09398300	2018-10-28	6462	P
+USGS	09398300	2018-10-29	6462	P
+USGS	09398300	2018-10-30	6462	P
+USGS	09398300	2018-10-31	6460	P
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2018-12-03 19:38:12 EST       (vaww02)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09398300 CRAGIN DAM RESERVOIR NEAR PINE, AZ (BLUE RIDGE)
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09398300
+#            TS   parameter     statistic     Description
+#          5277       00054     32400     Reservoir storage, acre feet (Observation at midnight)
+#
+# Data-value qualification codes included in this output:
+#     P  Provisional data subject to revision.
+# 
+agency_cd	site_no	datetime	5277_00054_32400	5277_00054_32400_cd
+5s	15s	20d	14n	10s
+USGS	09398300	2018-11-01	6454	P
+USGS	09398300	2018-11-02	6448	P
+USGS	09398300	2018-11-03	6443	P
+USGS	09398300	2018-11-04	6436	P
+USGS	09398300	2018-11-05	6430	P
+USGS	09398300	2018-11-06	6423	P
+USGS	09398300	2018-11-07	6416	P
+USGS	09398300	2018-11-08	6408	P
+USGS	09398300	2018-11-09	6399	P
+USGS	09398300	2018-11-10	6392	P
+USGS	09398300	2018-11-11	6385	P
+USGS	09398300	2018-11-12	6374	P
+USGS	09398300	2018-11-13	6367	P
+USGS	09398300	2018-11-14	6359	P
+USGS	09398300	2018-11-15	6350	P
+USGS	09398300	2018-11-16	6345	P
+USGS	09398300	2018-11-17	6336	P
+USGS	09398300	2018-11-18	6329	P
+USGS	09398300	2018-11-19	6321	P
+USGS	09398300	2018-11-20	6314	P
+USGS	09398300	2018-11-21	6307	P
+USGS	09398300	2018-11-22	6301	P
+USGS	09398300	2018-11-23	6294	P
+USGS	09398300	2018-11-24	6287	P
+USGS	09398300	2018-11-25	6279	P
+USGS	09398300	2018-11-26	6272	P
+USGS	09398300	2018-11-27	6265	P
+USGS	09398300	2018-11-28	6258	P
+USGS	09398300	2018-11-29	6251	P
+USGS	09398300	2018-11-30	6252	P
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2019-01-02 13:00:30 EST       (caww01)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09398300 CRAGIN DAM RESERVOIR NEAR PINE, AZ (BLUE RIDGE)
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09398300
+#            TS   parameter     statistic     Description
+#          5277       00054     32400     Reservoir storage, acre feet (Observation at noon)
+#
+# Data-value qualification codes included in this output:
+#     P  Provisional data subject to revision.
+# 
+agency_cd	site_no	datetime	5277_00054_32400	5277_00054_32400_cd
+5s	15s	20d	14n	10s
+USGS	09398300	2018-12-01	6245	P
+USGS	09398300	2018-12-02	6241	P
+USGS	09398300	2018-12-03	6233	P
+USGS	09398300	2018-12-04	6226	P
+USGS	09398300	2018-12-05	6220	P
+USGS	09398300	2018-12-06	6215	P
+USGS	09398300	2018-12-07	6210	P
+USGS	09398300	2018-12-08	6203	P
+USGS	09398300	2018-12-09	6198	P
+USGS	09398300	2018-12-10	6192	P
+USGS	09398300	2018-12-11	6185	P
+USGS	09398300	2018-12-12	6180	P
+USGS	09398300	2018-12-13	6171	P
+USGS	09398300	2018-12-14	6164	P
+USGS	09398300	2018-12-15	6159	P
+USGS	09398300	2018-12-16	6152	P
+USGS	09398300	2018-12-17	6146	P
+USGS	09398300	2018-12-18	6139	P
+USGS	09398300	2018-12-19	6132	P
+USGS	09398300	2018-12-20	6126	P
+USGS	09398300	2018-12-21	6121	P
+USGS	09398300	2018-12-22	6114	P
+USGS	09398300	2018-12-23	6108	P
+USGS	09398300	2018-12-24	6101	P
+USGS	09398300	2018-12-25	6097	P
+USGS	09398300	2018-12-26	6090	P
+USGS	09398300	2018-12-27	6084	P
+USGS	09398300	2018-12-28	6079	P
+USGS	09398300	2018-12-29	6070	P
+USGS	09398300	2018-12-30	6065	P
+USGS	09398300	2018-12-31	6062	P
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2019-02-02 09:04:15 EST       (caww02)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09398300 CRAGIN DAM RESERVOIR NEAR PINE, AZ (BLUE RIDGE)
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09398300
+#            TS   parameter     statistic     Description
+#          5277       00054     32400     Reservoir storage, acre feet (Observation at noon)
+#
+# Data-value qualification codes included in this output:
+#     P  Provisional data subject to revision.
+# 
+agency_cd	site_no	datetime	5277_00054_32400	5277_00054_32400_cd
+5s	15s	20d	14n	10s
+USGS	09398300	2019-01-01	6056	P
+USGS	09398300	2019-01-02	6049	P
+USGS	09398300	2019-01-03	6044	P
+USGS	09398300	2019-01-04	6038	P
+USGS	09398300	2019-01-05	6034	P
+USGS	09398300	2019-01-06	6037	P
+USGS	09398300	2019-01-07	6030	P
+USGS	09398300	2019-01-08	6024	P
+USGS	09398300	2019-01-09	6019	P
+USGS	09398300	2019-01-10	6013	P
+USGS	09398300	2019-01-11	6007	P
+USGS	09398300	2019-01-12	6002	P
+USGS	09398300	2019-01-13	6003	P
+USGS	09398300	2019-01-14	6002	P
+USGS	09398300	2019-01-15	6016	P
+USGS	09398300	2019-01-16	6133	P
+USGS	09398300	2019-01-17	6258	P
+USGS	09398300	2019-01-18	6404	P
+USGS	09398300	2019-01-19	6517	P
+USGS	09398300	2019-01-20	6591	P
+USGS	09398300	2019-01-21	6663	P
+USGS	09398300	2019-01-22	6708	P
+USGS	09398300	2019-01-23	6742	P
+USGS	09398300	2019-01-24	6769	P
+USGS	09398300	2019-01-25	6785	P
+USGS	09398300	2019-01-26	6799	P
+USGS	09398300	2019-01-27	6812	P
+USGS	09398300	2019-01-28	6822	P
+USGS	09398300	2019-01-29	6834	P
+USGS	09398300	2019-01-30	6847	P
+USGS	09398300	2019-01-31	6865	P
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2019-03-01 19:28:29 EST       (vaww02)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09398300 CRAGIN DAM RESERVOIR NEAR PINE, AZ (BLUE RIDGE)
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09398300
+#            TS   parameter     statistic     Description
+#          5277       00054     32400     Reservoir storage, acre feet (Observation at noon)
+#
+# Data-value qualification codes included in this output:
+#     P  Provisional data subject to revision.
+# 
+agency_cd	site_no	datetime	5277_00054_32400	5277_00054_32400_cd
+5s	15s	20d	14n	10s
+USGS	09398300	2019-02-01	6892	P
+USGS	09398300	2019-02-02	6932	P
+USGS	09398300	2019-02-03	9920	P
+USGS	09398300	2019-02-04	11680	P
+USGS	09398300	2019-02-05	12520	P
+USGS	09398300	2019-02-06	12850	P
+USGS	09398300	2019-02-07	13030	P
+USGS	09398300	2019-02-08	13150	P
+USGS	09398300	2019-02-09	13250	P
+USGS	09398300	2019-02-10	13310	P
+USGS	09398300	2019-02-11	13360	P
+USGS	09398300	2019-02-12	13390	P
+USGS	09398300	2019-02-13	13420	P
+USGS	09398300	2019-02-14	14460	P
+USGS	09398300	2019-02-15	15450	P
+USGS	09398300	2019-02-16	15200	P
+USGS	09398300	2019-02-17	15110	P
+USGS	09398300	2019-02-18	15060	P
+USGS	09398300	2019-02-19	15040	P
+USGS	09398300	2019-02-20	15020	P
+USGS	09398300	2019-02-21	14990	P
+USGS	09398300	2019-02-22	14980	P
+USGS	09398300	2019-02-23	14990	P
+USGS	09398300	2019-02-24	14990	P
+USGS	09398300	2019-02-25	14980	P
+USGS	09398300	2019-02-26	14980	P
+USGS	09398300	2019-02-27	14990	P
+USGS	09398300	2019-02-28	15010	P
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2019-04-01 19:49:11 EDT       (vaww02)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09398300 CRAGIN DAM RESERVOIR NEAR PINE, AZ (BLUE RIDGE)
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09398300
+#            TS   parameter     statistic     Description
+#          5277       00054     32400     Reservoir storage, acre feet (Observation at noon)
+#
+# Data-value qualification codes included in this output:
+#     P  Provisional data subject to revision.
+# 
+agency_cd	site_no	datetime	5277_00054_32400	5277_00054_32400_cd
+5s	15s	20d	14n	10s
+USGS	09398300	2019-03-01	15060	P
+USGS	09398300	2019-03-02	15120	P
+USGS	09398300	2019-03-03	15180	P
+USGS	09398300	2019-03-04	15180	P
+USGS	09398300	2019-03-05	15160	P
+USGS	09398300	2019-03-06	15170	P
+USGS	09398300	2019-03-07	15190	P
+USGS	09398300	2019-03-08	15260	P
+USGS	09398300	2019-03-09	15160	P
+USGS	09398300	2019-03-10	15100	P
+USGS	09398300	2019-03-11	15100	P
+USGS	09398300	2019-03-12	15250	P
+USGS	09398300	2019-03-13	15170	P
+USGS	09398300	2019-03-14	15110	P
+USGS	09398300	2019-03-15	15080	P
+USGS	09398300	2019-03-16	15100	P
+USGS	09398300	2019-03-17	15100	P
+USGS	09398300	2019-03-18	15120	P
+USGS	09398300	2019-03-19	15150	P
+USGS	09398300	2019-03-20	15170	P
+USGS	09398300	2019-03-21	15190	P
+USGS	09398300	2019-03-22	15140	P
+USGS	09398300	2019-03-23	15130	P
+USGS	09398300	2019-03-24	15140	P
+USGS	09398300	2019-03-25	15150	P
+USGS	09398300	2019-03-26	15170	P
+USGS	09398300	2019-03-27	15180	P
+USGS	09398300	2019-03-28	15170	P
+USGS	09398300	2019-03-29	15170	P
+USGS	09398300	2019-03-30	15140	P
+USGS	09398300	2019-03-31	15110	P
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2019-05-01 19:19:12 EDT       (caww01)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09398300 CRAGIN DAM RESERVOIR NEAR PINE, AZ (BLUE RIDGE)
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09398300
+#            TS   parameter     statistic     Description
+#          5277       00054     32400     Reservoir storage, acre feet (Observation at midnight)
+#
+# Data-value qualification codes included in this output:
+#     P  Provisional data subject to revision.
+# 
+agency_cd	site_no	datetime	5277_00054_32400	5277_00054_32400_cd
+5s	15s	20d	14n	10s
+USGS	09398300	2019-04-01	15150	P
+USGS	09398300	2019-04-02	15140	P
+USGS	09398300	2019-04-03	15140	P
+USGS	09398300	2019-04-04	15130	P
+USGS	09398300	2019-04-05	15120	P
+USGS	09398300	2019-04-06	15110	P
+USGS	09398300	2019-04-07	15100	P
+USGS	09398300	2019-04-08	15100	P
+USGS	09398300	2019-04-09	15100	P
+USGS	09398300	2019-04-10	15100	P
+USGS	09398300	2019-04-11	15080	P
+USGS	09398300	2019-04-12	15070	P
+USGS	09398300	2019-04-13	15060	P
+USGS	09398300	2019-04-14	15050	P
+USGS	09398300	2019-04-15	15050	P
+USGS	09398300	2019-04-16	15040	P
+USGS	09398300	2019-04-17	15050	P
+USGS	09398300	2019-04-18	15040	P
+USGS	09398300	2019-04-19	15030	P
+USGS	09398300	2019-04-20	15030	P
+USGS	09398300	2019-04-21	15020	P
+USGS	09398300	2019-04-22	15010	P
+USGS	09398300	2019-04-23	15000	P
+USGS	09398300	2019-04-24	14990	P
+USGS	09398300	2019-04-25	14990	P
+USGS	09398300	2019-04-26	14970	P
+USGS	09398300	2019-04-27	14960	P
+USGS	09398300	2019-04-28	14940	P
+USGS	09398300	2019-04-29	14940	P
+USGS	09398300	2019-04-30	14930	P

@@ -1,0 +1,114 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/!ut/p/
+# 
+# Support Contact: usdafpacbc@midatl.service-now.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	RESERVOIR 06662500: Wheatland #2, WY
+# 
+# Data items provided in this file:
+#
+# Element Name              Value Type  Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description               
+# Reservoir Storage Volume  Value       None           Instantaneous - Start of Month  N/A        Acre feet          N/A           RESC          Reservoir storage volume  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Wheatland #2 (06662500) 
+# Wyoming  RESERVOIR Site - 6945 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 15, 2019 3:33:59 PM GMT-08:00
+#
+Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
+1961,,11500,12000,13700,17300,20800,,,,,,
+1962,,45900,55000,62800,68600,78700,,,,,,
+1963,,45600,48900,54300,57000,50000,,,,,,
+1964,,14700,15400,17000,24500,25400,,,,,,
+1965,,9300,10000,11700,15600,21500,,,,,,
+1966,,74800,77400,82700,83400,69600,,,,,,
+1967,,10900,13000,14600,15300,16200,,,,,,
+1968,,31800,34600,41800,53300,55000,,,,,,
+1969,,51100,54600,58100,64400,61900,,,,,,
+1970,,28900,34000,40200,48500,57000,,,,,,
+1971,,68000,73200,82300,82400,70800,,,,,,
+1972,,62000,65200,72000,73200,74300,,,,,,
+1973,,47400,49800,53400,81900,88700,,,,,,
+1974,,62800,66700,77800,67400,67000,,,,,,
+1975,,50300,52900,58800,65800,57500,,,,,,
+1976,,50500,54400,61100,66100,65300,,,,,,
+1977,,31500,32600,36200,39500,38200,,,,,,
+1978,,14300,16500,23200,25400,30800,,,,,,
+1979,,42500,44100,52500,67000,72100,,,,,,
+1980,,49100,52800,60200,81900,71700,,,,,,
+1981,,45900,47600,50200,50700,53000,48300,33300,17600,15600,16600,18400
+1982,20900,21800,24200,29900,31400,27900,66600,80400,61100,54400,57800,62000
+1983,63400,62900,64500,74400,69200,65100,86800,89700,75000,55100,57500,61900
+1984,66100,70500,74200,75700,87300,86600,91100,91000,88800,80300,78400,74400
+1985,72000,71400,73000,82300,86200,86000,86400,68100,50700,41600,47500,52400
+1986,56900,60500,68500,79400,81700,81100,92900,86400,62300,54800,61900,68900
+1987,69200,68100,69700,73400,78900,75200,65700,48800,24500,17600,15700,18300
+1988,20500,21000,22200,28700,47500,58000,82200,67100,44500,35000,34200,36000
+1989,38100,39100,41500,52300,55900,52000,,,,,12000,13100
+1990,13600,14600,16800,23600,27100,27200,37000,31500,21100,17000,18100,21200
+1991,23200,24300,26100,31300,32500,38500,75700,57100,38400,28700,28400,30500
+1992,32800,33800,36100,43100,45300,41000,42900,37300,20800,16000,15400,16600
+1993,18000,19800,21800,30000,38800,44300,93800,76600,56500,48200,53900,56100
+1994,59800,62400,65300,73700,77400,77200,59800,40700,20100,16200,16100,16500
+1995,17700,19300,22700,24800,25000,30000,97400,88200,62300,50700,54300,59600
+1996,62700,63500,63500,66300,59700,59800,88500,70700,44700,37000,38700,44200
+1997,47100,50000,54700,62300,70300,59900,82800,63900,60300,51800,57400,62600
+1998,63400,62600,62900,70100,79400,71700,94100,81600,76800,72000,75100,73700
+1999,65900,61900,60900,66200,74700,82500,92000,84900,73500,64100,63400,63800
+2000,64600,66000,68700,73300,76900,78400,71300,45800,27400,25600,,
+2001,,34000,36100,43500,52100,60500,55400,44400,22800,18500,12200,
+2002,,19000,19000,19000,27800,22000,12800,12240,11200,12200,10700,12200
+2003,12200,12200,14200,19000,18400,21000,48600,33000,18600,15000,15100,17000
+2004,19600,20800,22600,27400,27200,24200,,11000,13400,16400,18700,22000
+2005,,18700,22000,,,42900,91900,73600,51900,29888,40900,
+2006,,46900,48000,56500,56600,51500,,,,13400,15100,
+2007,21000,21800,24500,32800,41100,46600,47300,31700,16000,,,25000
+2008,25500,29500,31300,37700,42500,48200,,,,,,
+2009,,42400,46000,51700,59300,83200,,,,,,
+2010,64000,42400,69500,81400,90700,74800,,,,,,52700
+2011,57000,57100,56800,57400,38600,20300,,,,,62500,68100
+2012,70400,72500,75100,86100,95000,62200,50000,48000,31060,16680,17800,19900
+2013,21700,22200,24200,29000,32400,30900,28200,9800,14700,19200,27000,34700
+2014,40100,45100,49700,63400,74500,92100,93000,74200,53500,45400,51600,56300
+2015,63600,68700,76500,79500,90700,89000,97500,84500,52800,38900,40300,45300
+2016,49400,52200,58400,70300,86200,75600,97400,75600,45200,33100,35200,40600
+2017,44500,47500,54600,65500,73500,89000,92600,69200,51000,34900,40500,48600
+2018,52800,57900,62300,69800,73600,86800,87800,62500,41100,25100,27200,30600
+2019,33500,34900,36900,42000,,,,,,,,

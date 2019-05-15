@@ -1,0 +1,98 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/!ut/p/
+# 
+# Support Contact: usdafpacbc@midatl.service-now.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	RESERVOIR 07007100: Trinidad Lake, CO
+# 
+# Data items provided in this file:
+#
+# Element Name              Value Type  Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description               
+# Reservoir Storage Volume  Value       None           Instantaneous - Start of Month  N/A        Acre feet          N/A           RESC          Reservoir storage volume  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Trinidad Lake (07007100) 
+# Colorado  RESERVOIR Site - 6220 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 15, 2019 3:36:04 PM GMT-08:00
+#
+Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
+1977,,,,,,,,,1800,1200,700,600
+1978,600,600,600,600,500,500,3600,3000,2500,2100,1800,1800
+1979,1800,1800,1800,1800,1800,2900,11800,13500,18200,18300,18400,19400
+1980,20400,21400,21900,22600,26500,54300,57900,51200,42900,40300,39800,40600
+1981,41400,42000,42500,43400,39400,31600,26900,30700,46900,45700,47100,49000
+1982,50100,51200,52300,53400,49500,45200,46500,40700,43800,43400,45100,47100
+1983,48500,50000,51800,54800,61600,60000,58700,57600,53600,41300,37200,37200
+1984,38600,39700,41200,43500,46600,45700,42500,34300,36700,23200,25200,26900
+1985,28300,29700,31000,32300,33700,37000,36800,34900,32000,24900,17000,16400
+1986,17700,18900,20000,21100,21900,20000,11300,24700,26100,19900,11900,14500
+1987,16300,17700,19200,20500,25800,42000,57900,61600,51100,48000,46500,48400
+1988,49500,50500,51600,52500,53600,44300,36800,32000,21900,17700,19700,20700
+1989,21700,22700,24200,25500,23300,11900,11200,6500,5300,5780,7050,7600
+1990,8550,9480,10300,10900,10900,8860,6090,8620,5230,5800,8340,10200
+1991,11300,12500,13200,14000,11300,6860,6260,6090,5980,9490,11700,13500
+1992,15100,16300,17200,18300,19500,10100,9420,10200,11300,5010,5570,6900
+1993,8870,10400,11300,13000,20000,20600,23500,18300,21900,20800,18100,19900
+1994,21200,22400,23400,25300,29600,31600,30100,18000,12200,11000,10500,11900
+1995,13300,14100,15100,16300,17300,15300,29300,37200,25600,22600,23900,25800
+1996,26800,28100,29300,30600,27500,13500,10600,9270,8680,8160,8900,10100
+1997,10700,11800,12700,14100,16100,18600,23800,18200,23200,15200,16300,18300
+1998,20200,22000,23300,25700,29600,26700,19000,18600,19800,13500,15500,18100
+1999,19500,20600,21400,22400,28100,67000,72300,71800,70300,63200,62600,64400
+2000,66200,67600,68900,71000,70500,64700,54600,45300,35000,29100,28700,29600
+2001,30500,31400,32400,34000,35100,33300,26900,19100,16700,14200,14700,15600
+2002,16300,17100,17600,18300,18000,15200,13500,13100,12800,13200,14000,14500
+2003,15100,15900,16400,17600,19900,16000,13600,12800,11700,11200,13200,14500
+2004,15500,16700,17900,19200,29300,28500,23400,20100,20100,17600,17900,20200
+2005,22100,23900,26100,29400,31100,31600,31200,24800,20900,15500,14700,16700
+2006,18000,19100,20100,20900,21300,19200,16500,15800,14500,13500,15300,18200
+2007,20400,23000,26800,31700,31600,31700,31200,25300,23400,19000,17800,19800
+2008,21600,23200,25100,27300,30600,26800,22000,18600,19500,15200,15100,17300
+2009,19600,21600,22700,24600,27100,25400,24000,18100,15300,13300,14400,16200
+2010,17600,18700,19800,24400,31800,28600,24400,20200,17400,13300,14240,15030
+2011,16670,17670,18750,20150,20720,17550,16510,14080,12870,12290,13250,12830
+2012,14130,15400,15960,17020,19730,16120,13540,11910,10130,10010,10190,10810
+2013,11520,12140,12780,13000,12170,10640,9662,9433,11870,10350,11710,13700
+2014,15090,16160,17100,18070,17560,14030,13350,12110,11960,11140,12550,13910
+2015,14900,16230,17420,19830,21920,29660,32210,32910,27980,22000,22100,23840
+2016,25150,26460,27770,28780,30080,33350,33100,26950,24730,21800,21020,21790
+2017,22870,24370,25140,27000,33710,37760,37610,35410,33660,31250,32740,36000
+2018,38320,39290,39250,39190,36880,30300,24640,21010,19300,18440,18760,19690
+2019,20470,20930,21760,22890,,,,,,,,

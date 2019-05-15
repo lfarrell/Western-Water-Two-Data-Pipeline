@@ -1,0 +1,94 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/!ut/p/
+# 
+# Support Contact: usdafpacbc@midatl.service-now.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	RESERVOIR 16016025: Spinney Mountain Reservoir, CO
+# 
+# Data items provided in this file:
+#
+# Element Name              Value Type  Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description               
+# Reservoir Storage Volume  Value       None           Instantaneous - Start of Month  N/A        Acre feet          N/A           RESC          Reservoir storage volume  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Spinney Mountain Reservoir (16016025) 
+# Colorado  RESERVOIR Site - 8686 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 15, 2019 3:35:58 PM GMT-08:00
+#
+Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
+1981,,,,,,,,,,,0,1162
+1982,1894,1753,3103,3428,3320,8641,15236,18875,23372,28031,28962,26638
+1983,24201,23173,22817,21869,21600,29763,42609,48873,48251,46627,45616,45787
+1984,45530,44140,42606,42168,43701,46045,46559,48873,47587,48873,44359,43701
+1985,43921,43044,40634,43921,47845,47587,48873,48873,43921,41072,43263,43044
+1986,42387,39978,38881,37347,37347,39100,48873,47845,41953,36252,32599,31610
+1987,30589,31137,31502,32599,47845,50300,50300,49000,43600,38400,28500,32050
+1988,30954,31320,31868,33695,34499,37128,48359,45787,40853,34280,32416,31502
+1989,29675,27482,26386,25500,24924,33512,46559,43921,42606,40634,39319,40415
+1990,36958,32861,30173,25751,25919,27287,36958,38240,36746,31502,27813,25585
+1991,22702,19597,17947,17155,15882,21938,38240,42005,41326,36116,34670,33258
+1992,29432,24117,21487,19456,17680,20894,32861,40654,41778,39546,37810,35286
+1993,33059,30547,28346,27637,26087,29432,44311,45727,42689,43612,42689,39766
+1994,35908,32861,29616,27989,26940,35700,43844,39766,35700,32861,31883,31883
+1995,31115,29432,28885,30736,29801,35908,48651,48651,45489,40877,36746,34466
+1996,29986,30547,32664,34466,33059,26768,43380,47174,43844,41552,40431,40654
+1997,35286,31306,28705,27113,23798,31306,48402,47908,47174,43844,42460,38672
+1998,34061,30547,27461,25419,24117,25419,32861,41101,39766,36326,30736,28167
+1999,26940,26768,27287,28525,30547,42232,48651,48651,48651,46688,46931,44545
+2000,41778,37596,36958,38456,33059,34263,35908,33457,29249,24117,20311,19316
+2001,19739,18215,18351,19881,21337,31690,40431,37596,33859,29067,25089,21938
+2002,23012,22089,22089,23958,25089,27989,26597,24278,23482,23482,21787,19176
+2003,16767,14312,13059,12513,11876,14195,28885,33258,34875,29432,26597,28885
+2004,26597,23958,20311,19456,17285,21487,28885,32861,31690,28346,24117,18215
+2005,13734,16006,18351,17813,20024,25253,33258,34875,34263,33258,29986,30547
+2006,32664,36326,34670,36326,37596,38240,42005,45727,45966,41326,41552,39108
+2007,34061,31498,31306,33258,35908,46931,48402,47663,45252,40654,41326,36326
+2008,36326,36116,35492,37596,36326,38672,48651,45727,43380,37596,37170,38672
+2009,39987,41552,40654,39108,40431,48651,48900,48155,45016,39546,38024,36746
+2010,35080,34061,33658,33658,37810,42689,47663,46206,45727,39108,36116,35908
+2011,38240,34670,36536,39108,35908,35080,42689,46688,46206,43844,41552,44100
+2012,44300,43400,45700,46400,44800,43400,44300,38900,34700,34700,32900,33500
+2013,29200,24600,22500,19900,20200,28900,38900,38700,35900,38700,42700,44200
+2014,44000,43900,35500,33800,35500,38300,48500,48700,45500,42800,42600,42100
+2015,43200,41800,41300,43000,42000,47400,47900,46700,42800,37100,41400,37900
+2016,35700,32900,30600,30000,29700,33500,45000,47900,44400,35900,30400,28200
+2017,27400,27600,29000,31100,27700,31300,47200,48700,43100,37400,35000,36300
+2018,36300,35800,37000,34200,32900,39500,46800,45100,42000,33700,27300,24500
+2019,27000,28600,30200,33800,,,,,,,,

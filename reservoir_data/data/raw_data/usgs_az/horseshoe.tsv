@@ -1,0 +1,410 @@
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2018-11-02 18:50:38 EDT       (caww01)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09509501 HORSESHOE RESERVOIR AT HORSESHOE DAM, AZ
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09509501
+#            TS   parameter     statistic     Description
+#          5722       00054     32400     Reservoir storage, acre feet (Observation at midnight)
+#
+# Data-value qualification codes included in this output:
+#     P  Provisional data subject to revision.
+# 
+agency_cd	site_no	datetime	5722_00054_32400	5722_00054_32400_cd
+5s	15s	20d	14n	10s
+USGS	09509501	2018-10-01	2928	P
+USGS	09509501	2018-10-02	2941	P
+USGS	09509501	2018-10-03	3273	P
+USGS	09509501	2018-10-04	3952	P
+USGS	09509501	2018-10-05	5158	P
+USGS	09509501	2018-10-06	5685	P
+USGS	09509501	2018-10-07	6273	P
+USGS	09509501	2018-10-08	7872	P
+USGS	09509501	2018-10-09	8695	P
+USGS	09509501	2018-10-10	9293	P
+USGS	09509501	2018-10-11	9666	P
+USGS	09509501	2018-10-12	9933	P
+USGS	09509501	2018-10-13	10230	P
+USGS	09509501	2018-10-14	10650	P
+USGS	09509501	2018-10-15	11100	P
+USGS	09509501	2018-10-16	11390	P
+USGS	09509501	2018-10-17	11790	P
+USGS	09509501	2018-10-18	11950	P
+USGS	09509501	2018-10-19	11910	P
+USGS	09509501	2018-10-20	11820	P
+USGS	09509501	2018-10-21	11670	P
+USGS	09509501	2018-10-22	11630	P
+USGS	09509501	2018-10-23	11380	P
+USGS	09509501	2018-10-24	11210	P
+USGS	09509501	2018-10-25	11030	P
+USGS	09509501	2018-10-26	10860	P
+USGS	09509501	2018-10-27	10680	P
+USGS	09509501	2018-10-28	10470	P
+USGS	09509501	2018-10-29	10260	P
+USGS	09509501	2018-10-30	10040	P
+USGS	09509501	2018-10-31	9971	P
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2018-12-03 19:38:13 EST       (vaww02)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09509501 HORSESHOE RESERVOIR AT HORSESHOE DAM, AZ
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09509501
+#            TS   parameter     statistic     Description
+#          5722       00054     32400     Reservoir storage, acre feet (Observation at midnight)
+#
+# Data-value qualification codes included in this output:
+#     A  Approved for publication -- Processing and review completed.
+#     P  Provisional data subject to revision.
+# 
+agency_cd	site_no	datetime	5722_00054_32400	5722_00054_32400_cd
+5s	15s	20d	14n	10s
+USGS	09509501	2018-11-01	10100	A
+USGS	09509501	2018-11-02	9990	A
+USGS	09509501	2018-11-03	9859	A
+USGS	09509501	2018-11-04	9700	A
+USGS	09509501	2018-11-05	9562	A
+USGS	09509501	2018-11-06	9414	P
+USGS	09509501	2018-11-07	9146	P
+USGS	09509501	2018-11-08	8422	P
+USGS	09509501	2018-11-09	7493	P
+USGS	09509501	2018-11-10	6568	P
+USGS	09509501	2018-11-11	5628	P
+USGS	09509501	2018-11-12	4673	P
+USGS	09509501	2018-11-13	3719	P
+USGS	09509501	2018-11-14	2630	P
+USGS	09509501	2018-11-15	2345	P
+USGS	09509501	2018-11-16	2513	P
+USGS	09509501	2018-11-17	2616	P
+USGS	09509501	2018-11-18	2691	P
+USGS	09509501	2018-11-19	2776	P
+USGS	09509501	2018-11-20	2822	P
+USGS	09509501	2018-11-21	2872	P
+USGS	09509501	2018-11-22	2937	P
+USGS	09509501	2018-11-23	3017	P
+USGS	09509501	2018-11-24	3112	P
+USGS	09509501	2018-11-25	3175	P
+USGS	09509501	2018-11-26	3238	P
+USGS	09509501	2018-11-27	3308	P
+USGS	09509501	2018-11-28	3403	P
+USGS	09509501	2018-11-29	3500	P
+USGS	09509501	2018-11-30	3609	P
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2019-01-02 13:00:31 EST       (caww01)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09509501 HORSESHOE RESERVOIR AT HORSESHOE DAM, AZ
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09509501
+#            TS   parameter     statistic     Description
+#          5722       00054     32400     Reservoir storage, acre feet (Observation at noon)
+#
+# Data-value qualification codes included in this output:
+#     A  Approved for publication -- Processing and review completed.
+#     P  Provisional data subject to revision.
+# 
+agency_cd	site_no	datetime	5722_00054_32400	5722_00054_32400_cd
+5s	15s	20d	14n	10s
+USGS	09509501	2018-12-01	3692	A
+USGS	09509501	2018-12-02	3760	A
+USGS	09509501	2018-12-03	3867	A
+USGS	09509501	2018-12-04	3937	A
+USGS	09509501	2018-12-05	4181	A
+USGS	09509501	2018-12-06	4551	A
+USGS	09509501	2018-12-07	4652	A
+USGS	09509501	2018-12-08	4748	A
+USGS	09509501	2018-12-09	4832	A
+USGS	09509501	2018-12-10	4916	A
+USGS	09509501	2018-12-11	4989	P
+USGS	09509501	2018-12-12	5063	P
+USGS	09509501	2018-12-13	5124	P
+USGS	09509501	2018-12-14	5199	P
+USGS	09509501	2018-12-15	5268	P
+USGS	09509501	2018-12-16	5372	P
+USGS	09509501	2018-12-17	5407	P
+USGS	09509501	2018-12-18	5485	P
+USGS	09509501	2018-12-19	5549	P
+USGS	09509501	2018-12-20	5599	P
+USGS	09509501	2018-12-21	5685	P
+USGS	09509501	2018-12-22	5736	P
+USGS	09509501	2018-12-23	5809	P
+USGS	09509501	2018-12-24	5875	P
+USGS	09509501	2018-12-25	5942	P
+USGS	09509501	2018-12-26	6009	P
+USGS	09509501	2018-12-27	6076	P
+USGS	09509501	2018-12-28	6151	P
+USGS	09509501	2018-12-29	6212	P
+USGS	09509501	2018-12-30	6273	P
+USGS	09509501	2018-12-31	6366	P
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2019-02-02 09:04:16 EST       (caww02)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09509501 HORSESHOE RESERVOIR AT HORSESHOE DAM, AZ
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09509501
+#            TS   parameter     statistic     Description
+#          5722       00054     32400     Reservoir storage, acre feet (Observation at noon)
+#
+# Data-value qualification codes included in this output:
+#     P  Provisional data subject to revision.
+# 
+agency_cd	site_no	datetime	5722_00054_32400	5722_00054_32400_cd
+5s	15s	20d	14n	10s
+USGS	09509501	2019-01-01	6466	P
+USGS	09509501	2019-01-02	6521	P
+USGS	09509501	2019-01-03	6615	P
+USGS	09509501	2019-01-04	6695	P
+USGS	09509501	2019-01-05	6791	P
+USGS	09509501	2019-01-06	6936	P
+USGS	09509501	2019-01-07	7116	P
+USGS	09509501	2019-01-08	7274	P
+USGS	09509501	2019-01-09	7433	P
+USGS	09509501	2019-01-10	7578	P
+USGS	09509501	2019-01-11	7707	P
+USGS	09509501	2019-01-12	7820	P
+USGS	09509501	2019-01-13	7925	P
+USGS	09509501	2019-01-14	8048	P
+USGS	09509501	2019-01-15	8163	P
+USGS	09509501	2019-01-16	8440	P
+USGS	09509501	2019-01-17	9247	P
+USGS	09509501	2019-01-18	11990	P
+USGS	09509501	2019-01-19	14310	P
+USGS	09509501	2019-01-20	17190	P
+USGS	09509501	2019-01-21	18800	P
+USGS	09509501	2019-01-22	19750	P
+USGS	09509501	2019-01-23	20460	P
+USGS	09509501	2019-01-24	21000	P
+USGS	09509501	2019-01-25	21380	P
+USGS	09509501	2019-01-26	21640	P
+USGS	09509501	2019-01-27	21880	P
+USGS	09509501	2019-01-28	22060	P
+USGS	09509501	2019-01-29	22210	P
+USGS	09509501	2019-01-30	22360	P
+USGS	09509501	2019-01-31	22470	P
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2019-03-01 19:28:30 EST       (vaww02)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09509501 HORSESHOE RESERVOIR AT HORSESHOE DAM, AZ
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09509501
+#            TS   parameter     statistic     Description
+#          5722       00054     32400     Reservoir storage, acre feet (Observation at noon)
+#
+# Data-value qualification codes included in this output:
+#     P  Provisional data subject to revision.
+# 
+agency_cd	site_no	datetime	5722_00054_32400	5722_00054_32400_cd
+5s	15s	20d	14n	10s
+USGS	09509501	2019-02-01	22920	P
+USGS	09509501	2019-02-02	23010	P
+USGS	09509501	2019-02-03	23240	P
+USGS	09509501	2019-02-04	27640	P
+USGS	09509501	2019-02-05	37480	P
+USGS	09509501	2019-02-06	47480	P
+USGS	09509501	2019-02-07	52400	P
+USGS	09509501	2019-02-08	54620	P
+USGS	09509501	2019-02-09	55870	P
+USGS	09509501	2019-02-10	56660	P
+USGS	09509501	2019-02-11	57160	P
+USGS	09509501	2019-02-12	57200	P
+USGS	09509501	2019-02-13	56400	P
+USGS	09509501	2019-02-14	54220	P
+USGS	09509501	2019-02-15	72250	P
+USGS	09509501	2019-02-16	84910	P
+USGS	09509501	2019-02-17	87420	P
+USGS	09509501	2019-02-18	87870	P
+USGS	09509501	2019-02-19	88150	P
+USGS	09509501	2019-02-20	88400	P
+USGS	09509501	2019-02-21	90330	P
+USGS	09509501	2019-02-22	91700	P
+USGS	09509501	2019-02-23	93060	P
+USGS	09509501	2019-02-24	94350	P
+USGS	09509501	2019-02-25	95980	P
+USGS	09509501	2019-02-26	97340	P
+USGS	09509501	2019-02-27	98450	P
+USGS	09509501	2019-02-28	99670	P
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2019-04-01 19:49:12 EDT       (vaww02)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09509501 HORSESHOE RESERVOIR AT HORSESHOE DAM, AZ
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09509501
+#            TS   parameter     statistic     Description
+#          5722       00054     32400     Reservoir storage, acre feet (Observation at noon)
+#
+# Data-value qualification codes included in this output:
+#     P  Provisional data subject to revision.
+# 
+agency_cd	site_no	datetime	5722_00054_32400	5722_00054_32400_cd
+5s	15s	20d	14n	10s
+USGS	09509501	2019-03-01	100000	P
+USGS	09509501	2019-03-02	100500	P
+USGS	09509501	2019-03-03	100600	P
+USGS	09509501	2019-03-04	102500	P
+USGS	09509501	2019-03-05	104400	P
+USGS	09509501	2019-03-06	105400	P
+USGS	09509501	2019-03-07	106000	P
+USGS	09509501	2019-03-08	106700	P
+USGS	09509501	2019-03-09	106400	P
+USGS	09509501	2019-03-10	106900	P
+USGS	09509501	2019-03-11	104900	P
+USGS	09509501	2019-03-12	101700	P
+USGS	09509501	2019-03-13	106800	P
+USGS	09509501	2019-03-14	106400	P
+USGS	09509501	2019-03-15	106100	P
+USGS	09509501	2019-03-16	105800	P
+USGS	09509501	2019-03-17	105300	P
+USGS	09509501	2019-03-18	105900	P
+USGS	09509501	2019-03-19	106900	P
+USGS	09509501	2019-03-20	106900	P
+USGS	09509501	2019-03-21	106600	P
+USGS	09509501	2019-03-22	106600	P
+USGS	09509501	2019-03-23	107100	P
+USGS	09509501	2019-03-24	107300	P
+USGS	09509501	2019-03-25	107400	P
+USGS	09509501	2019-03-26	107200	P
+USGS	09509501	2019-03-27	106900	P
+USGS	09509501	2019-03-28	106400	P
+USGS	09509501	2019-03-29	106000	P
+USGS	09509501	2019-03-30	105800	P
+USGS	09509501	2019-03-31	105500	P
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2019-05-01 19:19:14 EDT       (caww01)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09509501 HORSESHOE RESERVOIR AT HORSESHOE DAM, AZ
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09509501
+#            TS   parameter     statistic     Description
+#          5722       00054     32400     Reservoir storage, acre feet (Observation at midnight)
+#
+# Data-value qualification codes included in this output:
+#     P  Provisional data subject to revision.
+# 
+agency_cd	site_no	datetime	5722_00054_32400	5722_00054_32400_cd
+5s	15s	20d	14n	10s
+USGS	09509501	2019-04-01	105100	P
+USGS	09509501	2019-04-02	104700	P
+USGS	09509501	2019-04-03	104200	P
+USGS	09509501	2019-04-04	103600	P
+USGS	09509501	2019-04-05	103000	P
+USGS	09509501	2019-04-06	102400	P
+USGS	09509501	2019-04-07	101800	P
+USGS	09509501	2019-04-08	101100	P
+USGS	09509501	2019-04-09	100400	P
+USGS	09509501	2019-04-10	99560	P
+USGS	09509501	2019-04-11	98890	P
+USGS	09509501	2019-04-12	98120	P
+USGS	09509501	2019-04-13	97500	P
+USGS	09509501	2019-04-14	96760	P
+USGS	09509501	2019-04-15	95720	P
+USGS	09509501	2019-04-16	94430	P
+USGS	09509501	2019-04-17	93350	P
+USGS	09509501	2019-04-18	92550	P
+USGS	09509501	2019-04-19	91330	P
+USGS	09509501	2019-04-20	89920	P
+USGS	09509501	2019-04-21	88480	P
+USGS	09509501	2019-04-22	86850	P
+USGS	09509501	2019-04-23	85020	P
+USGS	09509501	2019-04-24	83020	P
+USGS	09509501	2019-04-25	81070	P
+USGS	09509501	2019-04-26	78970	P
+USGS	09509501	2019-04-27	76260	P
+USGS	09509501	2019-04-28	73670	P
+USGS	09509501	2019-04-29	71530	P
+USGS	09509501	2019-04-30	69780	P

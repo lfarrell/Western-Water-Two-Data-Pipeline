@@ -1,0 +1,89 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/!ut/p/
+# 
+# Support Contact: usdafpacbc@midatl.service-now.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	RESERVOIR 10UTENTL: Lower Enterprise, UT
+# 
+# Data items provided in this file:
+#
+# Element Name              Value Type  Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description               
+# Reservoir Storage Volume  Value       None           Instantaneous - Start of Month  N/A        Acre feet          N/A           RESC          Reservoir storage volume  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Lower Enterprise (10UTENTL) 
+# Utah  RESERVOIR Site - 5687 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 15, 2019 3:33:18 PM GMT-08:00
+#
+Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
+1986,,,,,1300,100,,,,,,
+1987,,,,,1300,100,,,,,,
+1988,500,600,,,600,,,,,,,
+1989,,0,500,,100,,,,,,,
+1990,100,100,600,600,800,,,,,,,
+1991,200,400,500,,500,,,,,,,
+1992,200,200,600,800,800,,,,,,,
+1993,200,200,800,2000,2200,,,,,,,
+1994,100,900,2400,2400,2600,,,,,,,
+1995,300,300,400,800,800,,,,,,100,700
+1996,800,1100,1800,2500,2600,1800,,,,,,
+1997,0,0,500,500,400,,,,,,,
+1998,600,600,1500,2600,2600,1800,,,,,,
+1999,600,600,700,800,800,,,,,,,
+2000,600,700,800,1000,900,100,,,,,,
+2001,300,400,700,800,1000,1000,,,,,,
+2002,200,200,200,300,500,500,500,200,0,0,0,0
+2003,400,400,400,700,700,500,,0,0,0,0,0
+2004,400,400,600,700,700,500,200,200,0,0,800,1300
+2005,2000,2600,2600,2600,2600,2600,2200,600,300,0,0,0
+2006,0,0,0,1100,2400,1800,200,200,200,1600,2200,2200
+2007,2300,2400,2400,2500,2500,1700,1900,1000,500,500,200,200
+2008,1400,1800,2600,2600,2600,2600,2000,300,200,100,0,0
+2009,500,600,1600,2000,2000,1300,800,700,100,0,0,0
+2010,0,0,200,1300,2300,1300,1000,500,500,500,400,400
+2011,2600,2400,2500,2600,2600,2400,1600,1600,800,800,800,800
+2012,800,800,800,1000,1300,1300,1300,1300,1300,500,500,500
+2013,500,600,600,600,500,1500,1500,1000,500,600,600,600
+2014,700,800,1200,1200,800,800,800,850,900,1200,1200,1200
+2015,1200,1500,1800,1700,1400,1250,1000,1000,1100,500,510,600
+2016,800,1000,1200,1100,1250,800,750,500,400,300,300,300
+2017,350,450,2400,2500,2500,2000,1700,1500,1000,1000,800,800
+2018,600,1275,1672,1500,1150,900,750,450,48,27,27,31
+2019,31,200,250,2800,,,,,,,,

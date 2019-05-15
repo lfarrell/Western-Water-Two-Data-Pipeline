@@ -1,0 +1,100 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/!ut/p/
+# 
+# Support Contact: usdafpacbc@midatl.service-now.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	RESERVOIR 12367000: Ashley Lake, MT
+# 
+# Data items provided in this file:
+#
+# Element Name              Value Type  Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description               
+# Reservoir Storage Volume  Value       None           Instantaneous - Start of Month  N/A        Acre feet          N/A           RESC          Reservoir storage volume  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Ashley Lake (12367000) 
+# Montana  RESERVOIR Site - 3946 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 15, 2019 3:36:18 PM GMT-08:00
+#
+Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
+1975,,,,,,19630,19080,17010,15400,14950,14920,14560
+1976,14750,14360,13970,13590,14700,16500,15900,15140,14700,13670,12760,12240
+1977,11970,12000,12020,12050,12110,11320,10160,8840,7910,7620,7210,7340
+1978,7600,7830,7970,8230,9950,13040,13530,14080,13230,13170,12710,12460
+1979,12820,13040,13480,13230,13860,16530,15960,14580,12790,11000,9920,9680
+1980,9660,9680,9760,9950,11000,12840,14220,14060,13530,13040,12300,12710
+1981,12320,12570,12840,13090,14060,16160,17290,16950,15900,14560,13530,13230
+1982,13090,13260,13810,14060,14810,17350,17240,16070,14900,13970,13390,13280
+1983,13340,13780,13860,14220,14980,15680,15510,15370,14500,13640,13090,13170
+1984,13090,13090,13170,13360,14470,15760,15960,14450,12840,11970,11700,11540
+1985,11510,11540,11540,11590,12920,14750,15420,13720,12320,12650,12820,13390
+1986,14000,14610,15170,16870,18160,18240,17440,16410,14720,14280,13950,13610
+1987,13280,12980,12790,13610,16160,16840,16240,15850,14360,13260,12320,12160
+1988,12050,12270,12320,12790,15120,16380,16720,15120,12730,11400,11210,11260
+1989,11400,11670,11920,12190,15700,17750,17010,16160,15340,14530,13810,13950
+1990,13700,13750,13170,12410,16210,17870,17950,16410,15880,14780,14470,14360
+1991,13970,13450,12790,11590,13360,16580,16750,15760,14610,13530,12820,12620
+1992,12710,12710,12800,13450,14670,14060,12730,11970,11000,10080,9760,9660
+1993,9470,9920,10190,10540,12410,13500,13810,16100,16670,16440,16210,15000
+1994,14500,14580,14640,15200,16810,16040,14360,13200,11480,10750,10670,10700
+1995,10890,10860,11400,12840,14140,15370,16380,16020,14860,14000,14110,14890
+1996,16040,16500,17920,18270,22000,21520,18100,16780,15710,15150,14670,14500
+1997,15560,15620,13670,11400,13590,18850,16720,16780,15850,15090,14420,13530
+1998,13530,13230,13140,13390,14450,15310,16670,15870,14080,13150,12380,12620
+1999,13140,13420,13530,14140,15650,15310,16670,14140,13200,12050,11890,12190
+2000,12190,12460,12620,12950,15590,16440,15700,14410,12940,12070,11450,11020
+2001,10970,11020,11370,11210,12430,13170,13450,12840,11780,10750,,
+2002,10270,,11490,12130,14610,17270,16870,15420,13860,12600,12430,12270
+2003,12300,,,13950,14860,15390,13860,12840,10750,10010,,
+2004,10540,10540,10540,10820,12270,13090,12240,11320,10900,10500,10240,10000
+2005,10000,10000,10000,11140,12350,13310,14530,13170,11930,11540,,11430
+2006,11730,11780,11780,14530,16920,16330,16180,14530,13530,13200,12270,
+2007,12270,12270,12270,15960,17240,16700,15170,14280,12790,12190,11750,11750
+2008,11750,11750,12950,12980,12050,15400,16980,15880,15200,14000,13973,13973
+2009,13973,14948,14925,14920,15564,17445,15818,15284,14268,12788,12676,12532
+2010,12378,12554,12808,13010,13888,15090,17094,16784,15886,15320,14747,14272
+2011,14278,14803,15012,13356,13102,18365,17195,16619,15340,14380,13800,12892
+2012,12524,12848,13264,13698,16186,17000,16968,16258,14850,13802,13778,13669
+2013,13890,13913,13851,14261,15846,16661,16505,15319,14329,13567,13008,13008
+2014,13008,13370,14637,15024,15196,17050,17291,16393,15533,14368,14045,13887
+2015,13918,14188,14639,14478,16317,15545,14128,12549,11226,10565,10503,10444
+2016,10430,10430,11578,12720,14381,15529,15895,14941,13855,13436,13482,13652
+2017,13613,13500,13511,15550,17306,17056,16581,,,,,
+2018,,,,,,,,,,,,
+2019,,,,,,,,,,,,

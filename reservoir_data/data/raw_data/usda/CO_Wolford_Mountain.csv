@@ -1,0 +1,80 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/!ut/p/
+# 
+# Support Contact: usdafpacbc@midatl.service-now.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	RESERVOIR 09041395: Wolford Mountain Reservoir, CO
+# 
+# Data items provided in this file:
+#
+# Element Name              Value Type  Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description               
+# Reservoir Storage Volume  Value       None           Instantaneous - Start of Month  N/A        Acre feet          N/A           RESC          Reservoir storage volume  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Wolford Mountain Reservoir (09041395) 
+# Colorado  RESERVOIR Site - 7500 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 15, 2019 3:36:15 PM GMT-08:00
+#
+Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
+1995,,,,,,,28300,33200,32400,30100,28100,28100
+1996,28500,28500,28500,28100,28700,54300,63200,63300,55700,50400,48500,48200
+1997,47900,47700,46000,44100,43900,67200,66200,65700,63800,59500,51500,51300
+1998,51200,51000,50800,53600,60800,67000,65600,65700,62800,51300,49800,49200
+1999,48400,48300,48100,48900,50800,67000,66000,66100,64500,58400,50700,49700
+2000,49100,48700,48300,48700,58000,66800,65500,61300,52200,47400,46100,45600
+2001,44800,44100,43500,43300,44500,61700,62300,59300,52800,45300,43600,42900
+2002,41900,41300,40500,40500,40600,42600,41000,39500,31200,24700,18900,18200
+2003,17500,17100,17000,18350,19700,35700,45200,43400,42300,41400,40500,40400
+2004,40100,39900,39700,41000,45200,52200,53800,51100,41500,32800,29400,28900
+2005,28600,28400,28100,28000,32900,48600,59400,59700,57300,56000,55300,54800
+2006,54400,54200,54100,54500,65300,66700,65700,63900,57200,52000,51200,50500
+2007,49800,49000,48600,51400,58300,66600,65900,64600,59800,54700,53800,53000
+2008,52600,51900,51450,51000,53800,67600,66400,66200,59800,54000,52900,52400
+2009,52000,51600,51300,51800,57200,66700,66200,65800,59300,54500,53700,53100
+2010,52500,51800,51600,51600,56500,67500,66300,64500,61300,55600,54880,54380
+2011,54260,54070,53890,55360,59740,67440,67100,65980,64490,57830,58300,58420
+2012,58330,58220,58160,61620,66520,66100,63940,59710,47780,31600,25880,25230
+2013,24800,24390,24110,24200,26860,49370,52600,50710,46250,44600,44180,44040
+2014,43870,43780,43660,43030,46410,68400,61870,52140,47700,46910,46650,46420
+2015,46290,45810,45540,45880,49840,52640,49940,51830,46160,45440,45000,44300
+2016,43620,42670,42090,41900,47070,66900,64890,62800,56570,53450,52240,51640
+2017,51150,50760,50570,52020,60470,67020,66080,65400,61070,56930,56160,55590
+2018,55040,54590,54260,54030,55960,66640,65840,55390,39820,37020,36200,35360
+2019,34700,34090,33640,33520,,,,,,,,

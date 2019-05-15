@@ -1,0 +1,106 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/!ut/p/
+# 
+# Support Contact: usdafpacbc@midatl.service-now.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	RESERVOIR 06016260: Ralph Price Reservoir, CO
+# 
+# Data items provided in this file:
+#
+# Element Name              Value Type  Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description               
+# Reservoir Storage Volume  Value       None           Instantaneous - Start of Month  N/A        Acre feet          N/A           RESC          Reservoir storage volume  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Ralph Price Reservoir (06016260) 
+# Colorado  RESERVOIR Site - 6420 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 15, 2019 3:35:48 PM GMT-08:00
+#
+Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
+1969,,,,,,14800,15780,15233,14160,14160,14960,14201
+1970,13206,13206,13206,13206,13398,13998,14970,13796,13796,13206,13398,13497
+1971,13240,13201,13188,13339,13796,15032,14113,15032,14262,13656,13756,13596
+1972,13477,13616,13457,13716,13856,13823,14655,13823,12338,13897,13998,13897
+1973,13796,13437,13162,12890,13998,15032,15032,14365,13437,12852,12622,12679
+1974,12357,12713,11690,11240,11563,13400,14864,14400,13000,12800,13000,12679
+1975,12357,11891,11527,11419,12319,13396,15265,14201,13417,12113,11891,11527
+1976,11001,10743,,10005,9710,11599,13339,13045,11800,12113,12319,12021
+1977,11818,11330,10976,10577,10715,11873,11818,11965,11383,10854,10680,10710
+1978,10646,10577,10424,10373,10373,15457,15457,15457,13636,12622,12319,11965
+1979,11646,11240,10906,10941,12413,14906,15457,15457,15457,14717,14201,14038
+1980,13636,13260,12948,12832,13124,13977,15451,15458,13796,13736,13045,
+1981,,,,,,,,,,,,
+1982,,,,,,,,,,,15500,15400
+1983,15000,14500,13900,13800,14100,15500,15500,15500,15500,14900,14500,14160
+1984,14038,13616,12660,12169,13696,14675,15457,15457,15117,13656,12715,15457
+1985,15308,14927,14267,13836,14530,15457,15457,15265,12717,11618,11455,10900
+1986,10407,9795,9230,9183,13836,15457,15457,15095,13045,12300,12206,12022
+1987,11473,10561,9808,9890,15457,15458,15457,15000,12987,12188,11654,11099
+1988,10356,9452,8706,8157,9641,11347,13477,13457,13026,12622,12002,11205
+1989,10374,9468,8737,8466,8767,12244,15457,15457,15457,15457,15223,14738
+1990,14202,13577,13707,13687,16153,16197,16197,16197,16197,16197,15998,15260
+1991,14522,13888,13269,12686,12327,12477,16197,16197,16197,16197,16197,15627
+1992,14920,14295,13707,13667,15432,16043,16197,16197,16197,16197,15933,15389
+1993,14668,13787,12936,12198,11940,11959,16197,16197,15976,15976,15976,15497
+1994,14920,14111,13408,12917,12327,14419,16197,16197,16197,16175,15801,15089
+1995,14295,13388,12610,11526,11260,14773,16197,16197,16197,16197,15801,15432
+1996,14668,13928,13309,12705,13868,16197,16197,16197,16131,16197,16153,15432
+1997,14878,14193,13527,12878,13112,16197,16197,16020,16197,16197,16197,15801
+1998,15089,14316,13627,13507,15998,16197,16197,16197,16197,16197,16153,15497
+1999,14439,13408,12477,11669,13014,16264,16286,16286,16264,16220,16109,15454
+2000,14585,13587,12591,11705,12975,15845,16242,16264,16242,16197,15932,15068
+2001,13989,12859,12014,11330,11561,15175,16264,16264,16264,16197,15998,15432
+2002,14688,13767,12878,10214,11436,12667,15605,15648,15367,15670,15932,15540
+2003,14983,14378,13868,14111,14172,16197,16197,16197,16197,16197,16131,15518
+2004,14878,14172,13447,12782,12648,13053,16242,16264,16197,16197,16197,16109
+2005,15845,15389,15005,14501,14941,16220,16286,16264,16197,16109,16197,15540
+2006,14920,14274,13949,13727,13647,14647,16197,16220,16264,16264,16264,16309
+2007,15976,15153,14689,15047,12234,15303,16398,16286,16286,16242,16197,15867
+2008,15217,14357,13348,12477,12032,11977,16286,16286,16286,16286,16109,15475
+2009,14626,13666,12667,12050,13151,15454,16286,16286,16242,16175,16153,15670
+2010,14689,13727,12763,12068,14522,16286,16286,16286,16286,16065,15867,15735
+2011,14983,14234,13467,12705,12572,11904,14857,16242,16242,16264,16197,15735
+2012,15026,13949,12936,12553,12123,13676,14920,15801,15801,16197,16197,16131
+2013,15282,14336,13547,12859,12705,15218,16197,16197,16197,15068,14274,14070
+2014,13888,13928,13928,13587,12840,12017,12010,13846,13163,13206,13145,13232
+2015,13133,12884,12625,13169,14254,14522,15692,16197,14878,14689,14439,14070
+2016,13467,12743,12160,11813,13888,15026,16309,16309,15410,14357,13465,12859
+2017,12032,12032,10911,10825,10298,14439,16179,16197,16197,16197,16192,16200
+2018,16100,16100,15900,15800,15800,16200,16200,16200,15900,15200,14700,13800
+2019,12900,11900,11200,10900,,,,,,,,

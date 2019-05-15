@@ -1,0 +1,87 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/!ut/p/
+# 
+# Support Contact: usdafpacbc@midatl.service-now.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	RESERVOIR 09237495: Stagecoach Reservoir nr Oak Creek, CO
+# 
+# Data items provided in this file:
+#
+# Element Name              Value Type  Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description               
+# Reservoir Storage Volume  Value       None           Instantaneous - Start of Month  N/A        Acre feet          N/A           RESC          Reservoir storage volume  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Stagecoach Reservoir Nr Oak Creek (09237495) 
+# Colorado  RESERVOIR Site - 7200 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 15, 2019 3:35:59 PM GMT-08:00
+#
+Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
+1988,,,,,,,,,,,0,0
+1989,756,1450,2100,7404,13728,17278,16882,22243,27185,26568,26568,26183
+1990,25580,25018,23746,24329,25268,25203,25519,28979,30406,30837,31390,31741
+1991,31051,29625,28879,28993,32646,33356,32787,33443,32661,31431,32043,29544
+1992,27821,26713,25748,26412,28633,29620,30982,32711,32697,31434,30520,29947
+1993,28813,27186,25813,25725,29585,33696,33275,33239,32957,31384,30955,30695
+1994,29612,28244,26662,26713,29623,29893,29727,30354,30307,28900,28055,27074
+1995,26408,25797,25060,25861,27142,31675,33594,33559,33072,33534,32767,32277
+1996,31418,29005,28225,26822,33144,34125,33710,33370,32365,30790,30012,30083
+1997,29594,27964,25375,25612,31270,34439,33746,33777,33373,33521,33359,33207
+1998,31518,29708,28741,30462,33915,33462,33362,33522,33002,31303,31100,30960
+1999,29973,29448,27614,27898,31559,33625,33335,33684,33350,32926,31680,30469
+2000,29149,28256,26274,24691,28309,32166,32575,33275,32528,31254,30737,31023
+2001,31098,28995,27527,26843,30116,32264,32403,33247,32362,30721,30012,29522
+2002,28944,28364,27436,27332,27750,26852,26332,25606,24979,23814,24103,24582
+2003,24479,24475,24475,25555,31266,33379,33140,32638,32482,31847,30882,31091
+2004,30398,28972,27525,28985,30472,30520,31291,32721,32808,32345,32550,31920
+2005,30946,30375,30113,30365,32207,32188,33286,33278,33072,32218,32188,30692
+2006,29753,28530,27232,26630,33317,33288,32714,33256,32433,31635,31608,31328
+2007,30546,30029,28755,32092,32891,32711,32695,32766,32347,31772,31245,30402
+2008,29884,28605,26253,24230,27923,33968,33297,33207,32431,30934,30883,30608
+2009,29618,28098,25924,26664,30836,33540,33349,32106,32065,30957,30433,30069
+2010,28842,28339,28086,28316,31239,33780,33381,31388,27038,23357,22863,22615
+2011,22596,22305,21921,21220,31340,37228,37272,35398,32623,31463,31071,31700
+2012,31100,31100,31200,33666,34300,33900,33400,33100,30700,28900,28925,28900
+2013,28900,28900,28900,29360,33700,36400,36100,35800,34200,33400,33423,33700
+2014,33700,33600,31898,30300,33500,36800,36300,36100,36000,35200,35174,34100
+2015,33500,33600,33580,34700,36400,36000,36300,36300,35600,35300,35478,34674
+2016,34674,34377,34017,33423,35534,36439,36391,35910,35574,34846,34950,34729
+2017,34619,34463,34088,33180,34001,35166,34958,35662,34377,33130,33556,33500
+2018,33400,33400,33400,35200,36200,36400,36100,35800,33300,31300,31100,31200
+2019,31200,31200,31200,31200,,,,,,,,

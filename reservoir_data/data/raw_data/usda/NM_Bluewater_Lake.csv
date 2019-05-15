@@ -1,0 +1,87 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/!ut/p/
+# 
+# Support Contact: usdafpacbc@midatl.service-now.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	RESERVOIR 08341400: Bluewater Lake, NM
+# 
+# Data items provided in this file:
+#
+# Element Name              Value Type  Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description               
+# Reservoir Storage Volume  Value       None           Instantaneous - Start of Month  N/A        Acre feet          N/A           RESC          Reservoir storage volume  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Bluewater Lake (08341400) 
+# New Mexico  RESERVOIR Site - 7346 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 15, 2019 3:32:53 PM GMT-08:00
+#
+Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
+1988,,,,,,,,,,,10350,10140
+1989,10110,10250,10520,11270,9840,6490,3920,3790,3840,3650,3550,3390
+1990,2740,1940,1940,3240,3140,2960,2740,2640,2540,2460,2330,2260
+1991,2230,4677,7123,9570,15030,12360,11410,8150,6120,4770,4460,4410
+1992,4430,4450,4890,9570,11500,9820,7780,5930,5090,4830,4630,4530
+1993,4590,7080,11070,31340,35560,33640,31140,27930,27360,25800,24520,24230
+1994,23850,22540,23450,25880,24990,22140,18820,14840,12350,11680,11550,11210
+1995,11180,11290,15010,24360,25330,22240,18520,14480,12480,10980,10770,10560
+1996,10350,10140,9930,9820,9620,6040,3660,3530,3455,3380,3230,3190
+1997,3160,3160,3170,5360,6060,6270,5990,5720,5590,5750,5770,5730
+1998,5770,5870,5970,16290,27390,26460,21830,18840,16530,15270,14930,15150
+1999,14970,14780,14520,14190,13840,10950,8210,6200,5880,5090,4300,4170
+2000,4090,4040,3960,3950,3780,3510,3280,3130,2970,2800,2760,2700
+2001,2640,2620,2650,4860,5160,4920,3580,3450,3350,3150,2980,2890
+2002,2840,2810,2770,2660,2500,2300,2070,1960,1830,1750,1690,1660
+2003,1630,1590,1710,5580,5780,5400,5030,4720,4560,4480,4270,4150
+2004,4070,4030,3980,4150,4920,4570,4240,3990,3780,3570,3450,3360
+2005,3300,3260,4920,7750,9770,8420,6490,4590,3760,3520,3390,3280
+2006,3190,3110,2990,2930,2730,2530,2320,2240,2630,2500,2360,2330
+2007,2320,2310,2330,2850,2960,2780,2590,2460,2320,2160,2420,2690
+2008,3020,3390,4200,7050,7100,6970,6210,5370,4760,4410,4280,3630
+2009,3290,4010,4220,4720,6080,5750,5890,5630,4250,3880,2560,1890
+2010,2420,2800,3180,6110,11700,12200,9630,9830,9160,8070,7280,7082
+2011,6960,6850,6736,6542,6190,5797,5420,5166,5111,4937,4759,4620
+2012,4608,4597,4666,5926,5802,5526,5196,4813,3863,3684,3522,3423
+2013,3370,3333,3286,3162,2973,2766,2529,2408,2456,4374,4167,4086
+2014,3996,3890,3794,3666,3479,3280,2999,2920,2826,2664,2547,2449
+2015,2415,2420,2374,2423,2298,2197,2072,2262,2300,2178,2095,2043
+2016,2006,1974,2130,2079,2038,2109,1930,1795,1736,1634,1604,1604
+2017,1604,2815,7754,11280,11440,10580,9294,8250,7506,7251,6937,6704
+2018,6526,6357,6194,6006,5683,5302,4352,3629,3543,3398,3295,3180
+2019,3123,3096,4076,11550,,,,,,,,

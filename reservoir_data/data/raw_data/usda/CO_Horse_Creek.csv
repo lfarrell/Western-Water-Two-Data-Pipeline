@@ -1,0 +1,126 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/!ut/p/
+# 
+# Support Contact: usdafpacbc@midatl.service-now.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	RESERVOIR 07007050: Horse Creek Reservoir, CO
+# 
+# Data items provided in this file:
+#
+# Element Name              Value Type  Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description               
+# Reservoir Storage Volume  Value       None           Instantaneous - Start of Month  N/A        Acre feet          N/A           RESC          Reservoir storage volume  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Horse Creek Reservoir (07007050) 
+# Colorado  RESERVOIR Site - 3950 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 15, 2019 3:34:54 PM GMT-08:00
+#
+Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
+1949,,,,,,,,,,,,6977
+1950,7517,7239,7023,6575,5258,4657,0,0,2259,0,0,0
+1951,0,0,0,0,0,0,3355,5688,2018,0,0,0
+1952,0,0,0,0,0,0,0,0,0,0,0,0
+1953,0,0,0,0,0,0,0,0,0,0,0,0
+1954,0,0,0,0,0,0,0,0,0,0,0,0
+1955,0,0,0,0,0,0,0,2982,4543,388,0,0
+1956,0,0,0,0,0,0,0,0,0,0,0,0
+1957,0,0,0,0,0,15824,25658,24165,25026,23456,21688,22595
+1958,22857,22738,22571,22285,21808,21998,20614,15823,10286,3638,3295,3190
+1959,2889,2468,3018,2468,1403,0,0,0,0,0,0,0
+1960,0,0,0,1480,2698,1830,1399,1090,0,0,0,0
+1961,0,0,0,0,0,0,1950,3242,4244,4400,3982,4400
+1962,6120,7575,11444,12192,11335,10642,9592,16024,10286,6928,2143,2000
+1963,1800,1700,1700,1600,3100,0,0,0,0,0,0,0
+1964,0,0,0,0,0,0,0,0,0,0,0,0
+1965,0,0,0,0,0,0,20000,23700,26200,24800,24500,23800
+1966,23600,23200,23100,22400,20100,15800,12300,11000,10800,9900,9400,9000
+1967,8800,8800,8300,8000,5400,4300,7000,10300,3800,600,500,400
+1968,400,500,400,300,200,0,0,0,0,0,0,0
+1969,0,0,0,0,0,0,0,0,0,0,0,1000
+1970,2300,19300,20400,19800,19000,18200,17100,15800,9200,3000,3200,3300
+1971,3200,4000,5900,9300,8700,7900,7000,6400,0,0,0,0
+1972,0,0,0,0,0,0,0,0,0,0,0,0
+1973,0,0,0,0,0,0,0,0,0,0,0,0
+1974,0,0,0,0,0,0,0,0,0,0,0,0
+1975,0,0,1220,0,0,0,0,0,0,0,0,0
+1976,2600,6633,2908,440,0,0,0,0,0,0,0,0
+1977,5181,8448,10731,8163,9,0,0,0,0,0,0,0
+1978,0,0,0,0,0,0,0,0,0,0,0,0
+1979,0,7400,21000,15700,11736,2312,5853,5853,1589,0,0,3107
+1980,6928,16024,19080,21359,19709,21091,20281,14777,1476,0,808,5654
+1981,12646,20112,19938,19164,12234,2741,0,0,0,130,482,833
+1982,4497,12115,16789,11259,5730,200,461,681,745,200,277,1011
+1983,1589,2572,4401,9153,10719,15226,26465,24612,19796,13807,2700,6300
+1984,9500,13800,14000,17700,16600,15000,14000,24400,23700,2700,25400,25400
+1985,26200,27800,27600,27850,28100,21800,15500,14100,400,400,0,900
+1986,10800,27900,25600,25000,10000,8400,6800,14800,8500,7000,4500,14500
+1987,25200,25300,25200,25400,23200,25500,22200,8700,7850,7000,0,3577
+1988,14232,24990,27594,27050,21808,9387,8537,3383,0,0,8000,16000
+1989,12900,12900,12600,14100,14300,13900,14600,9200,4800,3600,6000,11700
+1990,11800,13600,14400,15000,15300,14300,13000,9800,4700,2500,8700,11400
+1991,13700,13600,13800,15100,15200,15100,15400,13500,8900,6000,5800,9900
+1992,11700,12300,13500,14800,15500,14400,14900,12300,8400,6500,6300,6100
+1993,7400,11900,13300,13300,13700,13600,14800,7900,2600,1900,2200,10100
+1994,10700,11500,12400,14700,15000,15200,12800,7300,1600,1600,1500,1400
+1995,5900,10900,13600,14400,15100,14900,15200,15000,9800,5200,15622,15300
+1996,15048,15608,21927,20097,8209,6006,11229,12808,10373,9662,9071,8811
+1997,11385,23583,24950,24042,23326,22237,26038,17186,17871,15642,15622,24628
+1998,28062,27936,27303,26009,25228,25008,21099,16125,15393,11919,11281,11858
+1999,25481,25763,26360,24958,19606,20802,19841,17290,17963,16759,15981,15591
+2000,21984,24341,25619,24773,23977,22649,20853,15436,11554,7083,998,873
+2001,743,613,496,425,280,225,0,0,0,0,0,0
+2002,0,0,0,0,0,0,0,0,0,0,0,0
+2003,0,0,0,0,0,0,0,0,0,0,0,0
+2004,0,0,0,0,0,0,0,0,0,0,0,0
+2005,0,0,0,0,0,0,0,0,0,0,0,0
+2006,0,0,0,0,0,0,0,0,0,0,0,0
+2007,0,0,0,0,0,0,0,0,0,0,0,0
+2008,0,0,0,0,0,0,0,0,400,0,0,0
+2009,0,0,0,0,0,0,0,0,0,0,0,0
+2010,0,0,0,0,0,0,0,0,0,0,0,0
+2011,0,0,0,0,0,0,0,0,0,0,0,0
+2012,0,0,0,0,0,0,0,0,0,0,0,0
+2013,0,0,0,0,0,0,0,0,0,0,0,0
+2014,0,0,0,0,0,0,0,0,0,0,0,0
+2015,0,0,0,0,0,1000,15300,25400,24500,22800,21173,20600
+2016,20382,18900,26500,25644,24621,23700,26308,25000,23300,21921,20645,20400
+2017,20118,,25800,24718,24500,25800,24475,25800,26106,25206,24700,27154
+2018,26850,27000,,27870,27100,24700,22800,10411,7100,1500,4418,486
+2019,13622,18900,21700,26800,,,,,,,,

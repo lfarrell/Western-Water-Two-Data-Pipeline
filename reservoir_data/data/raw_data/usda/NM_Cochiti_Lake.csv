@@ -1,0 +1,102 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/!ut/p/
+# 
+# Support Contact: usdafpacbc@midatl.service-now.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	RESERVOIR 08108040: Cochiti Lake, NM
+# 
+# Data items provided in this file:
+#
+# Element Name              Value Type  Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description               
+# Reservoir Storage Volume  Value       None           Instantaneous - Start of Month  N/A        Acre feet          N/A           RESC          Reservoir storage volume  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Cochiti Lake (08108040) 
+# New Mexico  RESERVOIR Site - 5350 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 15, 2019 3:32:56 PM GMT-08:00
+#
+Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
+1973,,,,,,,,,,,0,3100
+1974,3500,2800,2000,3400,2600,2000,1500,1900,1400,1400,2500,2400
+1975,2100,3400,1700,1800,9700,9500,35800,36200,36200,36000,44400,44200
+1976,54600,47500,45400,45300,45400,45500,45400,46000,45400,45400,45300,45300
+1977,45400,45300,45400,45200,45500,45200,45300,45300,45300,45300,45300,45300
+1978,45300,45300,45300,45200,45200,45500,45400,53200,57200,56900,56400,56500
+1979,54600,54900,55000,54400,46600,105700,171700,44200,44000,44100,44900,44800
+1980,44800,44900,44800,44700,52700,62800,44700,44800,44500,44800,45200,45000
+1981,45300,44700,45000,46600,44800,44800,45000,44300,44700,46200,46200,46200
+1982,46200,46500,46500,40700,41000,43400,42100,44000,42000,41100,41300,41400
+1983,41900,41800,41800,42300,48900,66700,48600,45400,45600,45300,45100,45300
+1984,46300,45300,45100,44900,46200,74400,45300,47200,46800,46700,46500,46500
+1985,46600,50300,46500,66900,80200,203800,281200,180000,178400,178500,181100,211200
+1986,223000,186100,131800,95800,139800,218100,300100,269900,92000,51200,58500,64700
+1987,50600,52000,52800,91000,226400,374700,382000,172600,180700,217100,259700,273400
+1988,252400,224900,172900,123300,84400,55900,48900,48200,58000,50200,52200,50700
+1989,50700,50800,51000,58100,49600,50200,48400,50900,50100,50700,52200,60100
+1990,50900,50900,51100,50500,50500,49800,49100,50100,49900,51200,49400,49300
+1991,50200,50300,51000,50800,61900,111100,51600,49200,49200,49300,49200,49100
+1992,49300,46000,59900,82000,75000,50100,49600,49500,48800,49400,50300,50000
+1993,51400,51200,53200,51800,52400,81800,50800,50600,50500,50600,50900,51100
+1994,51900,52900,54600,53900,53800,111200,53400,53900,54000,53200,54100,54200
+1995,54600,54800,54500,55100,54900,56800,99300,56800,55400,55300,54800,55400
+1996,56900,58100,58400,57600,57400,57600,57900,57400,56600,56600,56400,56600
+1997,57000,57200,58700,58300,58100,57900,57700,57200,56900,56800,57000,57100
+1998,57300,59200,60600,60700,60300,60900,58300,58300,57700,58800,59500,57900
+1999,59800,48300,48200,45100,48100,53800,47400,47800,47800,47700,48200,48900
+2000,50800,51600,51500,51500,50800,49800,50300,49700,48500,48300,48957,51565
+2001,51695,50965,50170,51091,51091,49779,50011,49299,48075,48232,47863,47919
+2002,50157,51002,53725,52729,52225,51320,50293,49876,49418,48933,48852,48945
+2003,48805,50120,50876,50876,51656,50453,49791,49264,49086,48255,48210,47852
+2004,47741,48210,50219,51141,51932,51358,51892,49974,49719,49430,49986,49335
+2005,49562,50083,50329,50293,58470,94531,49743,48747,48357,49767,48500,48400
+2006,48400,50000,50900,50500,50200,49700,48600,48500,48200,48700,49000,48500
+2007,48500,50500,51500,53000,52500,59200,51400,50900,54400,49900,49800,50400
+2008,50100,50200,50600,50800,50700,50200,51200,50900,50600,50000,50000,49900
+2009,51000,50900,51300,50600,49600,49800,53900,53000,52300,52700,53300,53200
+2010,53300,53000,53100,53300,75000,51700,52700,52300,52200,51600,52000,51900
+2011,52900,52800,52500,52800,51600,50800,49900,50100,49500,49700,50500,51200
+2012,50800,51200,50900,51100,51600,49800,49100,51200,53000,53000,52500,52500
+2013,52900,49000,48600,47900,48400,48100,47300,47100,47100,72200,47100,46600
+2014,46600,48700,49100,48700,49900,49200,47500,48600,47700,47200,46900,45900
+2015,45800,48200,48900,48700,48500,47400,48200,48600,48200,47000,47300,46700
+2016,46800,47200,46400,46800,46700,48200,46100,45600,45200,45400,44700,45200
+2017,44400,44700,46000,47700,47300,47100,46000,49200,47700,47500,47800,47100
+2018,46900,48000,48100,47400,47300,46400,46400,45300,45100,44800,44900,44700
+2019,43600,45100,46200,45600,,,,,,,,

@@ -1,0 +1,101 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/!ut/p/
+# 
+# Support Contact: usdafpacbc@midatl.service-now.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	RESERVOIR 14153000: Cottage Grove, OR
+# 
+# Data items provided in this file:
+#
+# Element Name              Value Type  Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description               
+# Reservoir Storage Volume  Value       None           Instantaneous - Start of Month  N/A        Acre feet          N/A           RESC          Reservoir storage volume  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Cottage Grove (14153000) 
+# Oregon  RESERVOIR Site - 791 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 15, 2019 3:32:39 PM GMT-08:00
+#
+Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
+1974,,,,,,,,,,,1600,700
+1975,3100,4100,11600,20000,26900,31800,31300,30300,26400,11100,4400,5300
+1976,3400,3400,11400,19500,26600,29500,30300,28700,28200,15100,5200,2400
+1977,2400,2100,4000,19500,25300,32100,32500,30600,28700,15800,3800,5100
+1978,3400,4000,10000,15300,26800,31900,31200,30600,29200,16500,4400,4000
+1979,3000,3900,11900,20600,27200,32100,31100,28400,27600,15900,3000,3400
+1980,3400,4100,11800,19600,26700,30600,31700,30600,28100,15100,4100,3300
+1981,3500,5700,12800,23500,26700,31900,31600,30400,28000,16300,3500,3100
+1982,3600,4400,11100,18900,24900,26700,25400,23500,21000,14300,3200,5200
+1983,3100,3400,10100,21200,28200,31700,31600,31500,30200,14200,3900,3100
+1984,2800,4800,12000,19400,27400,31600,32000,31100,29400,14800,3300,10700
+1985,3200,3500,10800,19200,26000,26700,28300,26000,23300,12300,3400,3400
+1986,3200,4200,12400,18500,24500,31900,30600,28800,26000,15700,3500,6600
+1987,3300,3900,10500,18000,20000,19700,18400,17400,14700,12000,6100,4600
+1988,3300,5500,7800,17800,28700,32000,31900,30600,28200,17200,3800,3200
+1989,3800,4100,10900,18500,27200,32000,31700,30300,28400,16000,4200,3500
+1990,3300,5100,10500,18400,25900,30600,31900,30300,28300,18600,4700,3900
+1991,3300,4200,10200,19400,26900,32000,31900,30900,28500,16600,3400,3200
+1992,3000,5200,12500,15600,28300,29900,28700,27100,24200,13500,5000,4000
+1993,3600,5600,11800,20200,26900,32000,31500,31500,27900,17700,3400,2100
+1994,3800,5200,11600,19900,26200,29000,29500,27400,24700,17300,3700,3400
+1995,3200,4000,10000,19800,27600,31800,31900,31400,29300,17700,3700,4100
+1996,4600,4300,10700,19400,27100,32000,32100,31100,28500,17800,4400,3900
+1997,11600,6200,10700,18900,27000,29900,30100,28400,26100,17300,4300,3400
+1998,4000,4100,11800,20200,27900,31700,32000,31200,29000,17800,3600,4100
+1999,7400,3300,11700,19600,26600,31800,31200,30000,28400,17700,4100,3400
+2000,3300,3300,11800,20000,27700,31800,31600,30400,28400,18200,3400,2700
+2001,3400,6300,8600,13400,22600,25500,23800,21500,18900,10500,4300,3800
+2002,3300,3300,11700,19600,27700,29100,28100,26000,23200,19300,5000,3900
+2003,6200,8300,13900,19800,28700,31800,30100,26600,22000,12400,4700,3500
+2004,3300,5900,11900,19700,27900,31500,31700,29600,25000,18000,3300,3200
+2005,2300,4600,6700,17500,27800,31700,31800,30200,27000,16300,5300,4100
+2006,20100,6400,12700,20900,27900,31800,31200,29300,26300,18000,4100,3400
+2007,7000,4700,11000,20600,27200,25700,22500,19800,14900,9200,4200,3500
+2008,3700,6400,10100,18700,26400,31800,30800,28400,25800,17300,4000,3300
+2009,10800,3900,11300,18800,25400,30800,29800,27300,24300,17500,3700,3300
+2010,4000,7100,11600,24200,27900,31700,31700,31000,27200,14600,3200,3200
+2011,5200,7000,10900,19400,27000,31400,31500,31400,29600,17500,4700,3300
+2012,9300,3500,12000,20700,27500,31400,31200,31300,29100,16200,3670,5540
+2013,3480,4830,10830,21230,26460,27280,27497,24971,21915,17508,4190,3210
+2014,3490,7290,10880,22400,26340,31730,30141,27906,24960,16980,4030,6083
+2015,4250,3871,9579,16623,24605,23872,20604,15218,10446,7841,4087,3912
+2016,3919,6305,12217,19180,27548,30324,27842,25845,19898,14605,5796,3908
+2017,3333,4112,10918,21303,27632,31670,31004,29118,26061,16941,4698,4147
+2018,3756,6070,10039,27433,27758,27169,25025,22661,16534,9343,3717,2741
+2019,4133,7012,16381,20176,,,,,,,,

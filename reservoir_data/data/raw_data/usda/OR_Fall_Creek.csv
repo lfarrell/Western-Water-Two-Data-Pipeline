@@ -1,0 +1,101 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/!ut/p/
+# 
+# Support Contact: usdafpacbc@midatl.service-now.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	RESERVOIR 14150900: Fall Creek, OR
+# 
+# Data items provided in this file:
+#
+# Element Name              Value Type  Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description               
+# Reservoir Storage Volume  Value       None           Instantaneous - Start of Month  N/A        Acre feet          N/A           RESC          Reservoir storage volume  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Fall Creek (14150900) 
+# Oregon  RESERVOIR Site - 834 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 15, 2019 3:32:43 PM GMT-08:00
+#
+Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
+1974,,,,,,,,,,,9400,2500
+1975,9600,16400,56100,84300,108100,119400,120200,108400,87100,36800,19700,5000
+1976,9600,10800,52600,82600,106600,116900,118800,111300,90300,59000,25700,9500
+1977,3700,2400,7300,56500,84400,119000,120000,119300,113100,71400,19400,26800
+1978,10500,11200,41600,56900,83600,106000,111000,113300,110900,68700,19200,6600
+1979,9100,12400,60600,89100,108700,120000,117700,117600,114700,78500,28600,600
+1980,10500,19600,42500,86500,108500,118000,120000,119000,115400,67100,20000,5000
+1981,10900,15300,60700,86700,111800,118600,120900,119100,112400,76600,29900,4800
+1982,30900,23200,62100,82000,104700,112300,114300,116500,112900,81400,34400,11400
+1983,10300,10300,54200,84900,110300,118400,118900,117900,112500,69600,28400,4700
+1984,12100,17900,60300,86300,107700,117500,117400,117600,112600,62900,26800,13580
+1985,9600,10800,51100,82800,106300,117900,117800,117700,117900,75300,25000,3100
+1986,1600,11300,76300,81700,109500,117900,116900,117800,117200,78000,31400,12100
+1987,1200,14900,47400,84600,96800,104200,105600,111700,112100,76300,31600,1800
+1988,6700,20900,46300,91100,111800,117900,117900,118600,117000,78500,27500,9000
+1989,10300,13700,50900,85000,109100,118200,118000,119000,119400,71700,27000,400
+1990,5100,16500,59500,83800,116600,118300,118500,117900,116700,77600,33000,2800
+1991,1500,13800,53700,85900,111700,118300,119500,118400,116600,36490,1800,10100
+1992,9500,12700,36700,43900,94200,100200,95700,88400,65300,36200,11300,4300
+1993,10100,17100,33100,85500,109300,119000,118700,114100,96500,37100,2900,1300
+1994,7800,16500,46700,77200,104500,113900,118300,109900,94200,35200,1400,8900
+1995,9700,18500,41800,70600,111400,118400,118200,112200,95400,29900,1500,7600
+1996,31200,16200,55500,84400,110800,118200,118300,112900,93200,30900,1400,27900
+1997,66700,18800,50300,83100,109600,119000,119700,114700,94600,30700,4800,2600
+1998,10700,11500,46300,85700,109900,118900,119000,93100,80200,69600,31600,25100
+1999,32200,10600,59000,85700,107000,117700,117200,112800,107900,72100,33200,18300
+2000,9800,10400,58200,87200,112600,118100,117600,115100,114000,77300,32100,9900
+2001,10000,21200,39000,73500,93200,114900,118400,117800,93500,53900,13200,13300
+2002,10200,10900,55200,86400,110800,113800,111700,108200,101600,76100,32200,10300
+2003,12400,32300,57300,93300,112400,118300,110100,99400,72400,36000,17300,15300
+2004,9800,35700,58200,85000,105100,120400,115600,104400,83700,67100,34000,9900
+2005,6300,12400,24100,57100,106900,117700,118000,111700,85600,55500,27300,15600
+2006,46300,48400,59700,88500,108500,116800,117900,114200,92200,73200,32500,10500
+2007,20300,4900,57000,88400,108000,87300,84400,82400,62300,37300,27800,11700
+2008,5400,11400,49200,82000,108900,117300,117200,115300,112400,74900,27900,5000
+2009,35300,5800,26100,88000,104200,116600,116300,111300,103700,75800,33200,4900
+2010,7000,11600,32800,68500,116000,117700,117500,58800,40500,29900,10800,5400
+2011,10200,11000,34400,92000,108900,115800,117500,116700,112600,74900,30900,700
+2012,22600,21700,55300,92300,111300,116100,116600,115700,109600,76000,32670,2120
+2013,9700,19250,40120,72300,107970,115840,113489,103535,92098,81217,21675,1220
+2014,1190,7420,54710,90150,110190,115360,107332,98083,86710,54460,15560,4843
+2015,15031,10996,32009,44832,66344,75765,70882,60595,50398,40698,9957,726
+2016,4574,17402,28558,82074,101866,104122,87502,75737,58216,30975,8901,2385
+2017,2050,1198,5800,97497,107390,115145,113331,103401,90986,72819,4199,4391
+2018,6778,8108,14743,62360,92287,105995,93488,72995,36201,24029,9939,1114
+2019,4193,3651,32884,90348,,,,,,,,
