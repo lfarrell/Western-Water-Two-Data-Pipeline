@@ -49,7 +49,7 @@
 # Idaho  RESERVOIR Site - 4797 ft
 # Reporting Frequency: Monthly; Date Range: Period of Record
 #
-# As of: Apr 15, 2019 3:32:03 PM GMT-08:00
+# As of: May 16, 2019 3:52:27 PM GMT-08:00
 #
 Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
 ,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
@@ -156,4 +156,4 @@ Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
 2016,29600,32720,35800,87960,157300,179600,170400,125500,75700,55480,64410,78000
 2017,83320,87620,98890,186100,181500,184900,188400,177000,134500,107800,123300,138300
 2018,150100,159600,171200,184500,192700,191900,182200,137700,92520,61260,68780,75280
-2019,79880,83320,88637,83977,,,,,,,,
+2019,79880,83320,88637,83977,182522,,,,,,,

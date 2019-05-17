@@ -77,7 +77,8 @@ year,value,anomaly,month,type,state
 2015,-1.57,-2.22,04,drought,WY
 2016,0.43,-0.22,04,drought,WY
 2017,3.09,2.44,04,drought,WY
-2018,-0.40,-1.05,04,drought,WY
+2018,0.00,-0.65,04,drought,WY
+2019,0.37,-0.28,04,drought,WY
 2000,-2.97,-3.64,05,drought,WY
 2001,-6.27,-6.94,05,drought,WY
 2002,-7.51,-8.18,05,drought,WY

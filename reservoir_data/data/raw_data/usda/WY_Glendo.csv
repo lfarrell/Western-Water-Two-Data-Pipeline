@@ -49,7 +49,7 @@
 # Wyoming  RESERVOIR Site - 4635 ft
 # Reporting Frequency: Monthly; Date Range: Period of Record
 #
-# As of: Apr 15, 2019 3:33:55 PM GMT-08:00
+# As of: May 16, 2019 3:53:59 PM GMT-08:00
 #
 Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
 ,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
@@ -115,4 +115,4 @@ Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
 2016,241138,281825,322077,383482,472433,558226,581449,419624,225168,152642,190508,229742
 2017,265611,307428,350356,432491,466321,487121,461186,316942,166828,111946,149382,187485
 2018,223007,264107,297329,357432,402780,439185,432062,325287,167781,158013,195203,232085
-2019,266643,302181,334302,381695,,,,,,,,
+2019,266643,302181,334302,381695,464261,,,,,,,

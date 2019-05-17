@@ -49,7 +49,7 @@
 # Montana  RESERVOIR Site - 4709 ft
 # Reporting Frequency: Monthly; Date Range: Period of Record
 #
-# As of: Apr 15, 2019 3:36:43 PM GMT-08:00
+# As of: May 16, 2019 3:55:34 PM GMT-08:00
 #
 Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
 ,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
@@ -138,4 +138,4 @@ Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
 2016,30427,32894,35942,38423,33065,51369,57282,41298,17933,20529,39212,43289
 2017,44710,45510,48984,54354,46680,49773,62144,50006,20269,8074,8686,20854
 2018,25855,28689,31274,33274,36455,54484,60630,56096,26328,2992,1767,8220
-2019,12680,14497,16047,17654,,,,,,,,
+2019,12680,14497,16047,17654,16845,,,,,,,

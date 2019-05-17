@@ -76,8 +76,9 @@ year,value,anomaly,month,type,state
 2014,2.08,2.30,04,drought,WA
 2015,-1.48,-1.26,04,drought,WA
 2016,-0.93,-0.71,04,drought,WA
-2017,3.67,3.89,04,drought,WA
-2018,1.25,1.47,04,drought,WA
+2017,3.66,3.88,04,drought,WA
+2018,1.22,1.44,04,drought,WA
+2019,-2.64,-2.42,04,drought,WA
 2000,0.46,0.44,05,drought,WA
 2001,0.06,0.04,05,drought,WA
 2002,0.02,0.00,05,drought,WA

@@ -49,7 +49,7 @@
 # Nevada  RESERVOIR Site - 4069 ft
 # Reporting Frequency: Monthly; Date Range: Period of Record
 #
-# As of: Apr 15, 2019 3:33:10 PM GMT-08:00
+# As of: May 16, 2019 3:53:18 PM GMT-08:00
 #
 Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
 ,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
@@ -115,4 +115,4 @@ Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
 2016,10384,10582,10896,29040,39700,47600,57790,51790,36420,22600,12650,13275
 2017,14758,24400,52730,115760,155700,150700,187160,191320,175410,165330,155500,153300
 2018,157300,166685,173000,184350,182400,176575,161265,131200,105300,92300,82700,79350
-2019,80000,82030,85400,100500,,,,,,,,
+2019,80000,82030,85400,100500,119480,,,,,,,

@@ -76,8 +76,9 @@ year,value,anomaly,month,type,state
 2014,1.35,-0.49,04,precip,CO
 2015,1.88,0.04,04,precip,CO
 2016,2.74,0.90,04,precip,CO
-2017,2.16,0.32,04,precip,CO
-2018,1.30,-0.54,04,precip,CO
+2017,2.17,0.33,04,precip,CO
+2018,1.37,-0.47,04,precip,CO
+2019,1.40,-0.44,04,precip,CO
 2000,1.20,-0.82,05,precip,CO
 2001,2.69,0.67,05,precip,CO
 2002,0.57,-1.45,05,precip,CO

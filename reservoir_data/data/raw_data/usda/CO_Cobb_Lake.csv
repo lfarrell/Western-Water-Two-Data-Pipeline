@@ -49,7 +49,7 @@
 # Colorado  RESERVOIR Site - 5150 ft
 # Reporting Frequency: Monthly; Date Range: Period of Record
 #
-# As of: Apr 15, 2019 3:34:08 PM GMT-08:00
+# As of: May 16, 2019 3:54:13 PM GMT-08:00
 #
 Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
 ,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
@@ -122,4 +122,4 @@ Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
 2016,18710,18640,18640,18640,18850,21500,21420,19276,17730,16750,17240,17730
 2017,16960,16960,16960,16890,16820,19650,22190,20025,19725,19500,19350,19200
 2018,19200,19060,19000,18900,18800,20100,20800,17300,15800,15600,15400,15200
-2019,15200,15100,15100,15910,,,,,,,,
+2019,15200,15100,15100,15910,15200,,,,,,,

@@ -76,8 +76,9 @@ year,value,anomaly,month,type,state
 2014,2.52,0.14,04,precip,OR
 2015,1.55,-0.83,04,precip,OR
 2016,1.78,-0.60,04,precip,OR
-2017,3.90,1.52,04,precip,OR
-2018,3.23,0.85,04,precip,OR
+2017,3.89,1.51,04,precip,OR
+2018,3.27,0.89,04,precip,OR
+2019,4.61,2.23,04,precip,OR
 2000,2.10,0.02,05,precip,OR
 2001,1.28,-0.80,05,precip,OR
 2002,1.06,-1.02,05,precip,OR

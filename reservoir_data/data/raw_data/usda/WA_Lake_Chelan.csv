@@ -49,7 +49,7 @@
 # Washington  RESERVOIR Site - 1100 ft
 # Reporting Frequency: Monthly; Date Range: Period of Record
 #
-# As of: Apr 15, 2019 3:32:15 PM GMT-08:00
+# As of: May 16, 2019 3:52:35 PM GMT-08:00
 #
 Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
 ,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
@@ -112,4 +112,4 @@ Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
 2016,448500,361000,309400,283600,549800,618500,670900,667600,648000,598900,556400,527000
 2017,428800,315900,219100,222400,277200,559700,648000,664300,651200,598900,497500,468100
 2018,383600,290100,244900,212700,303000,569500,631600,667600,651200,595600,523700,441900
-2019,325600,237160,206200,187100,,,,,,,,
+2019,325600,237160,206200,187100,309400,,,,,,,

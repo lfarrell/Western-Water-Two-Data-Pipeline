@@ -75,9 +75,10 @@ year,value,anomaly,month,type,state
 2013,-2.83,-2.76,04,drought,CA
 2014,-5.53,-5.46,04,drought,CA
 2015,-5.53,-5.46,04,drought,CA
-2016,-2.09,-2.02,04,drought,CA
-2017,0.47,0.54,04,drought,CA
-2018,-2.93,-2.86,04,drought,CA
+2016,-2.10,-2.03,04,drought,CA
+2017,0.48,0.55,04,drought,CA
+2018,-2.64,-2.57,04,drought,CA
+2019,1.52,1.59,04,drought,CA
 2000,-0.42,-0.43,05,drought,CA
 2001,-2.36,-2.37,05,drought,CA
 2002,-2.58,-2.59,05,drought,CA

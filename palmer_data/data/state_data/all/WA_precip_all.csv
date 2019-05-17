@@ -77,7 +77,8 @@ year,value,anomaly,month,type,state
 2015,1.82,-1.01,04,precip,WA
 2016,1.60,-1.23,04,precip,WA
 2017,4.88,2.05,04,precip,WA
-2018,5.53,2.70,04,precip,WA
+2018,5.48,2.65,04,precip,WA
+2019,3.57,0.74,04,precip,WA
 2000,3.06,0.81,05,precip,WA
 2001,1.92,-0.33,05,precip,WA
 2002,2.00,-0.25,05,precip,WA

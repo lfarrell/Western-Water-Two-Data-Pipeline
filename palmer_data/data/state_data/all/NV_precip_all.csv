@@ -77,7 +77,8 @@ year,value,anomaly,month,type,state
 2015,0.70,-0.21,04,precip,NV
 2016,1.58,0.67,04,precip,NV
 2017,1.12,0.21,04,precip,NV
-2018,0.84,-0.07,04,precip,NV
+2018,0.86,-0.05,04,precip,NV
+2019,1.22,0.31,04,precip,NV
 2000,1.06,0.08,05,precip,NV
 2001,0.16,-0.82,05,precip,NV
 2002,0.40,-0.58,05,precip,NV

@@ -49,7 +49,7 @@
 # Oregon  RESERVOIR Site - 352 ft
 # Reporting Frequency: Monthly; Date Range: Period of Record
 #
-# As of: Apr 15, 2019 3:32:44 PM GMT-08:00
+# As of: May 16, 2019 3:53:00 PM GMT-08:00
 #
 Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
 ,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
@@ -98,4 +98,4 @@ Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
 2016,38254,9226,39549,79463,97883,96000,92781,86882,78830,72834,31180,2822
 2017,3548,9614,38094,83384,96768,96341,95489,89606,81695,76395,24833,3814
 2018,4602,6251,30582,85248,97196,96255,94809,87704,79781,53933,7601,4983
-2019,23527,8698,67685,70166,,,,,,,,
+2019,23527,8698,67685,70166,96170,,,,,,,

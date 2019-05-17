@@ -49,7 +49,7 @@
 # Utah  RESERVOIR Site - 8462 ft
 # Reporting Frequency: Monthly; Date Range: Period of Record
 #
-# As of: Apr 15, 2019 3:33:20 PM GMT-08:00
+# As of: May 16, 2019 3:53:27 PM GMT-08:00
 #
 Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
 ,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
@@ -61,4 +61,4 @@ Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
 2016,1637,1758,1857,1995,2323,3436,4328,2669,1807,1494,1508,1630
 2017,1803,1980,2127,2342,3089,5417,5208,4290,3808,3350,3406,3498
 2018,3587,3689,3781,3897,4300,4926,3157,1497,831,831,830,830
-2019,829,882,1005,60,,,,,,,,
+2019,829,882,1005,60,1449,,,,,,,

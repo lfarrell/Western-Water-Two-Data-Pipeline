@@ -76,8 +76,9 @@ year,value,anomaly,month,type,state
 2014,0.37,-0.38,04,precip,NM
 2015,0.74,-0.01,04,precip,NM
 2016,0.98,0.23,04,precip,NM
-2017,0.98,0.23,04,precip,NM
-2018,0.16,-0.59,04,precip,NM
+2017,0.99,0.24,04,precip,NM
+2018,0.15,-0.60,04,precip,NM
+2019,0.90,0.15,04,precip,NM
 2000,0.12,-0.93,05,precip,NM
 2001,1.02,-0.03,05,precip,NM
 2002,0.14,-0.91,05,precip,NM

@@ -225,8 +225,9 @@ reservoir,storage,capacity,pct_capacity,date,state
 "Santa Maria",21208,45000,47.1,08/2018,CO
 "Santa Maria",21033,45000,46.7,09/2018,CO
 "Santa Maria",20900,45000,46.4,10/2018,CO
-"Santa Maria",24900,45000,55.3,11/2018,CO
-"Santa Maria",24400,45000,54.2,12/2018,CO
-"Santa Maria",24000,45000,53.3,01/2019,CO
-"Santa Maria",23819,45000,52.9,02/2019,CO
-"Santa Maria",23700,45000,52.7,03/2019,CO
+"Santa Maria",24881,45000,55.3,11/2018,CO
+"Santa Maria",24473,45000,54.4,12/2018,CO
+"Santa Maria",24085,45000,53.5,01/2019,CO
+"Santa Maria",23822,45000,52.9,02/2019,CO
+"Santa Maria",23675,45000,52.6,03/2019,CO
+"Santa Maria",23684,45000,52.6,04/2019,CO

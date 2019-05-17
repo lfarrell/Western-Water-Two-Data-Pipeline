@@ -49,7 +49,7 @@
 # New Mexico  RESERVOIR Site - 7346 ft
 # Reporting Frequency: Monthly; Date Range: Period of Record
 #
-# As of: Apr 15, 2019 3:32:53 PM GMT-08:00
+# As of: May 16, 2019 3:53:07 PM GMT-08:00
 #
 Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
 ,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
@@ -84,4 +84,4 @@ Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
 2016,2006,1974,2130,2079,2038,2109,1930,1795,1736,1634,1604,1604
 2017,1604,2815,7754,11280,11440,10580,9294,8250,7506,7251,6937,6704
 2018,6526,6357,6194,6006,5683,5302,4352,3629,3543,3398,3295,3180
-2019,3123,3096,4076,11550,,,,,,,,
+2019,3123,3096,4076,11550,11680,,,,,,,

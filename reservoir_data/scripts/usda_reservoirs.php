@@ -208,7 +208,7 @@ $current_month = date('m', strtotime('this month'));
 $current_year = date('Y', strtotime('this month'));
 
 foreach($reservoirs as $res_name => $res) {
-    $url = "http://www.wcc.nrcs.usda.gov/reportGenerator/view_csv/customCalendarYearGroupByMonthReport/monthly/" . $res['station_id'] . ":" . $res['state'] .":BOR|id=%22%22|name/POR_BEGIN,POR_END/RESC::value";
+    $url = "https://www.wcc.nrcs.usda.gov/reportGenerator/view_csv/customCalendarYearGroupByMonthReport/monthly/" . $res['station_id'] . ":" . $res['state'] .":BOR|id=%22%22|name/POR_BEGIN,POR_END/RESC::value";
     $res_name_format = preg_replace('/(\s+|\'|#)/', '_', $res_name);
     $file_name = '../data/raw_data/usda/' . $res['state'] . '_' . $res_name_format . ".csv";
     get_records($url, $file_name, "wb");

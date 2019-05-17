@@ -76,8 +76,9 @@ year,value,anomaly,month,type,state
 2014,1.06,-0.57,04,precip,CA
 2015,1.06,-0.57,04,precip,CA
 2016,1.52,-0.11,04,precip,CA
-2017,2.73,1.10,04,precip,CA
-2018,1.87,0.24,04,precip,CA
+2017,2.76,1.13,04,precip,CA
+2018,2.13,0.50,04,precip,CA
+2019,1.02,-0.61,04,precip,CA
 2000,0.94,0.06,05,precip,CA
 2001,0.15,-0.73,05,precip,CA
 2002,0.59,-0.29,05,precip,CA

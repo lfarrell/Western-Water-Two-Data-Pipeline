@@ -63,7 +63,7 @@ year,value,anomaly,month,type,state
 2001,-3.48,-3.37,04,drought,OR
 2002,-1.81,-1.70,04,drought,OR
 2003,-1.37,-1.26,04,drought,OR
-2004,-2.86,-2.75,04,drought,OR
+2004,-2.87,-2.76,04,drought,OR
 2005,0.43,0.54,04,drought,OR
 2006,-0.09,0.02,04,drought,OR
 2007,-1.20,-1.09,04,drought,OR
@@ -76,8 +76,9 @@ year,value,anomaly,month,type,state
 2014,-0.89,-0.78,04,drought,OR
 2015,-2.80,-2.69,04,drought,OR
 2016,-1.80,-1.69,04,drought,OR
-2017,3.95,4.06,04,drought,OR
-2018,-1.51,-1.40,04,drought,OR
+2017,3.97,4.08,04,drought,OR
+2018,-1.42,-1.31,04,drought,OR
+2019,-1.34,-1.23,04,drought,OR
 2000,-1.18,-1.12,05,drought,OR
 2001,-3.71,-3.65,05,drought,OR
 2002,-2.08,-2.02,05,drought,OR

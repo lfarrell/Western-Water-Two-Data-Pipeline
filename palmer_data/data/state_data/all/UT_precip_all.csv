@@ -76,8 +76,9 @@ year,value,anomaly,month,type,state
 2014,0.94,-0.28,04,precip,UT
 2015,0.98,-0.24,04,precip,UT
 2016,1.70,0.48,04,precip,UT
-2017,1.16,-0.06,04,precip,UT
-2018,0.84,-0.38,04,precip,UT
+2017,1.17,-0.05,04,precip,UT
+2018,0.86,-0.36,04,precip,UT
+2019,1.69,0.47,04,precip,UT
 2000,0.93,-0.22,05,precip,UT
 2001,0.65,-0.50,05,precip,UT
 2002,0.38,-0.77,05,precip,UT

@@ -76,8 +76,9 @@ year,value,anomaly,month,type,state
 2014,41.6,0.6,04,temp,ID
 2015,42.3,1.3,04,temp,ID
 2016,47.0,6.0,04,temp,ID
-2017,40.4,-0.6,04,temp,ID
+2017,40.3,-0.7,04,temp,ID
 2018,42.4,1.4,04,temp,ID
+2019,42.9,1.9,04,temp,ID
 2000,50.3,1.0,05,temp,ID
 2001,52.6,3.3,05,temp,ID
 2002,48.7,-0.6,05,temp,ID
