@@ -24,9 +24,9 @@ foreach($state_list as $state => $code) {
         if($month < 10 && substr($month, 0, 1) != "0") { $month = "0" . $month; }
 
         $links = [
-            'temp' =>  "https://www.ncdc.noaa.gov/cag/time-series/us/$code/00/tavg/1/$month/1895-2019.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000",
-            'precip' => "https://www.ncdc.noaa.gov/cag/time-series/us/$code/00/pcp/1/$month/1895-2019.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000",
-            'drought' => "https://www.ncdc.noaa.gov/cag/time-series/us/$code/00/pdsi/1/$month/1895-2019.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000",
+            'temp' =>  "https://www.ncdc.noaa.gov/cag/time-series/us/$code/00/tavg/1/$month/1895-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000",
+            'precip' => "https://www.ncdc.noaa.gov/cag/time-series/us/$code/00/pcp/1/$month/1895-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000",
+            'drought' => "https://www.ncdc.noaa.gov/cag/time-series/us/$code/00/pdsi/1/$month/1895-2021.csv?base_prd=true&begbaseyear=1901&endbaseyear=2000",
         ];
 
         foreach($links as $type => $link) {

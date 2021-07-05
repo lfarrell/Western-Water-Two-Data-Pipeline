@@ -5,9 +5,9 @@
 # Data are released on condition that neither the NRCS nor the United States Government 
 # may be held liable for any damages resulting from its use. 
 # 
-# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/!ut/p/
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
 # 
-# Support Contact: usdafpacbc@midatl.service-now.com
+# Support Contact: usdafpacbc@servicenowservices.com
 # 
 #------------------------------------------------------------------------------------------------------
 # 
@@ -49,7 +49,7 @@
 # Nevada  RESERVOIR Site - 4069 ft
 # Reporting Frequency: Monthly; Date Range: Period of Record
 #
-# As of: May 16, 2019 3:53:18 PM GMT-08:00
+# As of: Jun 14, 2021 2:56:27 PM GMT-08:00
 #
 Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
 ,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
@@ -115,4 +115,6 @@ Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
 2016,10384,10582,10896,29040,39700,47600,57790,51790,36420,22600,12650,13275
 2017,14758,24400,52730,115760,155700,150700,187160,191320,175410,165330,155500,153300
 2018,157300,166685,173000,184350,182400,176575,161265,131200,105300,92300,82700,79350
-2019,80000,82030,85400,100500,119480,,,,,,,
+2019,80000,82030,85400,100000,119480,139800,174245,187160,168040,161265,154600,161265
+2020,175410,179488,183590,183590,165330,153300,140900,113040,87670,76000,64390,62150
+2021,62150,63250,64980,65750,62150,47150,,,,,,

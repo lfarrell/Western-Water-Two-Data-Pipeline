@@ -5,9 +5,9 @@
 # Data are released on condition that neither the NRCS nor the United States Government 
 # may be held liable for any damages resulting from its use. 
 # 
-# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/!ut/p/
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
 # 
-# Support Contact: usdafpacbc@midatl.service-now.com
+# Support Contact: usdafpacbc@servicenowservices.com
 # 
 #------------------------------------------------------------------------------------------------------
 # 
@@ -49,7 +49,7 @@
 # Wyoming  RESERVOIR Site - 5805 ft
 # Reporting Frequency: Monthly; Date Range: Period of Record
 #
-# As of: May 16, 2019 3:53:45 PM GMT-08:00
+# As of: Jun 14, 2021 2:57:24 PM GMT-08:00
 #
 Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
 ,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
@@ -134,4 +134,6 @@ Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
 2016,70504,70599,70385,70624,76377,109320,149189,117410,60550,37566,28960,36646
 2017,39844,42548,46028,51659,60141,84912,127305,148248,141142,119806,103525,103498
 2018,103854,103580,103608,103745,101661,99543,138718,148341,127543,80943,83350,83247
-2019,82285,81272,80714,80314,84067,,,,,,,
+2019,82285,81272,80714,80314,84067,99516,110414,149408,123213,85346,91480,92588
+2020,92720,92298,91874,91401,93247,114946,146875,145159,102238,73970,75537,77219
+2021,77813,78012,78111,78785,80364,105814,,,,,,

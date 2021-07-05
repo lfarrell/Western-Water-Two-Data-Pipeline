@@ -413,3 +413,1592 @@ USGS	09469000	2019-04-27	148800	P	149000	P
 USGS	09469000	2019-04-28	149200	P	149300	P
 USGS	09469000	2019-04-29	149500	P	149500	P
 USGS	09469000	2019-04-30	149800	P	150000	P
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2019-06-03 19:16:08 EDT       (sdww02)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09469000 SAN CARLOS RESERVOIR AT COOLIDGE DAM, AZ
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09469000
+#            TS   parameter     statistic     Description
+#          5495       00054     00003     Reservoir storage, acre feet (Mean)
+#          5496       00054     32400     Reservoir storage, acre feet (Observation at midnight)
+#
+# Data-value qualification codes included in this output:
+#     P  Provisional data subject to revision.
+# 
+agency_cd	site_no	datetime	5495_00054_00003	5495_00054_00003_cd	5496_00054_32400	5496_00054_32400_cd
+5s	15s	20d	14n	10s	14n	10s
+USGS	09469000	2019-05-01	150100	P	150200	P
+USGS	09469000	2019-05-02	150400	P	150600	P
+USGS	09469000	2019-05-03	150700	P	150800	P
+USGS	09469000	2019-05-04	150900	P	150900	P
+USGS	09469000	2019-05-05	150600	P	150300	P
+USGS	09469000	2019-05-06	150100	P	149800	P
+USGS	09469000	2019-05-07	149400	P	149100	P
+USGS	09469000	2019-05-08	148800	P	148500	P
+USGS	09469000	2019-05-09	148100	P	147700	P
+USGS	09469000	2019-05-10	147200	P	146800	P
+USGS	09469000	2019-05-11	146400	P	145900	P
+USGS	09469000	2019-05-12	145600	P	145100	P
+USGS	09469000	2019-05-13	145000	P	145000	P
+USGS	09469000	2019-05-14	144800	P	144400	P
+USGS	09469000	2019-05-15	144100	P	143500	P
+USGS	09469000	2019-05-16	143200	P	142800	P
+USGS	09469000	2019-05-17	142300	P	141800	P
+USGS	09469000	2019-05-18	141400	P	140900	P
+USGS	09469000	2019-05-19	140500	P	140100	P
+USGS	09469000	2019-05-20	139600	P	139100	P
+USGS	09469000	2019-05-21	138600	P	138200	P
+USGS	09469000	2019-05-22	137700	P	137300	P
+USGS	09469000	2019-05-23	136800	P	136400	P
+USGS	09469000	2019-05-24	136000	P	135600	P
+USGS	09469000	2019-05-25	135100	P	134500	P
+USGS	09469000	2019-05-26	134100	P	133700	P
+USGS	09469000	2019-05-27	133200	P	132700	P
+USGS	09469000	2019-05-28	132200	P	131800	P
+USGS	09469000	2019-05-29	131400	P	131000	P
+USGS	09469000	2019-05-30	130600	P	130200	P
+USGS	09469000	2019-05-31	129800	P	129500	P
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2019-07-01 19:45:02 EDT       (caww02)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09469000 SAN CARLOS RESERVOIR AT COOLIDGE DAM, AZ
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09469000
+#            TS   parameter     statistic     Description
+#          5495       00054     00003     Reservoir storage, acre feet (Mean)
+#          5496       00054     32400     Reservoir storage, acre feet (Observation at midnight)
+#
+# Data-value qualification codes included in this output:
+#     P  Provisional data subject to revision.
+# 
+agency_cd	site_no	datetime	5495_00054_00003	5495_00054_00003_cd	5496_00054_32400	5496_00054_32400_cd
+5s	15s	20d	14n	10s	14n	10s
+USGS	09469000	2019-06-01	129000	P	128600	P
+USGS	09469000	2019-06-02	128200	P	127800	P
+USGS	09469000	2019-06-03	127500	P	127100	P
+USGS	09469000	2019-06-04	126800	P	126300	P
+USGS	09469000	2019-06-05	126000	P	125600	P
+USGS	09469000	2019-06-06	125200	P	124700	P
+USGS	09469000	2019-06-07	124400	P	124000	P
+USGS	09469000	2019-06-08	123500	P	123100	P
+USGS	09469000	2019-06-09	122700	P	122300	P
+USGS	09469000	2019-06-10	121800	P	121100	P
+USGS	09469000	2019-06-11	120700	P	120100	P
+USGS	09469000	2019-06-12	119600	P	119100	P
+USGS	09469000	2019-06-13	118400	P	117800	P
+USGS	09469000	2019-06-14	117300	P	116600	P
+USGS	09469000	2019-06-15	116100	P	115500	P
+USGS	09469000	2019-06-16	114800	P	114200	P
+USGS	09469000	2019-06-17	113700	P	113000	P
+USGS	09469000	2019-06-18	112400	P	111900	P
+USGS	09469000	2019-06-19	111200	P	110600	P
+USGS	09469000	2019-06-20	110000	P	109400	P
+USGS	09469000	2019-06-21	108800	P	108200	P
+USGS	09469000	2019-06-22	107500	P	106900	P
+USGS	09469000	2019-06-23	106300	P	105700	P
+USGS	09469000	2019-06-24	105100	P	104500	P
+USGS	09469000	2019-06-25	103900	P	103300	P
+USGS	09469000	2019-06-26	102700	P	102100	P
+USGS	09469000	2019-06-27	101500	P	100900	P
+USGS	09469000	2019-06-28	100400	P	99840	P
+USGS	09469000	2019-06-29	99190	P	98530	P
+USGS	09469000	2019-06-30	97920	P	97280	P
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2019-08-01 14:55:17 EDT       (sdww02)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09469000 SAN CARLOS RESERVOIR AT COOLIDGE DAM, AZ
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09469000
+#            TS   parameter     statistic     Description
+#          5495       00054     00003     Reservoir storage, acre feet (Mean)
+#          5496       00054     32400     Reservoir storage, acre feet (Observation at midnight)
+#
+# Data-value qualification codes included in this output:
+#        
+#     P  Provisional data subject to revision.
+# 
+agency_cd	site_no	datetime	5495_00054_00003	5495_00054_00003_cd	5496_00054_32400	5496_00054_32400_cd
+5s	15s	20d	14n	10s	14n	10s
+USGS	09469000	2019-07-01	96630	P	95980	P
+USGS	09469000	2019-07-02	95310	P	94650	P
+USGS	09469000	2019-07-03	94010	P	93330	P
+USGS	09469000	2019-07-04	92700	P	92010	P
+USGS	09469000	2019-07-05	91390	P	90710	P
+USGS	09469000	2019-07-06	90120	P	89460	P
+USGS	09469000	2019-07-07	88910	P	88320	P
+USGS	09469000	2019-07-08	87780	P	87130	P
+USGS	09469000	2019-07-09	86500	P	85910	P
+USGS	09469000	2019-07-10	85270	P	84650	P
+USGS	09469000	2019-07-11	84050	P	83450	P
+USGS	09469000	2019-07-12	82790	P	82210	P
+USGS	09469000	2019-07-13	81590	P	80990	P
+USGS	09469000	2019-07-14	80400	P	79810	P
+USGS	09469000	2019-07-15	79180	P	78600	P
+USGS	09469000	2019-07-16	77970	P	77360	P
+USGS	09469000	2019-07-17	76740	P	76130	P
+USGS	09469000	2019-07-18	75510	P	74950	P
+USGS	09469000	2019-07-19	74270	P	73700	P
+USGS	09469000	2019-07-20	73030	P	72420	P
+USGS	09469000	2019-07-21	71780	P	71230	P
+USGS	09469000	2019-07-22	70530	P	70300	P
+USGS	09469000	2019-07-23	69290	P	68650	P
+USGS	09469000	2019-07-24	68070	P	67420	P
+USGS	09469000	2019-07-25	66830	P	66240	P
+USGS	09469000	2019-07-26	65610	P	64950	P
+USGS	09469000	2019-07-27			63790	P
+USGS	09469000	2019-07-28	63190	P	62620	P
+USGS	09469000	2019-07-29			61300	P
+USGS	09469000	2019-07-30			60270	P
+USGS	09469000	2019-07-31	59880	P	59450	P
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2019-09-04 19:30:28 EDT       (vaww02)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09469000 SAN CARLOS RESERVOIR AT COOLIDGE DAM, AZ
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09469000
+#            TS   parameter     statistic     Description
+#          5495       00054     00003     Reservoir storage, acre feet (Mean)
+#          5496       00054     32400     Reservoir storage, acre feet (Observation at midnight)
+#
+# Data-value qualification codes included in this output:
+#     P  Provisional data subject to revision.
+# 
+agency_cd	site_no	datetime	5495_00054_00003	5495_00054_00003_cd	5496_00054_32400	5496_00054_32400_cd
+5s	15s	20d	14n	10s	14n	10s
+USGS	09469000	2019-08-01	58820	P	58310	P
+USGS	09469000	2019-08-02	57830	P	57330	P
+USGS	09469000	2019-08-03	56800	P	56240	P
+USGS	09469000	2019-08-04	55800	P	55310	P
+USGS	09469000	2019-08-05	54780	P	54110	P
+USGS	09469000	2019-08-06	53770	P	53260	P
+USGS	09469000	2019-08-07	52770	P	52260	P
+USGS	09469000	2019-08-08	51770	P	51260	P
+USGS	09469000	2019-08-09	50720	P	50200	P
+USGS	09469000	2019-08-10	49690	P	49320	P
+USGS	09469000	2019-08-11	48770	P	48260	P
+USGS	09469000	2019-08-12	47730	P	47170	P
+USGS	09469000	2019-08-13	46670	P	46120	P
+USGS	09469000	2019-08-14	45620	P	45120	P
+USGS	09469000	2019-08-15	44560	P	44040	P
+USGS	09469000	2019-08-16	43520	P	43000	P
+USGS	09469000	2019-08-17	42450	P	41950	P
+USGS	09469000	2019-08-18	41400	P	40850	P
+USGS	09469000	2019-08-19	40310	P	39760	P
+USGS	09469000	2019-08-20	39230	P	38720	P
+USGS	09469000	2019-08-21	38150	P	37600	P
+USGS	09469000	2019-08-22	37070	P	36470	P
+USGS	09469000	2019-08-23	35980	P	35420	P
+USGS	09469000	2019-08-24	34890	P	34390	P
+USGS	09469000	2019-08-25	33840	P	33340	P
+USGS	09469000	2019-08-26	32860	P	32360	P
+USGS	09469000	2019-08-27	31890	P	31430	P
+USGS	09469000	2019-08-28	30960	P	30640	P
+USGS	09469000	2019-08-29	30170	P	29750	P
+USGS	09469000	2019-08-30	29300	P	28810	P
+USGS	09469000	2019-08-31	28380	P	27910	P
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2019-10-04 19:00:46 EDT       (sdww02)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09469000 SAN CARLOS RESERVOIR AT COOLIDGE DAM, AZ
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09469000
+#            TS   parameter     statistic     Description
+#          5495       00054     00003     Reservoir storage, acre feet (Mean)
+#          5496       00054     32400     Reservoir storage, acre feet (Observation at midnight)
+#
+# Data-value qualification codes included in this output:
+#     P  Provisional data subject to revision.
+# 
+agency_cd	site_no	datetime	5495_00054_00003	5495_00054_00003_cd	5496_00054_32400	5496_00054_32400_cd
+5s	15s	20d	14n	10s	14n	10s
+USGS	09469000	2019-09-01	27180	P	26720	P
+USGS	09469000	2019-09-02	26290	P	25840	P
+USGS	09469000	2019-09-03	25420	P	24910	P
+USGS	09469000	2019-09-04	24600	P	24110	P
+USGS	09469000	2019-09-05	23730	P	23310	P
+USGS	09469000	2019-09-06	22910	P	22500	P
+USGS	09469000	2019-09-07	22090	P	21620	P
+USGS	09469000	2019-09-08	21310	P	20890	P
+USGS	09469000	2019-09-09	20520	P	20150	P
+USGS	09469000	2019-09-10	19810	P	19400	P
+USGS	09469000	2019-09-11	19100	P	18760	P
+USGS	09469000	2019-09-12	18410	P	18080	P
+USGS	09469000	2019-09-13	17720	P	17430	P
+USGS	09469000	2019-09-14	17060	P	16720	P
+USGS	09469000	2019-09-15	16410	P	16110	P
+USGS	09469000	2019-09-16	15770	P	15390	P
+USGS	09469000	2019-09-17	15140	P	14810	P
+USGS	09469000	2019-09-18	14670	P	14520	P
+USGS	09469000	2019-09-19	14310	P	14060	P
+USGS	09469000	2019-09-20	13810	P	13550	P
+USGS	09469000	2019-09-21	13300	P	13040	P
+USGS	09469000	2019-09-22	12790	P	12510	P
+USGS	09469000	2019-09-23	12340	P	12230	P
+USGS	09469000	2019-09-24	12170	P	12080	P
+USGS	09469000	2019-09-25	12010	P	11890	P
+USGS	09469000	2019-09-26	11840	P	11750	P
+USGS	09469000	2019-09-27	11670	P	11580	P
+USGS	09469000	2019-09-28	11500	P	11410	P
+USGS	09469000	2019-09-29	11320	P	11250	P
+USGS	09469000	2019-09-30	11130	P	11010	P
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2019-11-03 08:13:35 EST       (vaww02)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09469000 SAN CARLOS RESERVOIR AT COOLIDGE DAM, AZ
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09469000
+#            TS   parameter     statistic     Description
+#          5495       00054     00003     Reservoir storage, acre feet (Mean)
+#          5496       00054     32400     Reservoir storage, acre feet (Observation at midnight)
+#
+# Data-value qualification codes included in this output:
+#        
+#     P  Provisional data subject to revision.
+# 
+agency_cd	site_no	datetime	5495_00054_00003	5495_00054_00003_cd	5496_00054_32400	5496_00054_32400_cd
+5s	15s	20d	14n	10s	14n	10s
+USGS	09469000	2019-10-01	10940	P	10840	P
+USGS	09469000	2019-10-02	10740	P	10640	P
+USGS	09469000	2019-10-03	10550	P	10440	P
+USGS	09469000	2019-10-04	10360	P	10240	P
+USGS	09469000	2019-10-05	10170	P	10090	P
+USGS	09469000	2019-10-06	9984	P	9890	P
+USGS	09469000	2019-10-07	9796	P	9690	P
+USGS	09469000	2019-10-08	9605	P	9506	P
+USGS	09469000	2019-10-09	9419	P	9338	P
+USGS	09469000	2019-10-10	9216	P	9116	P
+USGS	09469000	2019-10-11	9022	P	8911	P
+USGS	09469000	2019-10-12	8829	P	8748	P
+USGS	09469000	2019-10-13	8656	P	8547	P
+USGS	09469000	2019-10-14	8464	P	8348	P
+USGS	09469000	2019-10-15	8242	P	8139	P
+USGS	09469000	2019-10-16	8017	P	7907	P
+USGS	09469000	2019-10-17	7777	P	7678	P
+USGS	09469000	2019-10-18	7545	P	7429	P
+USGS	09469000	2019-10-19	7326	P	7232	P
+USGS	09469000	2019-10-20	7095	P	6966	P
+USGS	09469000	2019-10-21	6870	P	6760	P
+USGS	09469000	2019-10-22	6647	P	6531	P
+USGS	09469000	2019-10-23	6422	P	6307	P
+USGS	09469000	2019-10-24	6202	P	6052	P
+USGS	09469000	2019-10-25	6029	P	6006	P
+USGS	09469000	2019-10-26	5997	P	6006	P
+USGS	09469000	2019-10-27	5996	P	5961	P
+USGS	09469000	2019-10-28	5957	P	5972	P
+USGS	09469000	2019-10-29			5984	P
+USGS	09469000	2019-10-30	5970	P	5961	P
+USGS	09469000	2019-10-31	5958	P	5972	P
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2019-12-02 19:48:47 EST       (caww02)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09469000 SAN CARLOS RESERVOIR AT COOLIDGE DAM, AZ
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09469000
+#            TS   parameter     statistic     Description
+#        257235       00054     30800     Reservoir storage, acre feet (Observation at 08:00 AM), [Instant value at 8:00am daily]
+#          5495       00054     00003     Reservoir storage, acre feet (Mean)
+#          5496       00054     32400     Reservoir storage, acre feet (Observation at midnight)
+#
+# Data-value qualification codes included in this output:
+#     P  Provisional data subject to revision.
+# 
+agency_cd	site_no	datetime	5495_00054_00003	5495_00054_00003_cd	5496_00054_32400	5496_00054_32400_cd
+5s	15s	20d	14n	10s	14n	10s
+USGS	09469000	2019-11-01	5961	P	5961	P
+USGS	09469000	2019-11-02	5965	P	5972	P
+USGS	09469000	2019-11-03	5964	P	5961	P
+USGS	09469000	2019-11-04	5961	P	5961	P
+USGS	09469000	2019-11-05	5967	P	5961	P
+USGS	09469000	2019-11-06	5977	P	5972	P
+USGS	09469000	2019-11-07	5977	P	5972	P
+USGS	09469000	2019-11-08	5987	P	5984	P
+USGS	09469000	2019-11-09	5980	P	5984	P
+USGS	09469000	2019-11-10	5985	P	5984	P
+USGS	09469000	2019-11-11	5989	P	5984	P
+USGS	09469000	2019-11-12	6009	P	5984	P
+USGS	09469000	2019-11-13	5983	P	5984	P
+USGS	09469000	2019-11-14	5978	P	5972	P
+USGS	09469000	2019-11-15	5980	P	5984	P
+USGS	09469000	2019-11-16	5979	P	5972	P
+USGS	09469000	2019-11-17	5979	P	5972	P
+USGS	09469000	2019-11-18	5979	P	5984	P
+USGS	09469000	2019-11-19	5988	P	6029	P
+USGS	09469000	2019-11-20	6039	P	6179	P
+USGS	09469000	2019-11-21	6259	P	6295	P
+USGS	09469000	2019-11-22	6330	P	6342	P
+USGS	09469000	2019-11-23	6501	P	6784	P
+USGS	09469000	2019-11-24	7071	P	7268	P
+USGS	09469000	2019-11-25	7460	P	7628	P
+USGS	09469000	2019-11-26	7700	P	7805	P
+USGS	09469000	2019-11-27	7916	P	8074	P
+USGS	09469000	2019-11-28	8141	P	8243	P
+USGS	09469000	2019-11-29	8516	P	8802	P
+USGS	09469000	2019-11-30	9316	P	9847	P
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2020-01-02 20:37:16 EST       (vaww02)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09469000 SAN CARLOS RESERVOIR AT COOLIDGE DAM, AZ
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09469000
+#            TS   parameter     statistic     Description
+#        257235       00054     30800     Reservoir storage, acre feet (Observation at 08:00 AM), [Instant value at 8:00am daily]
+#          5495       00054     00003     Reservoir storage, acre feet (Mean)
+#          5496       00054     32400     Reservoir storage, acre feet (Observation at midnight)
+#
+# Data-value qualification codes included in this output:
+#     P  Provisional data subject to revision.
+# 
+agency_cd	site_no	datetime	5495_00054_00003	5495_00054_00003_cd	5496_00054_32400	5496_00054_32400_cd
+5s	15s	20d	14n	10s	14n	10s
+USGS	09469000	2019-12-01	10380	P	10950	P
+USGS	09469000	2019-12-02	11660	P	12430	P
+USGS	09469000	2019-12-03	13480	P	14570	P
+USGS	09469000	2019-12-04	15520	P	16270	P
+USGS	09469000	2019-12-05	16800	P	17190	P
+USGS	09469000	2019-12-06	17570	P	17910	P
+USGS	09469000	2019-12-07	18210	P	18500	P
+USGS	09469000	2019-12-08	18780	P	19020	P
+USGS	09469000	2019-12-09	19440	P	19780	P
+USGS	09469000	2019-12-10	20160	P	20760	P
+USGS	09469000	2019-12-11	21850	P	22940	P
+USGS	09469000	2019-12-12	24240	P	25690	P
+USGS	09469000	2019-12-13	27230	P	28680	P
+USGS	09469000	2019-12-14	29820	P	30820	P
+USGS	09469000	2019-12-15	31560	P	32230	P
+USGS	09469000	2019-12-16	32820	P	33390	P
+USGS	09469000	2019-12-17	33820	P	34250	P
+USGS	09469000	2019-12-18	34680	P	35110	P
+USGS	09469000	2019-12-19	35450	P	35790	P
+USGS	09469000	2019-12-20	36120	P	36450	P
+USGS	09469000	2019-12-21	36710	P	37110	P
+USGS	09469000	2019-12-22	37440	P	37690	P
+USGS	09469000	2019-12-23	37940	P	38190	P
+USGS	09469000	2019-12-24	38520	P	38890	P
+USGS	09469000	2019-12-25	39120	P	39280	P
+USGS	09469000	2019-12-26	39630	P	39880	P
+USGS	09469000	2019-12-27	40120	P	40330	P
+USGS	09469000	2019-12-28	40610	P	40820	P
+USGS	09469000	2019-12-29	41030	P	41330	P
+USGS	09469000	2019-12-30	41730	P	42040	P
+USGS	09469000	2019-12-31	42380	P	42690	P
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2020-02-03 19:47:48 EST       (vaww01)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09469000 SAN CARLOS RESERVOIR AT COOLIDGE DAM, AZ
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09469000
+#            TS   parameter     statistic     Description
+#        257235       00054     30800     Reservoir storage, acre feet (Observation at 08:00 AM), [Instant value at 8:00am daily]
+#          5495       00054     00003     Reservoir storage, acre feet (Mean)
+#          5496       00054     32400     Reservoir storage, acre feet (Observation at midnight)
+#
+# Data-value qualification codes included in this output:
+#     P  Provisional data subject to revision.
+# 
+agency_cd	site_no	datetime	5495_00054_00003	5495_00054_00003_cd	5496_00054_32400	5496_00054_32400_cd
+5s	15s	20d	14n	10s	14n	10s
+USGS	09469000	2020-01-01	43080	P	43440	P
+USGS	09469000	2020-01-02	43660	P	43880	P
+USGS	09469000	2020-01-03	44240	P	44580	P
+USGS	09469000	2020-01-04	44840	P	45090	P
+USGS	09469000	2020-01-05	45400	P	45700	P
+USGS	09469000	2020-01-06	46010	P	46290	P
+USGS	09469000	2020-01-07	46460	P	46640	P
+USGS	09469000	2020-01-08	47000	P	47300	P
+USGS	09469000	2020-01-09	47580	P	47830	P
+USGS	09469000	2020-01-10	48120	P	48290	P
+USGS	09469000	2020-01-11	48590	P	48890	P
+USGS	09469000	2020-01-12	49070	P	49290	P
+USGS	09469000	2020-01-13	49520	P	49690	P
+USGS	09469000	2020-01-14	50000	P	50230	P
+USGS	09469000	2020-01-15	50480	P	50740	P
+USGS	09469000	2020-01-16	51010	P	51390	P
+USGS	09469000	2020-01-17	51590	P	51810	P
+USGS	09469000	2020-01-18	52470	P	53120	P
+USGS	09469000	2020-01-19	54130	P	55130	P
+USGS	09469000	2020-01-20	56300	P	57470	P
+USGS	09469000	2020-01-21	58700	P	59940	P
+USGS	09469000	2020-01-22	60870	P	61700	P
+USGS	09469000	2020-01-23	62640	P	63520	P
+USGS	09469000	2020-01-24	64690	P	65770	P
+USGS	09469000	2020-01-25	66940	P	67970	P
+USGS	09469000	2020-01-26	69000	P	69970	P
+USGS	09469000	2020-01-27	70860	P	71760	P
+USGS	09469000	2020-01-28	72470	P	73160	P
+USGS	09469000	2020-01-29	73880	P	74530	P
+USGS	09469000	2020-01-30	75220	P	75920	P
+USGS	09469000	2020-01-31	76490	P	77020	P
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2020-03-02 19:21:31 EST       (sdww01)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09469000 SAN CARLOS RESERVOIR AT COOLIDGE DAM, AZ
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09469000
+#            TS   parameter     statistic     Description
+#        257235       00054     30800     Reservoir storage, acre-feet (Observation at 08:00 AM), [Instant value at 8:00am daily]
+#          5495       00054     00003     Reservoir storage, acre-feet (Mean)
+#          5496       00054     32400     Reservoir storage, acre-feet (Observation at midnight)
+#
+# Data-value qualification codes included in this output:
+#     P  Provisional data subject to revision.
+# 
+agency_cd	site_no	datetime	5495_00054_00003	5495_00054_00003_cd	5496_00054_32400	5496_00054_32400_cd
+5s	15s	20d	14n	10s	14n	10s
+USGS	09469000	2020-02-01	77140	P	77610	P
+USGS	09469000	2020-02-02	78200	P	78720	P
+USGS	09469000	2020-02-03	79250	P	79620	P
+USGS	09469000	2020-02-04	79980	P	80300	P
+USGS	09469000	2020-02-05	80630	P	80860	P
+USGS	09469000	2020-02-06	81250	P	81640	P
+USGS	09469000	2020-02-07	81860	P	82160	P
+USGS	09469000	2020-02-08	82460	P	82680	P
+USGS	09469000	2020-02-09	83090	P	83390	P
+USGS	09469000	2020-02-10	83680	P	84090	P
+USGS	09469000	2020-02-11	84370	P	84620	P
+USGS	09469000	2020-02-12	84910	P	85190	P
+USGS	09469000	2020-02-13	85590	P	86080	P
+USGS	09469000	2020-02-14	86600	P	87030	P
+USGS	09469000	2020-02-15	87680	P	88250	P
+USGS	09469000	2020-02-16	88980	P	89660	P
+USGS	09469000	2020-02-17	90230	P	90720	P
+USGS	09469000	2020-02-18	91400	P	92060	P
+USGS	09469000	2020-02-19	92640	P	93170	P
+USGS	09469000	2020-02-20	93790	P	94390	P
+USGS	09469000	2020-02-21	94990	P	95380	P
+USGS	09469000	2020-02-22	96300	P	97140	P
+USGS	09469000	2020-02-23	97880	P	98680	P
+USGS	09469000	2020-02-24	99800	P	100900	P
+USGS	09469000	2020-02-25	102300	P	103500	P
+USGS	09469000	2020-02-26	105400	P	107000	P
+USGS	09469000	2020-02-27	108900	P	110700	P
+USGS	09469000	2020-02-28	113100	P	115300	P
+USGS	09469000	2020-02-29	117200	P	118900	P
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2020-04-01 19:12:48 EDT       (caww02)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09469000 SAN CARLOS RESERVOIR AT COOLIDGE DAM, AZ
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09469000
+#            TS   parameter     statistic     Description
+#        257235       00054     30800     Reservoir storage, acre-feet (Observation at 08:00 AM), [Instant value at 8:00am daily]
+#          5495       00054     00003     Reservoir storage, acre-feet (Mean)
+#          5496       00054     32400     Reservoir storage, acre-feet (Observation at midnight)
+#
+# Data-value qualification codes included in this output:
+#     P  Provisional data subject to revision.
+# 
+agency_cd	site_no	datetime	5495_00054_00003	5495_00054_00003_cd	5496_00054_32400	5496_00054_32400_cd
+5s	15s	20d	14n	10s	14n	10s
+USGS	09469000	2020-03-01	120300	P	121600	P
+USGS	09469000	2020-03-02	122700	P	123600	P
+USGS	09469000	2020-03-03	124700	P	125600	P
+USGS	09469000	2020-03-04	126300	P	126800	P
+USGS	09469000	2020-03-05	127500	P	128000	P
+USGS	09469000	2020-03-06	128600	P	129000	P
+USGS	09469000	2020-03-07	129400	P	129800	P
+USGS	09469000	2020-03-08	130200	P	130400	P
+USGS	09469000	2020-03-09	130900	P	131300	P
+USGS	09469000	2020-03-10	131600	P	132100	P
+USGS	09469000	2020-03-11	132600	P	133000	P
+USGS	09469000	2020-03-12	133500	P	134100	P
+USGS	09469000	2020-03-13	134700	P	135400	P
+USGS	09469000	2020-03-14	138100	P	140100	P
+USGS	09469000	2020-03-15	141700	P	143100	P
+USGS	09469000	2020-03-16	144700	P	146300	P
+USGS	09469000	2020-03-17	148200	P	149900	P
+USGS	09469000	2020-03-18	152100	P	154400	P
+USGS	09469000	2020-03-19	156500	P	159200	P
+USGS	09469000	2020-03-20	163200	P	166500	P
+USGS	09469000	2020-03-21	168800	P	171100	P
+USGS	09469000	2020-03-22	173600	P	175800	P
+USGS	09469000	2020-03-23	178100	P	180100	P
+USGS	09469000	2020-03-24	182100	P	184000	P
+USGS	09469000	2020-03-25	185700	P	187400	P
+USGS	09469000	2020-03-26	188800	P	190100	P
+USGS	09469000	2020-03-27	191400	P	192600	P
+USGS	09469000	2020-03-28	193600	P	194600	P
+USGS	09469000	2020-03-29	195500	P	196400	P
+USGS	09469000	2020-03-30	197200	P	197700	P
+USGS	09469000	2020-03-31	198800	P	199700	P
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2020-05-03 09:25:22 EDT       (caww01)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09469000 SAN CARLOS RESERVOIR AT COOLIDGE DAM, AZ
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09469000
+#            TS   parameter     statistic     Description
+#        257235       00054     30800     Reservoir storage, acre-feet (Observation at 08:00 AM), [Instant value at 8:00am daily]
+#          5495       00054     00003     Reservoir storage, acre-feet (Mean)
+#          5496       00054     32400     Reservoir storage, acre-feet (Observation at midnight)
+#
+# Data-value qualification codes included in this output:
+#     P  Provisional data subject to revision.
+# 
+agency_cd	site_no	datetime	5495_00054_00003	5495_00054_00003_cd	5496_00054_32400	5496_00054_32400_cd
+5s	15s	20d	14n	10s	14n	10s
+USGS	09469000	2020-04-01	200400	P	200900	P
+USGS	09469000	2020-04-02	201700	P	202100	P
+USGS	09469000	2020-04-03	202700	P	203100	P
+USGS	09469000	2020-04-04	203600	P	203900	P
+USGS	09469000	2020-04-05	204300	P	204600	P
+USGS	09469000	2020-04-06	204900	P	205200	P
+USGS	09469000	2020-04-07	205600	P	205900	P
+USGS	09469000	2020-04-08	206200	P	206400	P
+USGS	09469000	2020-04-09	206500	P	206700	P
+USGS	09469000	2020-04-10	206900	P	207100	P
+USGS	09469000	2020-04-11	207200	P	207200	P
+USGS	09469000	2020-04-12	207300	P	207400	P
+USGS	09469000	2020-04-13	207700	P	207800	P
+USGS	09469000	2020-04-14	208000	P	208200	P
+USGS	09469000	2020-04-15	208300	P	208400	P
+USGS	09469000	2020-04-16	208500	P	208600	P
+USGS	09469000	2020-04-17	208700	P	208700	P
+USGS	09469000	2020-04-18	208600	P	208600	P
+USGS	09469000	2020-04-19	208600	P	208500	P
+USGS	09469000	2020-04-20	208500	P	208400	P
+USGS	09469000	2020-04-21	208300	P	208200	P
+USGS	09469000	2020-04-22	208100	P	208000	P
+USGS	09469000	2020-04-23	207800	P	207600	P
+USGS	09469000	2020-04-24	207400	P	207300	P
+USGS	09469000	2020-04-25	207200	P	207100	P
+USGS	09469000	2020-04-26	207000	P	206700	P
+USGS	09469000	2020-04-27	206500	P	206200	P
+USGS	09469000	2020-04-28	206000	P	205700	P
+USGS	09469000	2020-04-29	205500	P	205200	P
+USGS	09469000	2020-04-30	205000	P	204800	P
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2020-06-10 19:09:32 EDT       (vaww01)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09469000 SAN CARLOS RESERVOIR AT COOLIDGE DAM, AZ
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09469000
+#            TS   parameter     statistic     Description
+#        257235       00054     30800     Reservoir storage, acre-feet (Observation at 08:00 AM), [Instant value at 8:00am daily]
+#          5495       00054     00003     Reservoir storage, acre-feet (Mean)
+#          5496       00054     32400     Reservoir storage, acre-feet (Observation at midnight)
+#
+# Data-value qualification codes included in this output:
+#     P  Provisional data subject to revision.
+# 
+agency_cd	site_no	datetime	5495_00054_00003	5495_00054_00003_cd	5496_00054_32400	5496_00054_32400_cd
+5s	15s	20d	14n	10s	14n	10s
+USGS	09469000	2020-05-01	204500	P	204200	P
+USGS	09469000	2020-05-02	203900	P	203500	P
+USGS	09469000	2020-05-03	203200	P	202800	P
+USGS	09469000	2020-05-04	202500	P	202000	P
+USGS	09469000	2020-05-05	201900	P	201700	P
+USGS	09469000	2020-05-06	201300	P	200800	P
+USGS	09469000	2020-05-07	200600	P	200200	P
+USGS	09469000	2020-05-08	199900	P	199400	P
+USGS	09469000	2020-05-09	199100	P	198500	P
+USGS	09469000	2020-05-10	198200	P	197700	P
+USGS	09469000	2020-05-11	197400	P	197100	P
+USGS	09469000	2020-05-12	196600	P	196300	P
+USGS	09469000	2020-05-13	195800	P	195200	P
+USGS	09469000	2020-05-14	195000	P	194600	P
+USGS	09469000	2020-05-15	194200	P	193700	P
+USGS	09469000	2020-05-16	193400	P	193000	P
+USGS	09469000	2020-05-17	192600	P	192000	P
+USGS	09469000	2020-05-18	191700	P	191100	P
+USGS	09469000	2020-05-19	190600	P	190000	P
+USGS	09469000	2020-05-20	189600	P	189100	P
+USGS	09469000	2020-05-21	188700	P	188100	P
+USGS	09469000	2020-05-22	187700	P	187100	P
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2020-07-03 11:39:42 EDT       (caww02)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09469000 SAN CARLOS RESERVOIR AT COOLIDGE DAM, AZ
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09469000
+#            TS   parameter     statistic     Description
+#        257235       00054     30800     Reservoir storage, acre-feet (Observation at 08:00 AM), [Instant value at 8:00am daily]
+#          5495       00054     00003     Reservoir storage, acre-feet (Mean)
+#          5496       00054     32400     Reservoir storage, acre-feet (Observation at midnight)
+#
+# Data-value qualification codes included in this output:
+#        
+#     P  Provisional data subject to revision.
+# 
+agency_cd	site_no	datetime	5495_00054_00003	5495_00054_00003_cd	5496_00054_32400	5496_00054_32400_cd
+5s	15s	20d	14n	10s	14n	10s
+USGS	09469000	2020-06-03			175300	P
+USGS	09469000	2020-06-04	174800	P	174000	P
+USGS	09469000	2020-06-05	173500	P	172900	P
+USGS	09469000	2020-06-06	172100	P	171600	P
+USGS	09469000	2020-06-07	170800	P	170100	P
+USGS	09469000	2020-06-08	169500	P	168900	P
+USGS	09469000	2020-06-09	168300	P	167600	P
+USGS	09469000	2020-06-10	167100	P	166500	P
+USGS	09469000	2020-06-11	165900	P	165100	P
+USGS	09469000	2020-06-12	164700	P	164200	P
+USGS	09469000	2020-06-13	163400	P	162500	P
+USGS	09469000	2020-06-14	162000	P	161300	P
+USGS	09469000	2020-06-15	160600	P	160000	P
+USGS	09469000	2020-06-16	159500	P	158900	P
+USGS	09469000	2020-06-17	158200	P	157600	P
+USGS	09469000	2020-06-18	156900	P	156300	P
+USGS	09469000	2020-06-19	155700	P	155000	P
+USGS	09469000	2020-06-20	154500	P	153800	P
+USGS	09469000	2020-06-21	153200	P	152600	P
+USGS	09469000	2020-06-22	151900	P	151300	P
+USGS	09469000	2020-06-23	150600	P	149900	P
+USGS	09469000	2020-06-24	149300	P	148500	P
+USGS	09469000	2020-06-25	148000	P	147200	P
+USGS	09469000	2020-06-26	146500	P	145800	P
+USGS	09469000	2020-06-27	145000	P	144200	P
+USGS	09469000	2020-06-28	143400	P	142600	P
+USGS	09469000	2020-06-29	141800	P	141000	P
+USGS	09469000	2020-06-30	140300	P	139600	P
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2020-08-05 20:17:33 EDT       (vaww02)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09469000 SAN CARLOS RESERVOIR AT COOLIDGE DAM, AZ
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09469000
+#            TS   parameter     statistic     Description
+#        257235       00054     30800     Reservoir storage, acre-feet (Observation at 08:00 AM), [Instant value at 8:00am daily]
+#          5495       00054     00003     Reservoir storage, acre-feet (Mean)
+#          5496       00054     32400     Reservoir storage, acre-feet (Observation at midnight)
+#
+# Data-value qualification codes included in this output:
+#     P  Provisional data subject to revision.
+# 
+agency_cd	site_no	datetime	5495_00054_00003	5495_00054_00003_cd	5496_00054_32400	5496_00054_32400_cd
+5s	15s	20d	14n	10s	14n	10s
+USGS	09469000	2020-07-01	138800	P	138000	P
+USGS	09469000	2020-07-02	137300	P	136500	P
+USGS	09469000	2020-07-03	135900	P	135100	P
+USGS	09469000	2020-07-04	134400	P	133700	P
+USGS	09469000	2020-07-05	132900	P	132100	P
+USGS	09469000	2020-07-06	131500	P	130700	P
+USGS	09469000	2020-07-07	130000	P	129200	P
+USGS	09469000	2020-07-08	128400	P	127700	P
+USGS	09469000	2020-07-09	126900	P	126100	P
+USGS	09469000	2020-07-10	125500	P	124700	P
+USGS	09469000	2020-07-11	124000	P	123200	P
+USGS	09469000	2020-07-12	122600	P	121900	P
+USGS	09469000	2020-07-13	121200	P	120500	P
+USGS	09469000	2020-07-14	119700	P	118900	P
+USGS	09469000	2020-07-15	118300	P	117700	P
+USGS	09469000	2020-07-16	116900	P	116100	P
+USGS	09469000	2020-07-17	115600	P	114800	P
+USGS	09469000	2020-07-18	114100	P	113400	P
+USGS	09469000	2020-07-19	112600	P	111700	P
+USGS	09469000	2020-07-20	111200	P	110600	P
+USGS	09469000	2020-07-21	109700	P	109100	P
+USGS	09469000	2020-07-22	108300	P	107800	P
+USGS	09469000	2020-07-23	107000	P	106300	P
+USGS	09469000	2020-07-24	105700	P	105200	P
+USGS	09469000	2020-07-25	104400	P	103700	P
+USGS	09469000	2020-07-26	103000	P	102300	P
+USGS	09469000	2020-07-27	101700	P	101100	P
+USGS	09469000	2020-07-28	100300	P	99550	P
+USGS	09469000	2020-07-29	99010	P	98190	P
+USGS	09469000	2020-07-30	97530	P	96790	P
+USGS	09469000	2020-07-31	96160	P	95500	P
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2020-09-05 10:02:13 EDT       (caww02)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09469000 SAN CARLOS RESERVOIR AT COOLIDGE DAM, AZ
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09469000
+#            TS   parameter     statistic     Description
+#        257235       00054     30800     Reservoir storage, acre-feet (Observation at 08:00 AM), [Instant value at 8:00am daily]
+#          5495       00054     00003     Reservoir storage, acre-feet (Mean)
+#          5496       00054     32400     Reservoir storage, acre-feet (Observation at midnight)
+#
+# Data-value qualification codes included in this output:
+#     P  Provisional data subject to revision.
+# 
+agency_cd	site_no	datetime	5495_00054_00003	5495_00054_00003_cd	5496_00054_32400	5496_00054_32400_cd
+5s	15s	20d	14n	10s	14n	10s
+USGS	09469000	2020-08-01	95200	P	94290	P
+USGS	09469000	2020-08-02	93780	P	93120	P
+USGS	09469000	2020-08-03	92480	P	91810	P
+USGS	09469000	2020-08-04	91010	P	90240	P
+USGS	09469000	2020-08-05	89680	P	88770	P
+USGS	09469000	2020-08-06	88220	P	87550	P
+USGS	09469000	2020-08-07	86900	P	86240	P
+USGS	09469000	2020-08-08	85650	P	84900	P
+USGS	09469000	2020-08-09	84280	P	83570	P
+USGS	09469000	2020-08-10	82970	P	82340	P
+USGS	09469000	2020-08-11	81650	P	80900	P
+USGS	09469000	2020-08-12	80330	P	79640	P
+USGS	09469000	2020-08-13	79100	P	78430	P
+USGS	09469000	2020-08-14	77800	P	77190	P
+USGS	09469000	2020-08-15	76530	P	75920	P
+USGS	09469000	2020-08-16	75300	P	74570	P
+USGS	09469000	2020-08-17	74050	P	73370	P
+USGS	09469000	2020-08-18	72790	P	72130	P
+USGS	09469000	2020-08-19	71500	P	70700	P
+USGS	09469000	2020-08-20	70150	P	69490	P
+USGS	09469000	2020-08-21	69030	P	68490	P
+USGS	09469000	2020-08-22	68080	P	67540	P
+USGS	09469000	2020-08-23	67180	P	66710	P
+USGS	09469000	2020-08-24	66270	P	65730	P
+USGS	09469000	2020-08-25	65210	P	64640	P
+USGS	09469000	2020-08-26	64080	P	63450	P
+USGS	09469000	2020-08-27	62960	P	62420	P
+USGS	09469000	2020-08-28	61900	P	61360	P
+USGS	09469000	2020-08-29	60730	P	60200	P
+USGS	09469000	2020-08-30	59600	P	59050	P
+USGS	09469000	2020-08-31	58510	P	58020	P
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2020-10-02 15:18:12 EDT       (vaww02)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09469000 SAN CARLOS RESERVOIR AT COOLIDGE DAM, AZ
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09469000
+#            TS   parameter     statistic     Description
+#        257235       00054     30800     Reservoir storage, acre-feet (Observation at 08:00 AM), [Instant value at 8:00am daily]
+#          5495       00054     00003     Reservoir storage, acre-feet (Mean)
+#          5496       00054     32400     Reservoir storage, acre-feet (Observation at midnight)
+#
+# Data-value qualification codes included in this output:
+#     P  Provisional data subject to revision.
+# 
+agency_cd	site_no	datetime	5495_00054_00003	5495_00054_00003_cd	5496_00054_32400	5496_00054_32400_cd
+5s	15s	20d	14n	10s	14n	10s
+USGS	09469000	2020-09-01	57400	P	56890	P
+USGS	09469000	2020-09-02	56380	P	55850	P
+USGS	09469000	2020-09-03	55350	P	54740	P
+USGS	09469000	2020-09-04	54320	P	53830	P
+USGS	09469000	2020-09-05	53380	P	52990	P
+USGS	09469000	2020-09-06	52320	P	51810	P
+USGS	09469000	2020-09-07	51310	P	50810	P
+USGS	09469000	2020-09-08	50300	P	49760	P
+USGS	09469000	2020-09-09	49350	P	48890	P
+USGS	09469000	2020-09-10	48510	P	48120	P
+USGS	09469000	2020-09-11	47700	P	47330	P
+USGS	09469000	2020-09-12	47010	P	46680	P
+USGS	09469000	2020-09-13	46250	P	45900	P
+USGS	09469000	2020-09-14	45660	P	45320	P
+USGS	09469000	2020-09-15	45060	P	44770	P
+USGS	09469000	2020-09-16	44450	P	44170	P
+USGS	09469000	2020-09-17	43870	P	43540	P
+USGS	09469000	2020-09-18	43240	P	42970	P
+USGS	09469000	2020-09-19	42690	P	42380	P
+USGS	09469000	2020-09-20	42070	P	41760	P
+USGS	09469000	2020-09-21	41480	P	41180	P
+USGS	09469000	2020-09-22	40930	P	40510	P
+USGS	09469000	2020-09-23	40320	P	40030	P
+USGS	09469000	2020-09-24	39770	P	39460	P
+USGS	09469000	2020-09-25	39190	P	38780	P
+USGS	09469000	2020-09-26	38570	P	38300	P
+USGS	09469000	2020-09-27	37970	P	37630	P
+USGS	09469000	2020-09-28	37450	P	37200	P
+USGS	09469000	2020-09-29	36930	P	36620	P
+USGS	09469000	2020-09-30	36330	P	36020	P
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2020-11-06 18:30:39 EST       (vaww02)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09469000 SAN CARLOS RESERVOIR AT COOLIDGE DAM, AZ
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09469000
+#            TS   parameter     statistic     Description
+#        257235       00054     30800     Reservoir storage, acre-feet (Observation at 08:00 AM), [Instant value at 8:00am daily]
+#          5495       00054     00003     Reservoir storage, acre-feet (Mean)
+#          5496       00054     32400     Reservoir storage, acre-feet (Observation at midnight)
+#
+# Data-value qualification codes included in this output:
+#     P  Provisional data subject to revision.
+# 
+agency_cd	site_no	datetime	5495_00054_00003	5495_00054_00003_cd	5496_00054_32400	5496_00054_32400_cd
+5s	15s	20d	14n	10s	14n	10s
+USGS	09469000	2020-10-01	35980	P	35640	P
+USGS	09469000	2020-10-02	35460	P	35210	P
+USGS	09469000	2020-10-03	35040	P	34820	P
+USGS	09469000	2020-10-04	34450	P	34210	P
+USGS	09469000	2020-10-05	33930	P	33660	P
+USGS	09469000	2020-10-06	33480	P	33230	P
+USGS	09469000	2020-10-07	33060	P	32850	P
+USGS	09469000	2020-10-08	32590	P	32250	P
+USGS	09469000	2020-10-09	32130	P	31880	P
+USGS	09469000	2020-10-10	31690	P	31400	P
+USGS	09469000	2020-10-11	31210	P	31030	P
+USGS	09469000	2020-10-12	30780	P	30640	P
+USGS	09469000	2020-10-13	30410	P	30170	P
+USGS	09469000	2020-10-14	29940	P	29700	P
+USGS	09469000	2020-10-15	29490	P	29190	P
+USGS	09469000	2020-10-16	29040	P	28810	P
+USGS	09469000	2020-10-17	28620	P	28410	P
+USGS	09469000	2020-10-18	28190	P	27950	P
+USGS	09469000	2020-10-19	27790	P	27580	P
+USGS	09469000	2020-10-20	27310	P	27090	P
+USGS	09469000	2020-10-21	26920	P	26700	P
+USGS	09469000	2020-10-22	26510	P	26260	P
+USGS	09469000	2020-10-23	26160	P	26140	P
+USGS	09469000	2020-10-24	26140	P	26140	P
+USGS	09469000	2020-10-25	26110	P	26050	P
+USGS	09469000	2020-10-26	26090	P	26050	P
+USGS	09469000	2020-10-27	26060	P	26050	P
+USGS	09469000	2020-10-28	26040	P	26050	P
+USGS	09469000	2020-10-29	26050	P	26050	P
+USGS	09469000	2020-10-30	26040	P	26050	P
+USGS	09469000	2020-10-31	26050	P	26050	P
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2020-12-05 13:05:26 EST       (vaww01)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09469000 SAN CARLOS RESERVOIR AT COOLIDGE DAM, AZ
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09469000
+#            TS   parameter     statistic     Description
+#        257235       00054     30800     Reservoir storage, acre-feet (Observation at 08:00 AM), [Instant value at 8:00am daily]
+#          5495       00054     00003     Reservoir storage, acre-feet (Mean)
+#          5496       00054     32400     Reservoir storage, acre-feet (Observation at midnight)
+#
+# Data-value qualification codes included in this output:
+#     P  Provisional data subject to revision.
+# 
+agency_cd	site_no	datetime	5495_00054_00003	5495_00054_00003_cd	5496_00054_32400	5496_00054_32400_cd
+5s	15s	20d	14n	10s	14n	10s
+USGS	09469000	2020-11-01	26050	P	26050	P
+USGS	09469000	2020-11-02	26050	P	26020	P
+USGS	09469000	2020-11-03	26030	P	26020	P
+USGS	09469000	2020-11-04	26030	P	26020	P
+USGS	09469000	2020-11-05	26040	P	26050	P
+USGS	09469000	2020-11-06	26020	P	26050	P
+USGS	09469000	2020-11-07	26030	P	26050	P
+USGS	09469000	2020-11-08	25960	P	26050	P
+USGS	09469000	2020-11-09	25920	P	25930	P
+USGS	09469000	2020-11-10	25920	P	25930	P
+USGS	09469000	2020-11-11	25920	P	25930	P
+USGS	09469000	2020-11-12	25910	P	25900	P
+USGS	09469000	2020-11-13	25920	P	25900	P
+USGS	09469000	2020-11-14	25900	P	25880	P
+USGS	09469000	2020-11-15	25870	P	25880	P
+USGS	09469000	2020-11-16	25870	P	25850	P
+USGS	09469000	2020-11-17	25860	P	25850	P
+USGS	09469000	2020-11-18	25860	P	25850	P
+USGS	09469000	2020-11-19	25870	P	25850	P
+USGS	09469000	2020-11-20	25860	P	25850	P
+USGS	09469000	2020-11-21	25860	P	25850	P
+USGS	09469000	2020-11-22	25860	P	25850	P
+USGS	09469000	2020-11-23	25870	P	25900	P
+USGS	09469000	2020-11-24	25820	P	25810	P
+USGS	09469000	2020-11-25	25790	P	25780	P
+USGS	09469000	2020-11-26	25780	P	25760	P
+USGS	09469000	2020-11-27	25690	P	25500	P
+USGS	09469000	2020-11-28	25270	P	25070	P
+USGS	09469000	2020-11-29	24890	P	24700	P
+USGS	09469000	2020-11-30	24510	P	24320	P
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2021-01-06 19:59:08 EST       (caww02)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09469000 SAN CARLOS RESERVOIR AT COOLIDGE DAM, AZ
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09469000
+#            TS   parameter     statistic     Description
+#        257235       00054     30800     Reservoir storage, acre-feet (Observation at 08:00 AM), [Instant value at 8:00am daily]
+#          5495       00054     00003     Reservoir storage, acre-feet (Mean)
+#          5496       00054     32400     Reservoir storage, acre-feet (Observation at midnight)
+#
+# Data-value qualification codes included in this output:
+#     P  Provisional data subject to revision.
+# 
+agency_cd	site_no	datetime	5495_00054_00003	5495_00054_00003_cd	5496_00054_32400	5496_00054_32400_cd
+5s	15s	20d	14n	10s	14n	10s
+USGS	09469000	2020-12-01	24390	P	24240	P
+USGS	09469000	2020-12-02	24060	P	23870	P
+USGS	09469000	2020-12-03	23710	P	23490	P
+USGS	09469000	2020-12-04	23300	P	23090	P
+USGS	09469000	2020-12-05	22910	P	22690	P
+USGS	09469000	2020-12-06	22530	P	22300	P
+USGS	09469000	2020-12-07	22140	P	21870	P
+USGS	09469000	2020-12-08	21690	P	21500	P
+USGS	09469000	2020-12-09	21320	P	21160	P
+USGS	09469000	2020-12-10	21050	P	20980	P
+USGS	09469000	2020-12-11	20880	P	20790	P
+USGS	09469000	2020-12-12	20680	P	20540	P
+USGS	09469000	2020-12-13	20460	P	20330	P
+USGS	09469000	2020-12-14	20210	P	20130	P
+USGS	09469000	2020-12-15	20050	P	19960	P
+USGS	09469000	2020-12-16	19880	P	19780	P
+USGS	09469000	2020-12-17	19730	P	19650	P
+USGS	09469000	2020-12-18	19600	P	19570	P
+USGS	09469000	2020-12-19	19580	P	19590	P
+USGS	09469000	2020-12-20	19580	P	19570	P
+USGS	09469000	2020-12-21	19580	P	19570	P
+USGS	09469000	2020-12-22	19580	P	19570	P
+USGS	09469000	2020-12-23	19600	P	19570	P
+USGS	09469000	2020-12-24	19580	P	19590	P
+USGS	09469000	2020-12-25	19580	P	19570	P
+USGS	09469000	2020-12-26	19580	P	19570	P
+USGS	09469000	2020-12-27	19580	P	19570	P
+USGS	09469000	2020-12-28	19600	P	19630	P
+USGS	09469000	2020-12-29	19590	P	19550	P
+USGS	09469000	2020-12-30	19600	P	19610	P
+USGS	09469000	2020-12-31	19600	P	19590	P
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2021-02-03 20:50:45 EST       (sdww02)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09469000 SAN CARLOS RESERVOIR AT COOLIDGE DAM, AZ
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09469000
+#            TS   parameter     statistic     Description
+#        257235       00054     30800     Reservoir storage, acre-feet (Observation at 08:00 AM), [Instant value at 8:00am daily]
+#          5495       00054     00003     Reservoir storage, acre-feet (Mean)
+#          5496       00054     32400     Reservoir storage, acre-feet (Observation at midnight)
+#
+# Data-value qualification codes included in this output:
+#        
+#     P  Provisional data subject to revision.
+# 
+agency_cd	site_no	datetime	5495_00054_00003	5495_00054_00003_cd	5496_00054_32400	5496_00054_32400_cd
+5s	15s	20d	14n	10s	14n	10s
+USGS	09469000	2021-01-01	19520	P	19510	P
+USGS	09469000	2021-01-02	19520	P	19510	P
+USGS	09469000	2021-01-03	19520	P	19510	P
+USGS	09469000	2021-01-04	19520	P	19500	P
+USGS	09469000	2021-01-05	19510	P	19520	P
+USGS	09469000	2021-01-06	19510	P	19510	P
+USGS	09469000	2021-01-07	19500	P	19510	P
+USGS	09469000	2021-01-08	19500	P	19480	P
+USGS	09469000	2021-01-09	19500	P	19500	P
+USGS	09469000	2021-01-10	19480	P	19470	P
+USGS	09469000	2021-01-11	19500	P	19470	P
+USGS	09469000	2021-01-12	19510	P	19490	P
+USGS	09469000	2021-01-13	19490	P	19590	P
+USGS	09469000	2021-01-14	19550	P	19610	P
+USGS	09469000	2021-01-15	19350	P		
+USGS	09469000	2021-01-16			19710	P
+USGS	09469000	2021-01-17	19590	P	19510	P
+USGS	09469000	2021-01-18	19570	P	19570	P
+USGS	09469000	2021-01-19	19240	P	19100	P
+USGS	09469000	2021-01-20	19140	P	19630	P
+USGS	09469000	2021-01-21	19430	P	18900	P
+USGS	09469000	2021-01-22	19460	P	19570	P
+USGS	09469000	2021-01-23	19240	P	19550	P
+USGS	09469000	2021-01-24	19290	P	19630	P
+USGS	09469000	2021-01-25	19560	P	18940	P
+USGS	09469000	2021-01-26	19460	P	19860	P
+USGS	09469000	2021-01-27	19730	P	19820	P
+USGS	09469000	2021-01-28	19820	P	19160	P
+USGS	09469000	2021-01-29	19530	P	19840	P
+USGS	09469000	2021-01-30	19850	P	19860	P
+USGS	09469000	2021-01-31	19870	P	19860	P
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2021-03-06 09:06:55 EST       (sdww01)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09469000 SAN CARLOS RESERVOIR AT COOLIDGE DAM, AZ
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09469000
+#            TS   parameter     statistic     Description
+#        257235       00054     30800     Reservoir storage, acre-feet (Observation at 08:00 AM), [Instant value at 8:00am daily]
+#          5495       00054     00003     Reservoir storage, acre-feet (Mean)
+#          5496       00054     32400     Reservoir storage, acre-feet (Observation at midnight)
+#
+# Data-value qualification codes included in this output:
+#     P  Provisional data subject to revision.
+#     e  Value has been estimated.
+# 
+agency_cd	site_no	datetime	5495_00054_00003	5495_00054_00003_cd	5496_00054_32400	5496_00054_32400_cd
+5s	15s	20d	14n	10s	14n	10s
+USGS	09469000	2021-02-01	19750	P	19780	P
+USGS	09469000	2021-02-02	19820	P	19820	P
+USGS	09469000	2021-02-03	19850	P:e	19840	P:e
+USGS	09469000	2021-02-04	19840	P:e	19840	P:e
+USGS	09469000	2021-02-05	19850	P:e	19850	P:e
+USGS	09469000	2021-02-06	19810	P:e	19820	P
+USGS	09469000	2021-02-07	19620	P	19750	P
+USGS	09469000	2021-02-08	19720	P	19750	P
+USGS	09469000	2021-02-09	19700	P	19510	P
+USGS	09469000	2021-02-10	19260	P	19180	P
+USGS	09469000	2021-02-11	24100	P	50440	P
+USGS	09469000	2021-02-12	44390	P	48650	P
+USGS	09469000	2021-02-13	37050	P	17290	P
+USGS	09469000	2021-02-14	27080	P	17120	P
+USGS	09469000	2021-02-15	21260	P	17600	P
+USGS	09469000	2021-02-16	17200	P	17370	P
+USGS	09469000	2021-02-17	16840	P	17060	P
+USGS	09469000	2021-02-18	16720	P	16770	P
+USGS	09469000	2021-02-19	17380	P	16470	P
+USGS	09469000	2021-02-20	15920	P	15140	P
+USGS	09469000	2021-02-21	15670	P	15970	P
+USGS	09469000	2021-02-22	15550	P	15410	P
+USGS	09469000	2021-02-23	15090	P	15260	P
+USGS	09469000	2021-02-24	14760	P	14550	P
+USGS	09469000	2021-02-25	14380	P	14620	P
+USGS	09469000	2021-02-26	14150	P	14380	P
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2021-03-06 09:07:13 EST       (sdww02)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09469000 SAN CARLOS RESERVOIR AT COOLIDGE DAM, AZ
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09469000
+#            TS   parameter     statistic     Description
+#        257235       00054     30800     Reservoir storage, acre-feet (Observation at 08:00 AM), [Instant value at 8:00am daily]
+#          5495       00054     00003     Reservoir storage, acre-feet (Mean)
+#          5496       00054     32400     Reservoir storage, acre-feet (Observation at midnight)
+#
+# Data-value qualification codes included in this output:
+#     P  Provisional data subject to revision.
+#     e  Value has been estimated.
+# 
+agency_cd	site_no	datetime	5495_00054_00003	5495_00054_00003_cd	5496_00054_32400	5496_00054_32400_cd
+5s	15s	20d	14n	10s	14n	10s
+USGS	09469000	2021-02-01	19750	P	19780	P
+USGS	09469000	2021-02-02	19820	P	19820	P
+USGS	09469000	2021-02-03	19850	P:e	19840	P:e
+USGS	09469000	2021-02-04	19840	P:e	19840	P:e
+USGS	09469000	2021-02-05	19850	P:e	19850	P:e
+USGS	09469000	2021-02-06	19810	P:e	19820	P
+USGS	09469000	2021-02-07	19620	P	19750	P
+USGS	09469000	2021-02-08	19720	P	19750	P
+USGS	09469000	2021-02-09	19700	P	19510	P
+USGS	09469000	2021-02-10	19260	P	19180	P
+USGS	09469000	2021-02-11	24100	P	50440	P
+USGS	09469000	2021-02-12	44390	P	48650	P
+USGS	09469000	2021-02-13	37050	P	17290	P
+USGS	09469000	2021-02-14	27080	P	17120	P
+USGS	09469000	2021-02-15	21260	P	17600	P
+USGS	09469000	2021-02-16	17200	P	17370	P
+USGS	09469000	2021-02-17	16840	P	17060	P
+USGS	09469000	2021-02-18	16720	P	16770	P
+USGS	09469000	2021-02-19	17380	P	16470	P
+USGS	09469000	2021-02-20	15920	P	15140	P
+USGS	09469000	2021-02-21	15670	P	15970	P
+USGS	09469000	2021-02-22	15550	P	15410	P
+USGS	09469000	2021-02-23	15090	P	15260	P
+USGS	09469000	2021-02-24	14760	P	14550	P
+USGS	09469000	2021-02-25	14380	P	14620	P
+USGS	09469000	2021-02-26	14150	P	14380	P
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2021-04-06 12:58:52 EDT       (vaww02)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09469000 SAN CARLOS RESERVOIR AT COOLIDGE DAM, AZ
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09469000
+#            TS   parameter     statistic     Description
+#        257235       00054     30800     Reservoir storage, acre-feet (Observation at 08:00 AM), [Instant value at 8:00am daily]
+#          5495       00054     00003     Reservoir storage, acre-feet (Mean)
+#          5496       00054     32400     Reservoir storage, acre-feet (Observation at midnight)
+#
+# Data-value qualification codes included in this output:
+#     P  Provisional data subject to revision.
+#     e  Value has been estimated.
+# 
+agency_cd	site_no	datetime	5495_00054_00003	5495_00054_00003_cd	5496_00054_32400	5496_00054_32400_cd
+5s	15s	20d	14n	10s	14n	10s
+USGS	09469000	2021-03-01	13420	P:e	13330	P
+USGS	09469000	2021-03-02	12570	P	12830	P
+USGS	09469000	2021-03-03	12360	P	11930	P
+USGS	09469000	2021-03-04	11860	P	12180	P
+USGS	09469000	2021-03-05	11890	P	11870	P
+USGS	09469000	2021-03-06	11500	P	11540	P
+USGS	09469000	2021-03-07	11390	P	11300	P
+USGS	09469000	2021-03-08	10870	P	11060	P
+USGS	09469000	2021-03-09	10860	P:e	10810	P:e
+USGS	09469000	2021-03-10	10330	P:e	10340	P
+USGS	09469000	2021-03-11	10020	P	9876	P
+USGS	09469000	2021-03-12	9537	P	9006	P
+USGS	09469000	2021-03-13	9275	P	9818	P
+USGS	09469000	2021-03-14	9152	P	9450	P
+USGS	09469000	2021-03-15	9172	P	8427	P
+USGS	09469000	2021-03-16	8494	P	8979	P
+USGS	09469000	2021-03-17	8776	P	8748	P
+USGS	09469000	2021-03-18	8554	P	8467	P
+USGS	09469000	2021-03-19	8275	P	8165	P
+USGS	09469000	2021-03-20	7849	P	7933	P
+USGS	09469000	2021-03-21	7340	P:e	6982	P:e
+USGS	09469000	2021-03-22	6782	P:e	6580	P:e
+USGS	09469000	2021-03-23	6506	P:e	6712	P
+USGS	09469000	2021-03-24	6352	P	6460	P
+USGS	09469000	2021-03-25	5873	P	5321	P
+USGS	09469000	2021-03-26	5451	P	5647	P
+USGS	09469000	2021-03-27	5255	P	5375	P
+USGS	09469000	2021-03-28	4989	P	4730	P
+USGS	09469000	2021-03-29	4505	P	4541	P
+USGS	09469000	2021-03-30	4078	P	4203	P
+USGS	09469000	2021-03-31	3870	P	3564	P
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2021-05-05 19:58:55 EDT       (caww02)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09469000 SAN CARLOS RESERVOIR AT COOLIDGE DAM, AZ
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09469000
+#            TS   parameter     statistic     Description
+#        257235       00054     30800     Reservoir storage, acre-feet (Observation at 08:00 AM), [Instant value at 8:00am daily]
+#          5495       00054     00003     Reservoir storage, acre-feet (Mean)
+#          5496       00054     32400     Reservoir storage, acre-feet (Observation at midnight)
+#
+# Data-value qualification codes included in this output:
+#     P  Provisional data subject to revision.
+#     e  Value has been estimated.
+# 
+agency_cd	site_no	datetime	5495_00054_00003	5495_00054_00003_cd	5496_00054_32400	5496_00054_32400_cd
+5s	15s	20d	14n	10s	14n	10s
+USGS	09469000	2021-04-01	3349	P:e	3161	P
+USGS	09469000	2021-04-02	2863	P	2657	P
+USGS	09469000	2021-04-03	2415	P	2274	P
+USGS	09469000	2021-04-04	1925	P	1781	P
+USGS	09469000	2021-04-05	1457	P:e	1288	P:e
+USGS	09469000	2021-04-06	894.7	P:e	719.6	P:e
+USGS	09469000	2021-04-07	481.6	P:e	104.0	P:e
+USGS	09469000	2021-04-08	29.90	P:e	17.21	P
+USGS	09469000	2021-04-09	31.22	P:e	29.30	P:e
+USGS	09469000	2021-04-10	38.99	P:e	47.66	P:e
+USGS	09469000	2021-04-11	50.91	P:e	54.43	P:e
+USGS	09469000	2021-04-12	57.12	P:e	63.56	P:e
+USGS	09469000	2021-04-13	61.12	P:e	58.68	P
+USGS	09469000	2021-04-14	56.03	P:e	55.14	P:e
+USGS	09469000	2021-04-15	48.90	P:e	55.87	P:e
+USGS	09469000	2021-04-16	61.57	P:e	62.46	P:e
+USGS	09469000	2021-04-17	60.91	P:e	61.16	P:e
+USGS	09469000	2021-04-18	66.98	P:e	75.91	P
+USGS	09469000	2021-04-19	73.04	P	75.91	P
+USGS	09469000	2021-04-20	70.69	P:e	78.19	P:e
+USGS	09469000	2021-04-21	62.77	P:e	50.33	P:e
+USGS	09469000	2021-04-22	51.41	P:e	52.36	P:e
+USGS	09469000	2021-04-23	56.76	P:e	75.06	P
+USGS	09469000	2021-04-24	70.17	P	78.08	P
+USGS	09469000	2021-04-25	74.49	P:e	74.03	P:e
+USGS	09469000	2021-04-26	73.18	P:e	72.17	P:e
+USGS	09469000	2021-04-27	64.46	P:e	72.95	P
+USGS	09469000	2021-04-28	69.14	P	59.39	P
+USGS	09469000	2021-04-29	75.43	P	78.08	P
+USGS	09469000	2021-04-30	77.78	P	79.41	P
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2021-06-03 20:35:19 EDT       (vaww01)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09469000 SAN CARLOS RESERVOIR AT COOLIDGE DAM, AZ
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09469000
+#            TS   parameter     statistic     Description
+#        257235       00054     30800     Reservoir storage, acre-feet (Observation at 08:00 AM), [Instant value at 8:00am daily]
+#          5495       00054     00003     Reservoir storage, acre-feet (Mean)
+#          5496       00054     32400     Reservoir storage, acre-feet (Observation at midnight)
+#
+# Data-value qualification codes included in this output:
+#        
+#     P  Provisional data subject to revision.
+#     e  Value has been estimated.
+# 
+agency_cd	site_no	datetime	5495_00054_00003	5495_00054_00003_cd	5496_00054_32400	5496_00054_32400_cd
+5s	15s	20d	14n	10s	14n	10s
+USGS	09469000	2021-05-01	73.34	P	80.75	P
+USGS	09469000	2021-05-02	63.01	P:e	53.79	P:e
+USGS	09469000	2021-05-03	58.00	P:e	77.64	P
+USGS	09469000	2021-05-04	74.26	P:e	77.82	P:e
+USGS	09469000	2021-05-05	74.72	P:e	73.38	P:e
+USGS	09469000	2021-05-06	71.09	P:e	76.21	P:e
+USGS	09469000	2021-05-07	63.75	P:e	47.69	P:e
+USGS	09469000	2021-05-08	53.94	P:e	71.17	P:e
+USGS	09469000	2021-05-09	64.52	P:e	72.49	P:e
+USGS	09469000	2021-05-10	59.34	P:e	47.50	P
+USGS	09469000	2021-05-11	47.72	P	46.60	P
+USGS	09469000	2021-05-12	47.83	P	47.50	P
+USGS	09469000	2021-05-13	48.26	P	47.20	P
+USGS	09469000	2021-05-14	53.40	P	60.48	P
+USGS	09469000	2021-05-15	54.36	P	49.01	P
+USGS	09469000	2021-05-16	49.79	P	50.02	P
+USGS	09469000	2021-05-17	53.25	P	63.81	P
+USGS	09469000	2021-05-18	56.40	P	53.86	P
+USGS	09469000	2021-05-19	52.37	P	49.04	P
+USGS	09469000	2021-05-20	52.82	P	46.90	P
+USGS	09469000	2021-05-21	51.42	P	51.48	P
+USGS	09469000	2021-05-22	48.99	P	46.90	P
+USGS	09469000	2021-05-23	47.32	P	46.90	P
+USGS	09469000	2021-05-24	47.26	P	47.20	P
+USGS	09469000	2021-05-25	47.88	P	48.11	P
+USGS	09469000	2021-05-26	48.91	P	48.11	P
+USGS	09469000	2021-05-27	48.31	P	47.20	P
+USGS	09469000	2021-05-28	47.94	P	47.50	P
+USGS	09469000	2021-05-29	48.33	P	47.50	P
+USGS	09469000	2021-05-30	48.48	P	48.73	P
+USGS	09469000	2021-05-31			50.29	P
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://help.waterdata.usgs.gov/policies/provisional-data-statement
+#
+# File-format description:  https://help.waterdata.usgs.gov/faq/about-tab-delimited-output
+# Automated-retrieval info: https://help.waterdata.usgs.gov/faq/automated-retrievals
+#
+# Contact:   gs-w_support_nwisweb@usgs.gov
+# retrieved: 2021-07-03 16:00:23 EDT       (sdww01)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 09469000 SAN CARLOS RESERVOIR AT COOLIDGE DAM, AZ
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 09469000
+#            TS   parameter     statistic     Description
+#        257235       00054     30800     Reservoir storage, acre-feet (Observation at 08:00 AM), [Instant value at 8:00am daily]
+#          5494       00065     32400     Gage height, feet (Observation at midnight), [Lake Elevation at Midnight]
+#          5495       00054     00003     Reservoir storage, acre-feet (Mean)
+#          5496       00054     32400     Reservoir storage, acre-feet (Observation at midnight)
+#          5497       00065     32400     Gage height, feet (Observation at midnight), [Lake Elev. at Midnight]
+#
+agency_cd	site_no	datetime
+5s	15s	20d	
+

@@ -5,9 +5,9 @@
 # Data are released on condition that neither the NRCS nor the United States Government 
 # may be held liable for any damages resulting from its use. 
 # 
-# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/!ut/p/
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
 # 
-# Support Contact: usdafpacbc@midatl.service-now.com
+# Support Contact: usdafpacbc@servicenowservices.com
 # 
 #------------------------------------------------------------------------------------------------------
 # 
@@ -49,7 +49,7 @@
 # Utah  RESERVOIR Site - 5980 ft
 # Reporting Frequency: Monthly; Date Range: Period of Record
 #
-# As of: May 16, 2019 3:53:32 PM GMT-08:00
+# As of: Jun 14, 2021 2:56:52 PM GMT-08:00
 #
 Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
 ,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
@@ -158,4 +158,6 @@ Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
 2016,12840,15898,25666,34692,36046,32089,24001,15092,123,0,65,13
 2017,18200,23186,29906,35206,43492,42894,26619,12308,623,7489,13912,21891
 2018,24249,25572,31100,38660,34300,16743,7161,4717,506,1629,2291,4534
-2019,4534,14607,17312,26423,40667,,,,,,,
+2019,4534,14607,17312,26423,40667,61211,64555,50485,30866,29516,39012,49430
+2020,58602,60855,63834,66479,61533,62141,40298,20662,11589,13459,15490,21928
+2021,25902,28685,31541,32988,25653,13747,,,,,,

@@ -5,9 +5,9 @@
 # Data are released on condition that neither the NRCS nor the United States Government 
 # may be held liable for any damages resulting from its use. 
 # 
-# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/!ut/p/
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
 # 
-# Support Contact: usdafpacbc@midatl.service-now.com
+# Support Contact: usdafpacbc@servicenowservices.com
 # 
 #------------------------------------------------------------------------------------------------------
 # 
@@ -49,7 +49,7 @@
 # Utah  RESERVOIR Site - 2992 ft
 # Reporting Frequency: Monthly; Date Range: Period of Record
 #
-# As of: May 16, 2019 3:53:35 PM GMT-08:00
+# As of: Jun 14, 2021 2:56:56 PM GMT-08:00
 #
 Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
 ,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
@@ -61,4 +61,6 @@ Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
 2016,33768,37100,39807,43585,42943,47103,45398,45500,40000,45500,39412,45500
 2017,45500,42000,45853,47927,46933,49000,47500,27854,44000,44683,43000,44321
 2018,47139,48000,48500,48500,48000,47000,45500,45000,45000,45000,37500,37000
-2019,38000,39500,41500,44500,48000,,,,,,,
+2019,38000,39500,41500,44500,48000,49000,49000,48000,46500,45000,44835,45254
+2020,49026,49777,49463,49819,49505,49777,48427,44855,39551,38309,37687,40946
+2021,44676,48012,48486,47000,44934,41767,,,,,,

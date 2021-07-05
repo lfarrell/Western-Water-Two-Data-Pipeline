@@ -5,9 +5,9 @@
 # Data are released on condition that neither the NRCS nor the United States Government 
 # may be held liable for any damages resulting from its use. 
 # 
-# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/!ut/p/
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
 # 
-# Support Contact: usdafpacbc@midatl.service-now.com
+# Support Contact: usdafpacbc@servicenowservices.com
 # 
 #------------------------------------------------------------------------------------------------------
 # 
@@ -49,7 +49,7 @@
 # Colorado  RESERVOIR Site - 7500 ft
 # Reporting Frequency: Monthly; Date Range: Period of Record
 #
-# As of: May 16, 2019 3:55:11 PM GMT-08:00
+# As of: Jun 14, 2021 2:59:34 PM GMT-08:00
 #
 Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
 ,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
@@ -76,5 +76,7 @@ Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
 2015,46290,45810,45540,45880,49840,52640,49940,51830,46160,45440,45000,44300
 2016,43620,42670,42090,41900,47070,66900,64890,62800,56570,53450,52240,51640
 2017,51150,50760,50570,52020,60470,67020,66080,65400,61070,56930,56160,55590
-2018,55040,54590,54260,54030,55960,66640,65840,55390,39820,37020,36200,35360
-2019,34700,34090,33640,33520,38660,,,,,,,
+2018,55040,54590,54260,54030,55960,66640,65840,55390,39820,37020,36190,35350
+2019,34690,34080,33620,33490,38630,57260,66950,66020,60040,54320,52010,51540
+2020,51260,50850,50650,50840,54760,65840,65940,63630,59760,57630,56120,55280
+2021,54372,53580,53070,52880,52870,64580,,,,,,

@@ -5,9 +5,9 @@
 # Data are released on condition that neither the NRCS nor the United States Government 
 # may be held liable for any damages resulting from its use. 
 # 
-# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/!ut/p/
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
 # 
-# Support Contact: usdafpacbc@midatl.service-now.com
+# Support Contact: usdafpacbc@servicenowservices.com
 # 
 #------------------------------------------------------------------------------------------------------
 # 
@@ -49,7 +49,7 @@
 # Colorado  RESERVOIR Site - 5450 ft
 # Reporting Frequency: Monthly; Date Range: Period of Record
 #
-# As of: May 16, 2019 3:54:29 PM GMT-08:00
+# As of: Jun 14, 2021 2:58:50 PM GMT-08:00
 #
 Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
 ,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
@@ -116,8 +116,10 @@ Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
 2012,109757,120793,133554,137521,133343,126007,112507,85076,49721,49659,59532,61510
 2013,65204,73449,86753,102862,107073,118777,119411,106368,90915,87487,83369,82697
 2014,88303,94825,103877,115414,130937,147356,148714,148511,136742,127296,123599,123672
-2015,126492,129421,134844,147092,146527,148714,146487,139871,104539,89375,86815,86068
-2016,93982,103284,114340,129781,136975,145079,147234,134979,107108,107211,105358,102137
+2015,126492,129421,134844,147092,146527,148714,146487,139871,104539,89375,86737,86017
+2016,93854,103063,114340,129585,136723,145066,147353,135282,107750,107090,105422,102137
 2017,106334,114615,123433,129875,140917,148207,146144,141610,104471,76188,70898,70736
 2018,76506,85826,95038,105837,111980,124213,127477,106772,94453,85114,69761,67920
-2019,73802,82715,93334,95631,116468,,,,,,,
+2019,73802,82715,93334,95631,116468,133856,141810,146217,118442,121539,122975,122826
+2020,133147,140297,142370,144008,144270,146597,146787,117820,83404,68781,59714,64929
+2021,71973,83104,92509,110867,132902,146649,,,,,,

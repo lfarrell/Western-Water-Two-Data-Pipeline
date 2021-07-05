@@ -5,9 +5,9 @@
 # Data are released on condition that neither the NRCS nor the United States Government 
 # may be held liable for any damages resulting from its use. 
 # 
-# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/!ut/p/
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
 # 
-# Support Contact: usdafpacbc@midatl.service-now.com
+# Support Contact: usdafpacbc@servicenowservices.com
 # 
 #------------------------------------------------------------------------------------------------------
 # 
@@ -49,7 +49,7 @@
 # Idaho  RESERVOIR Site - 2070 ft
 # Reporting Frequency: Monthly; Date Range: Period of Record
 #
-# As of: May 16, 2019 3:52:31 PM GMT-08:00
+# As of: Jun 14, 2021 2:55:06 PM GMT-08:00
 #
 Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
 ,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
@@ -115,4 +115,6 @@ Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
 2016,1353865,1094789,1058232,1020145,1527574,1341465,1349695,1201539,1094744,1090200,1143241,1285699
 2017,1291686,1125084,1072680,832334,713162,1189521,1405356,1199119,1128048,946185,1047340,1336944
 2018,1290284,1014055,948750,937783,846930,1308836,1363460,1191449,1088158,975397,1131810,1267186
-2019,1228540,1171691,,967912,1242375,,,,,,,
+2019,1228540,1171691,,967912,1242375,1378746,1392396,1222636,1135961,1028044,1107512,1245659
+2020,1187736,1083829,930200,957251,998217,1379456,1367772,1229401,1101038,1047880,1157736,1312025
+2021,1169904,962567,837334,936228,958755,1339547,,,,,,

@@ -5,9 +5,9 @@
 # Data are released on condition that neither the NRCS nor the United States Government 
 # may be held liable for any damages resulting from its use. 
 # 
-# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/!ut/p/
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
 # 
-# Support Contact: usdafpacbc@midatl.service-now.com
+# Support Contact: usdafpacbc@servicenowservices.com
 # 
 #------------------------------------------------------------------------------------------------------
 # 
@@ -49,7 +49,7 @@
 # Wyoming  RESERVOIR Site - 7305 ft
 # Reporting Frequency: Monthly; Date Range: Period of Record
 #
-# As of: May 16, 2019 3:54:02 PM GMT-08:00
+# As of: Jun 14, 2021 2:57:53 PM GMT-08:00
 #
 Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
 ,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
@@ -61,11 +61,13 @@ Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
 2009,15320,15633,16044,17178,16384,22433,22433,21514,15147,12759,11632,11762
 2010,11573,11384,11224,11370,12981,20443,22433,20530,15950,13540,12871,12455
 2011,12424,12156,11851,11617,9861,21011,22433,21995,16081,14832,14450,13715
-2012,12504,11835,11850,13700,16200,17500,,,,,6400,6600
+2012,12504,11835,11850,13700,16200,17500,15970,11150,7375,6445,6400,6600
 2013,6800,7100,7300,8100,9800,12400,12200,9500,6500,6500,6600,22500
 2014,6900,7100,7200,8000,12100,20400,20800,18300,14049,13700,13700,13700
 2015,13700,13900,14100,15000,16402,21000,21900,19200,12400,10900,10700,10800
 2016,10800,10800,11000,11600,17100,22500,22300,19500,12800,11100,11100,11400
 2017,11600,12000,12300,15500,20900,22700,22400,20100,13200,13800,10400,10600
 2018,10600,10800,10900,11700,13700,16000,15600,12100,6800,6400,6300,6300
-2019,6400,6600,6800,7300,,,,,,,,
+2019,6400,6600,6800,7300,13875,22920,23685,21950,15130,12645,12360,12535
+2020,12820,13170,13475,14327,17440,22760,22450,19810,10245,8523,8320,8380
+2021,8500,8655,8858,9516,11311,13954,,,,,,

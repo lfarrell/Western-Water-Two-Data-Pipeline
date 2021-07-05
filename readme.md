@@ -22,7 +22,7 @@ From the `reservoir_data/scripts` run the following
 
 ### Drought Data (US Drought Monitor)
 
-1. Download data for states and counties from [https://droughtmonitor.unl.edu/Data/DataDownload/ComprehensiveStatistics.aspx](https://droughtmonitor.unl.edu/Data/DataDownload/ComprehensiveStatistics.aspx)
+1. Download data for states and counties from [https://droughtmonitor.unl.edu/DmData/DataDownload/ComprehensiveStatistics.aspx](https://droughtmonitor.unl.edu/DmData/DataDownload/ComprehensiveStatistics.aspx)
 2. Run `sh process_all.sh` from the `drought_data/scripts directory`
 
 ### Palmer Data (NOAA)

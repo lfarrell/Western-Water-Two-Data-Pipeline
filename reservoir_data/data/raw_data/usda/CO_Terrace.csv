@@ -5,9 +5,9 @@
 # Data are released on condition that neither the NRCS nor the United States Government 
 # may be held liable for any damages resulting from its use. 
 # 
-# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/!ut/p/
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
 # 
-# Support Contact: usdafpacbc@midatl.service-now.com
+# Support Contact: usdafpacbc@servicenowservices.com
 # 
 #------------------------------------------------------------------------------------------------------
 # 
@@ -49,7 +49,7 @@
 # Colorado  RESERVOIR Site - 8550 ft
 # Reporting Frequency: Monthly; Date Range: Period of Record
 #
-# As of: May 16, 2019 3:55:02 PM GMT-08:00
+# As of: Jun 14, 2021 2:59:25 PM GMT-08:00
 #
 Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
 ,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
@@ -118,6 +118,8 @@ Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
 2014,4083,4824,5519,6575,6784,7599,6323,4780,3106,2299,2067,3031
 2015,3790,4483,5087,6793,6844,6903,6892,5731,3708,2817,2430,2995
 2016,3919,4727,5595,7327,7572,8147,7203,4985,3397,2944,2484,3042
-2017,3953,4911,5843,9720,10385,11571,9944,7294,6008,4553,5045,6378
+2017,3953,4911,5843,9720,10385,11571,9944,7294,5974,4553,5045,6378
 2018,7496,8275,8950,9956,10591,9693,7491,5052,3112,2444,2417,2849
-2019,3424,4014,4636,5481,6152,,,,,,,
+2019,3424,4014,4636,5481,6152,6160,14671,12238,9759,7868,6121,6417
+2020,7112,7731,8251,8975,9063,8415,6318,4163,2923,2558,2541,3516
+2021,4304,5071,5708,6627,7439,8138,,,,,,

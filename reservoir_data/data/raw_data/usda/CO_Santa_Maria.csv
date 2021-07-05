@@ -5,9 +5,9 @@
 # Data are released on condition that neither the NRCS nor the United States Government 
 # may be held liable for any damages resulting from its use. 
 # 
-# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/!ut/p/
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
 # 
-# Support Contact: usdafpacbc@midatl.service-now.com
+# Support Contact: usdafpacbc@servicenowservices.com
 # 
 #------------------------------------------------------------------------------------------------------
 # 
@@ -49,7 +49,7 @@
 # Colorado  RESERVOIR Site - 9500 ft
 # Reporting Frequency: Monthly; Date Range: Period of Record
 #
-# As of: May 16, 2019 3:54:56 PM GMT-08:00
+# As of: Jun 14, 2021 2:59:19 PM GMT-08:00
 #
 Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
 ,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
@@ -121,6 +121,8 @@ Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
 2014,8000,8400,8900,9200,7000,15600,14200,13800,13500,13200,13000,13800
 2015,14300,14700,15000,15800,16000,24800,19400,19700,19600,19331,18999,19167
 2016,19370,19481,19593,19675,18674,15870,8895,7998,7998,7927,15136,15803
-2017,16126,16493,16730,17248,17476,17387,13279,10615,9341,14883,18725,18879
+2017,16126,16493,16730,17248,17476,17387,13279,10615,9341,14883,18724,18879
 2018,18859,18868,18982,19119,20041,21363,21301,21208,21033,20900,24881,24473
-2019,24085,23822,23675,23684,19588,,,,,,,
+2019,24085,23822,23675,23684,19588,21030,24643,14209,13430,21224,21287,21371
+2020,21506,21572,21638,21751,19140,16122,13698,13663,13688,13532,12916,13342
+2021,13576,13779,13969,14185,13048,12987,,,,,,

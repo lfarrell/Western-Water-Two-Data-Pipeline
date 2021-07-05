@@ -5,9 +5,9 @@
 # Data are released on condition that neither the NRCS nor the United States Government 
 # may be held liable for any damages resulting from its use. 
 # 
-# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/!ut/p/
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
 # 
-# Support Contact: usdafpacbc@midatl.service-now.com
+# Support Contact: usdafpacbc@servicenowservices.com
 # 
 #------------------------------------------------------------------------------------------------------
 # 
@@ -49,7 +49,7 @@
 # Idaho  RESERVOIR Site - 1599 ft
 # Reporting Frequency: Monthly; Date Range: Period of Record
 #
-# As of: May 16, 2019 3:52:25 PM GMT-08:00
+# As of: Jun 14, 2021 2:54:57 PM GMT-08:00
 #
 Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
 ,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values,Reservoir Storage Volume (ac_ft) Start of Month Values
@@ -97,8 +97,10 @@ Year,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
 2012,2256000,2289000,2361000,2305000,2398000,3077000,3468000,3022000,2433000,2221000,2237000,2334000
 2013,2565000,2510000,2582000,2812000,2869000,3391000,3461000,2909000,2429000,2245000,2220000,2242000
 2014,2298000,2335000,2364000,2117000,1890000,2869000,3463000,2990000,2526000,2230000,2201000,2272000
-2015,2430000,2599000,2875000,3212000,3216000,3413000,3274000,2770000,2415000,2215000,2173000,2187000
+2015,2430000,2599000,2875000,3212000,3216000,3422000,3274000,2770000,2415000,2215000,2173000,2187000
 2016,2273000,2345000,2671000,2918000,2896000,3331000,3418000,2920000,2425000,2230000,2310000,2440000
 2017,2470000,2297000,2285000,2335000,2302000,3087000,3457000,2975000,2470000,2225000,2221000,2318000
-2018,2246000,2357000,2064000,1553000,1896000,3127000,3468000,2955000,2434000,2227000,2186000,2239145
-2019,2255000,2267675,2295000,2388000,2924000,,,,,,,
+2018,2246000,2357000,2064000,1553000,1896000,3127000,3468000,2955000,2434000,2227000,2186000,2238000
+2019,2255000,2266000,2293000,2387000,2921000,3388000,3460000,2990000,2488000,2240000,2228000,2223000
+2020,2178000,2203000,2272000,2338000,2585000,3231000,3460000,3037000,2504000,2240000,2240000,2293000
+2021,2340000,2393000,2413000,2072000,2276000,3034687,,,,,,
